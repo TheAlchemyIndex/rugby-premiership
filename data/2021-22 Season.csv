@@ -1,0 +1,160 @@
+﻿date,time,team1Name,team1Score,team2Name,team2Score,venue,referee,totalScore,winner,extraTime,month,year,season
+17/Sep/2021,19:45,Bristol,9,Saracens,26,Ashton Gate,Wayne Barnes,35,A,N,Sep,2021,2021-22
+18/Sep/2021,15:00,Leicester Tigers,34,Exeter Chiefs,19,Mattioli Woods Welford Road,Ian Tempest,53,H,N,Sep,2021,2021-22
+18/Sep/2021,15:00,Northampton Saints,34,Gloucester,20,cinch Stadium at Franklin's Gardens,Karl Dickson,54,H,N,Sep,2021,2021-22
+18/Sep/2021,15:00,Worcester Warriors,36,London Irish,24,Sixways,Craig Maxwell-Keys,60,H,N,Sep,2021,2021-22
+18/Sep/2021,17:00,Sale Sharks,20,Bath,19,AJ Bell Stadium,Christophe Ridley,39,H,N,Sep,2021,2021-22
+19/Sep/2021,15:00,Newcastle Falcons,20,Harlequins,26,Kingston Park,Tom Foley,46,A,N,Sep,2021,2021-22
+24/Sep/2021,19:45,Gloucester,26,Leicester Tigers,33,Kingsholm,Tom Foley,59,A,N,Sep,2021,2021-22
+25/Sep/2021,15:00,Bath,13,Newcastle Falcons,20,Recreation Ground,Craig Maxwell-Keys,33,A,N,Sep,2021,2021-22
+25/Sep/2021,15:00,Exeter Chiefs,24,Northampton Saints,26,Sandy Park,Christophe Ridley,50,A,N,Sep,2021,2021-22
+25/Sep/2021,15:00,Harlequins,35,Worcester Warriors,29,Twickenham Stoop,Sara Cox,64,H,N,Sep,2021,2021-22
+25/Sep/2021,15:00,Wasps,44,Bristol,8,Coventry Building Society Arena,Karl Dickson,52,H,N,Sep,2021,2021-22
+26/Sep/2021,15:00,London Irish,31,Sale Sharks,31,Brentford Community Stadium,Wayne Barnes,62,D,N,Sep,2021,2021-22
+01/Oct/2021,19:45,Bristol,25,Bath,20,Ashton Gate,Ian Tempest,45,H,N,Oct,2021,2021-22
+02/Oct/2021,14:00,Northampton Saints,23,London Irish,21,cinch Stadium at Franklin's Gardens,Tom Foley,44,H,N,Oct,2021,2021-22
+02/Oct/2021,15:00,Leicester Tigers,13,Saracens,12,Mattioli Woods Welford Road,Christophe Ridley,25,H,N,Oct,2021,2021-22
+02/Oct/2021,15:00,Newcastle Falcons,18,Wasps,14,Kingston Park,Anthony Woodthorpe,32,H,N,Oct,2021,2021-22
+02/Oct/2021,15:00,Worcester Warriors,23,Gloucester,31,Sixways,Andrew Jackson,54,A,N,Oct,2021,2021-22
+03/Oct/2021,15:00,Sale Sharks,15,Exeter Chiefs,25,AJ Bell Stadium,Craig Maxwell-Keys,40,A,N,Oct,2021,2021-22
+08/Oct/2021,19:45,Harlequins,52,Bristol,24,Twickenham Stoop,Wayne Barnes,76,H,N,Oct,2021,2021-22
+09/Oct/2021,15:00,Exeter Chiefs,42,Worcester Warriors,5,Sandy Park,Tom Foley,47,H,N,Oct,2021,2021-22
+09/Oct/2021,15:00,Gloucester,33,Sale Sharks,32,Kingsholm,Christophe Ridley,65,H,N,Oct,2021,2021-22
+09/Oct/2021,15:00,London Irish,16,Leicester Tigers,21,Brentford Community Stadium,Adam Leal,37,A,N,Oct,2021,2021-22
+09/Oct/2021,15:00,Saracens,37,Newcastle Falcons,23,StoneX Stadium,Ian Tempest,60,H,N,Oct,2021,2021-22
+10/Oct/2021,15:00,Wasps,26,Northampton Saints,20,Coventry Building Society Arena,Craig Maxwell-Keys,46,H,N,Oct,2021,2021-22
+15/Oct/2021,19:45,Sale Sharks,28,Harlequins,22,AJ Bell Stadium,Tom Foley,50,H,N,Oct,2021,2021-22
+16/Oct/2021,15:00,Newcastle Falcons,13,Bristol,5,Kingston Park,Christophe Ridley,18,H,N,Oct,2021,2021-22
+16/Oct/2021,15:00,Wasps,23,Exeter Chiefs,27,Coventry Building Society Arena,Wayne Barnes,50,A,N,Oct,2021,2021-22
+16/Oct/2021,15:00,Worcester Warriors,3,Leicester Tigers,48,Sixways,Luke Pearce,51,A,N,Oct,2021,2021-22
+17/Oct/2021,15:00,Bath,17,Saracens,71,Recreation Ground,Jack Makepeace,88,A,N,Oct,2021,2021-22
+17/Oct/2021,15:00,London Irish,25,Gloucester,25,Brentford Community Stadium,Karl Dickson,50,D,N,Oct,2021,2021-22
+22/Oct/2021,19:45,Northampton Saints,66,Worcester Warriors,10,cinch Stadium at Franklin's Gardens,Ian Tempest,76,H,N,Oct,2021,2021-22
+23/Oct/2021,15:00,Exeter Chiefs,21,London Irish,33,Sandy Park,Hamish Smales,54,A,N,Oct,2021,2021-22
+23/Oct/2021,15:00,Gloucester,29,Newcastle Falcons,20,Kingsholm,Wayne Barnes,49,H,N,Oct,2021,2021-22
+23/Oct/2021,15:00,Harlequins,31,Bath,17,Twickenham Stoop,Luke Pearce,48,H,N,Oct,2021,2021-22
+23/Oct/2021,15:00,Leicester Tigers,19,Sale Sharks,11,Mattioli Woods Welford Road,Karl Dickson,30,H,N,Oct,2021,2021-22
+24/Oct/2021,15:00,Saracens,56,Wasps,15,StoneX Stadium,Matthew Carley,71,H,N,Oct,2021,2021-22
+29/Oct/2021,19:45,Gloucester,13,Exeter Chiefs,16,Kingsholm,Christophe Ridley,29,A,N,Oct,2021,2021-22
+30/Oct/2021,15:00,Bath,17,Wasps,27,Recreation Ground,Ian Tempest,44,A,N,Oct,2021,2021-22
+30/Oct/2021,15:00,London Irish,33,Bristol,45,Brentford Community Stadium,Matthew Carley,78,A,N,Oct,2021,2021-22
+30/Oct/2021,15:00,Northampton Saints,26,Leicester Tigers,55,cinch Stadium at Franklin's Gardens,Tom Foley,81,A,N,Oct,2021,2021-22
+30/Oct/2021,15:00,Worcester Warriors,27,Sale Sharks,14,Sixways,Luke Pearce,41,H,N,Oct,2021,2021-22
+31/Oct/2021,15:00,Harlequins,22,Saracens,29,Twickenham Stoop,Craig Maxwell-Keys,51,A,N,Oct,2021,2021-22
+05/Nov/2021,19:45,Leicester Tigers,40,Bath,23,Mattioli Woods Welford Road,Matthew Carley,63,H,N,Nov,2021,2021-22
+06/Nov/2021,15:00,Bristol,27,Worcester Warriors,5,Ashton Gate,Craig Maxwell-Keys,32,H,N,Nov,2021,2021-22
+06/Nov/2021,15:00,Saracens,34,London Irish,34,StoneX Stadium,Ian Tempest,68,D,N,Nov,2021,2021-22
+06/Nov/2021,17:00,Sale Sharks,30,Northampton Saints,6,AJ Bell Stadium,Anthony Woodthorpe,36,H,N,Nov,2021,2021-22
+06/Nov/2021,17:30,Exeter Chiefs,14,Newcastle Falcons,15,Sandy Park,Andrew Jackson,29,A,N,Nov,2021,2021-22
+07/Nov/2021,16:30,Wasps,16,Harlequins,26,Coventry Building Society Arena,Wayne Barnes,42,A,N,Nov,2021,2021-22
+26/Nov/2021,19:45,Bath,16,Exeter Chiefs,23,Recreation Ground,Matthew Carley,39,A,N,Nov,2021,2021-22
+26/Nov/2021,19:45,Bristol,20,Northampton Saints,36,Ashton Gate,Karl Dickson,56,A,N,Nov,2021,2021-22
+26/Nov/2021,19:45,Wasps,33,Gloucester,35,Coventry Building Society Arena,Luke Pearce,68,A,N,Nov,2021,2021-22
+27/Nov/2021,15:00,Harlequins,19,London Irish,22,Twickenham Stoop,Christophe Ridley,41,A,N,Nov,2021,2021-22
+27/Nov/2021,18:00,Newcastle Falcons,24,Worcester Warriors,24,Kingston Park,Wayne Barnes,48,D,N,Nov,2021,2021-22
+28/Nov/2021,15:00,Saracens,25,Sale Sharks,14,StoneX Stadium,Tom Foley,39,H,N,Nov,2021,2021-22
+03/Dec/2021,19:45,Gloucester,27,Bristol,10,Kingsholm,Christophe Ridley,37,H,N,Dec,2021,2021-22
+04/Dec/2021,15:00,Exeter Chiefs,18,Saracens,15,Sandy Park,Luke Pearce,33,H,N,Dec,2021,2021-22
+04/Dec/2021,15:00,London Irish,43,Newcastle Falcons,21,Brentford Community Stadium,Craig Maxwell-Keys,64,H,N,Dec,2021,2021-22
+04/Dec/2021,15:00,Northampton Saints,40,Bath,19,cinch Stadium at Franklin's Gardens,Karl Dickson,59,H,N,Dec,2021,2021-22
+04/Dec/2021,15:00,Worcester Warriors,32,Wasps,31,Sixways,Tom Foley,63,H,N,Dec,2021,2021-22
+05/Dec/2021,15:00,Leicester Tigers,16,Harlequins,14,Mattioli Woods Welford Road,Ian Tempest,30,H,N,Dec,2021,2021-22
+26/Dec/2021,14:00,Bristol,26,Leicester Tigers,28,Ashton Gate,Tom Foley,54,A,N,Dec,2021,2021-22
+26/Dec/2021,15:00,Newcastle Falcons,Cancelled,Sale Sharks,Cancelled,Kingston Park,N/A,N/A,N/A,N,Dec,2021,2021-22
+26/Dec/2021,15:00,Saracens,61,Worcester Warriors,29,StoneX Stadium,Christophe Ridley,90,H,N,Dec,2021,2021-22
+26/Dec/2021,15:00,Wasps,38,London Irish,30,Coventry Building Society Arena,Craig Maxwell-Keys,68,H,N,Dec,2021,2021-22
+26/Dec/2021,16:30,Bath,20,Gloucester,40,Recreation Ground,Matthew Carley,60,A,N,Dec,2021,2021-22
+27/Dec/2021,17:00,Harlequins,41,Northampton Saints,27,Twickenham,Wayne Barnes,68,H,N,Dec,2021,2021-22
+01/Jan/2022,14:00,Sale Sharks,26,Wasps,18,AJ Bell Stadium,Ian Tempest,44,H,N,Jan,2022,2021-22
+01/Jan/2022,16:30,Exeter Chiefs,19,Bristol,13,Sandy Park,Luke Pearce,32,H,N,Jan,2022,2021-22
+02/Jan/2022,15:00,Gloucester,17,Harlequins,20,Kingsholm,Tom Foley,37,A,N,Jan,2022,2021-22
+02/Jan/2022,15:00,Leicester Tigers,31,Newcastle Falcons,0,Mattioli Woods Welford Road,Jack Makepeace,31,H,N,Jan,2022,2021-22
+02/Jan/2022,15:00,Northampton Saints,6,Saracens,30,cinch Stadium at Franklin's Gardens,Adam Leal,36,A,N,Jan,2022,2021-22
+03/Jan/2022,15:00,London Irish,Cancelled,Bath,Cancelled,Brentford Community Stadium,N/A,N/A,N/A,N,Jan,2022,2021-22
+07/Jan/2022,19:45,Bristol,32,Sale Sharks,15,Ashton Gate,Wayne Barnes,47,H,N,Jan,2022,2021-22
+08/Jan/2022,15:00,Harlequins,14,Exeter Chiefs,12,Twickenham Stoop,Ian Tempest,26,H,N,Jan,2022,2021-22
+08/Jan/2022,15:00,Newcastle Falcons,8,Northampton Saints,44,Kingston Park,Matthew Carley,52,A,N,Jan,2022,2021-22
+08/Jan/2022,15:00,Saracens,24,Gloucester,25,StoneX Stadium,Karl Dickson,49,A,N,Jan,2022,2021-22
+09/Jan/2022,15:00,Bath,22,Worcester Warriors,19,Recreation Ground,Craig Maxwell-Keys,41,H,N,Jan,2022,2021-22
+09/Jan/2022,15:00,Wasps,16,Leicester Tigers,13,Coventry Building Society Arena,Tom Foley,29,H,N,Jan,2022,2021-22
+28/Jan/2022,19:45,Bath,21,Harlequins,17,Recreation Ground,Tom Foley,38,H,N,Jan,2022,2021-22
+29/Jan/2022,15:00,London Irish,18,Exeter Chiefs,14,Brentford Community Stadium,Matthew Carley,32,H,N,Jan,2022,2021-22
+29/Jan/2022,15:00,Worcester Warriors,13,Northampton Saints,29,Sixways,Ian Tempest,42,A,N,Jan,2022,2021-22
+29/Jan/2022,19:00,Newcastle Falcons,22,Gloucester,32,Kingston Park,Jack Makepeace,54,A,N,Jan,2022,2021-22
+30/Jan/2022,15:00,Sale Sharks,35,Leicester Tigers,26,AJ Bell Stadium,Craig Maxwell-Keys,61,H,N,Jan,2022,2021-22
+30/Jan/2022,15:00,Wasps,26,Saracens,20,Coventry Building Society Arena,Karl Dickson,46,H,N,Jan,2022,2021-22
+04/Feb/2022,19:45,Gloucester,24,London Irish,7,Kingsholm,Karl Dickson,31,H,N,Feb,2022,2021-22
+05/Feb/2022,14:00,Bristol,37,Newcastle Falcons,21,Ashton Gate,Matthew Carley,58,H,N,Feb,2022,2021-22
+05/Feb/2022,14:30,Exeter Chiefs,26,Wasps,27,Sandy Park,Wayne Barnes,53,A,N,Feb,2022,2021-22
+05/Feb/2022,15:00,Leicester Tigers,36,Worcester Warriors,16,Mattioli Woods Welford Road,Luke Pearce,52,H,N,Feb,2022,2021-22
+05/Feb/2022,15:00,Saracens,40,Bath,3,StoneX Stadium,Sara Cox,43,H,N,Feb,2022,2021-22
+06/Feb/2022,13:00,Harlequins,14,Sale Sharks,36,Twickenham Stoop,Ian Tempest,50,A,N,Feb,2022,2021-22
+11/Feb/2022,19:45,Bristol,32,London Irish,49,Ashton Gate,Christophe Ridley,81,A,N,Feb,2022,2021-22
+11/Feb/2022,19:45,Leicester Tigers,35,Northampton Saints,20,Mattioli Woods Welford Road,Matthew Carley,55,H,N,Feb,2022,2021-22
+12/Feb/2022,15:00,Exeter Chiefs,24,Gloucester,15,Sandy Park,Tom Foley,39,H,N,Feb,2022,2021-22
+12/Feb/2022,15:00,Sale Sharks,36,Worcester Warriors,12,AJ Bell Stadium,Karl Dickson,48,H,N,Feb,2022,2021-22
+12/Feb/2022,15:00,Wasps,41,Bath,24,Coventry Building Society Arena,"9,139",65,H,N,Feb,2022,2021-22
+13/Feb/2022,13:00,Saracens,19,Harlequins,10,StoneX Stadium,Luke Pearce,29,H,N,Feb,2022,2021-22
+18/Feb/2022,19:45,Worcester Warriors,19,Bristol,14,Sixways,Wayne Barnes,33,H,N,Feb,2022,2021-22
+19/Feb/2022,15:00,Bath,20,Leicester Tigers,24,Recreation Ground,Karl Dickson,44,A,N,Feb,2022,2021-22
+19/Feb/2022,15:00,Harlequins,29,Wasps,24,Twickenham Stoop,Craig Maxwell-Keys,53,H,N,Feb,2022,2021-22
+19/Feb/2022,15:00,London Irish,32,Saracens,30,Brentford Community Stadium,Hamish Smales,62,H,N,Feb,2022,2021-22
+19/Feb/2022,15:00,Northampton Saints,21,Sale Sharks,22,cinch Stadium at Franklin's Gardens,Tom Foley,43,A,N,Feb,2022,2021-22
+20/Feb/2022,15:00,Newcastle Falcons,14,Exeter Chiefs,15,Kingston Park,Christophe Ridley,29,A,N,Feb,2022,2021-22
+25/Feb/2022,19:45,Bristol,31,Wasps,19,Ashton Gate,Matthew Carley,50,H,N,Feb,2022,2021-22
+25/Feb/2022,19:45,Sale Sharks,27,London Irish,27,AJ Bell Stadium,Andrew Jackson,54,D,N,Feb,2022,2021-22
+25/Feb/2022,19:45,Worcester Warriors,21,Harlequins,29,Sixways,Christophe Ridley,50,A,N,Feb,2022,2021-22
+26/Feb/2022,15:00,Leicester Tigers,35,Gloucester,23,Mattioli Woods Welford Road,Jack Makepeace,58,H,N,Feb,2022,2021-22
+26/Feb/2022,15:00,Newcastle Falcons,25,Bath,30,Kingston Park,Adam Leal,55,A,N,Feb,2022,2021-22
+27/Feb/2022,13:00,Northampton Saints,31,Exeter Chiefs,34,cinch Stadium at Franklin's Gardens,George Selwood,65,A,N,Feb,2022,2021-22
+04/Mar/2022,19:45,Harlequins,24,Newcastle Falcons,10,Twickenham Stoop,Karl Dickson,34,H,N,Mar,2022,2021-22
+05/Mar/2022,15:00,Bath,29,Bristol,27,Recreation Ground,Luke Pearce,56,H,N,Mar,2022,2021-22
+05/Mar/2022,15:00,Gloucester,35,Northampton Saints,30,Kingsholm,Ian Tempest,65,H,N,Mar,2022,2021-22
+05/Mar/2022,15:00,London Irish,43,Worcester Warriors,12,Brentford Community Stadium,Jack Makepeace,55,H,N,Mar,2022,2021-22
+05/Mar/2022,15:00,Saracens,34,Leicester Tigers,27,StoneX Stadium,Craig Maxwell-Keys,61,H,N,Mar,2022,2021-22
+06/Mar/2022,15:00,Exeter Chiefs,19,Sale Sharks,12,Sandy Park,Wayne Barnes,31,H,N,Mar,2022,2021-22
+12/Mar/2022,14:30,Worcester Warriors,35,Exeter Chiefs,31,Sixways,Anthony Woodthorpe,66,H,N,Mar,2022,2021-22
+12/Mar/2022,15:00,Leicester Tigers,47,London Irish,28,Mattioli Woods Welford Road,Karl Dickson,75,H,N,Mar,2022,2021-22
+12/Mar/2022,15:00,Newcastle Falcons,21,Saracens,36,Kingston Park,Ian Tempest,57,A,N,Mar,2022,2021-22
+12/Mar/2022,15:00,Sale Sharks,26,Gloucester,24,AJ Bell Stadium,Christophe Ridley,50,H,N,Mar,2022,2021-22
+13/Mar/2022,15:00,Bristol,29,Harlequins,38,Ashton Gate,Craig Maxwell-Keys,67,A,N,Mar,2022,2021-22
+13/Mar/2022,15:00,Northampton Saints,27,Wasps,22,cinch Stadium at Franklin's Gardens,Wayne Barnes,49,H,N,Mar,2022,2021-22
+25/Mar/2022,19:45,Gloucester,Cancelled,Worcester Warriors,Cancelled,Kingsholm,N/A,N/A,N/A,N,Mar,2022,2021-22
+26/Mar/2022,15:00,Bath,24,Sale Sharks,24,Recreation Ground,Hamish Smales,48,D,N,Mar,2022,2021-22
+26/Mar/2022,15:00,London Irish,22,Northampton Saints,42,Brentford Community Stadium,Wayne Barnes,64,A,N,Mar,2022,2021-22
+26/Mar/2022,15:00,Wasps,27,Newcastle Falcons,24,Coventry Building Society Arena,Andrew Jackson,51,H,N,Mar,2022,2021-22
+26/Mar/2022,15:00,Saracens,27,Bristol,23,Tottenham Hotspur Stadium,Christophe Ridley,50,H,N,Mar,2022,2021-22
+27/Mar/2022,15:00,Exeter Chiefs,17,Leicester Tigers,22,Sandy Park,Luke Pearce,39,A,N,Mar,2022,2021-22
+01/Apr/2022,19:45,Sale Sharks,12,Saracens,18,AJ Bell Stadium,Luke Pearce,30,A,N,Apr,2022,2021-22
+02/Apr/2022,15:00,Exeter Chiefs,42,Bath,22,Sandy Park,Wayne Barnes,64,H,N,Apr,2022,2021-22
+02/Apr/2022,15:00,Gloucester,21,Wasps,27,Kingsholm,Matthew Carley,48,A,N,Apr,2022,2021-22
+02/Apr/2022,15:00,Northampton Saints,39,Bristol,22,cinch Stadium at Franklin's Gardens,Karl Dickson,61,H,N,Apr,2022,2021-22
+02/Apr/2022,15:00,Worcester Warriors,10,Newcastle Falcons,45,Sixways,Adam Leal,55,A,N,Apr,2022,2021-22
+03/Apr/2022,15:00,London Irish,14,Harlequins,41,Brentford Community Stadium,Mathieu Raynal,55,A,N,Apr,2022,2021-22
+22/Apr/2022,19:45,Bristol,29,Gloucester,28,Ashton Gate,Ian Tempest,57,H,N,Apr,2022,2021-22
+22/Apr/2022,19:45,Newcastle Falcons,14,London Irish,42,Kingston Park,Karl Dickson,56,A,N,Apr,2022,2021-22
+23/Apr/2022,15:00,Bath,31,Northampton Saints,36,Recreation Ground,Luke Pearce,67,A,N,Apr,2022,2021-22
+23/Apr/2022,15:00,Harlequins,26,Leicester Tigers,20,Twickenham Stoop,Wayne Barnes,46,H,N,Apr,2022,2021-22
+23/Apr/2022,15:00,Wasps,41,Worcester Warriors,12,Coventry Building Society Arena,Andrew Jackson,53,H,N,Apr,2022,2021-22
+24/Apr/2022,15:00,Saracens,38,Exeter Chiefs,22,StoneX Stadium,Craig Maxwell-Keys,60,H,N,Apr,2022,2021-22
+29/Apr/2022,19:45,Northampton Saints,32,Harlequins,31,cinch Stadium at Franklin's Gardens,Matthew Carley,63,H,N,Apr,2022,2021-22
+29/Apr/2022,19:45,Sale Sharks,35,Newcastle Falcons,27,AJ Bell Stadium,Jack Makepeace,62,H,N,Apr,2022,2021-22
+30/Apr/2022,15:00,Gloucester,64,Bath,0,Kingsholm,Christophe Ridley,64,H,N,Apr,2022,2021-22
+30/Apr/2022,15:00,Leicester Tigers,56,Bristol,26,Mattioli Woods Welford Road,Karl Dickson,82,H,N,Apr,2022,2021-22
+30/Apr/2022,15:00,Worcester Warriors,16,Saracens,38,Sixways,Anthony Woodthorpe,54,A,N,Apr,2022,2021-22
+01/May/2022,15:00,London Irish,42,Wasps,42,Brentford Community Stadium,Craig Maxwell-Keys,84,D,N,May,2022,2021-22
+20/May/2022,19:45,Bristol,40,Exeter Chiefs,33,Ashton Gate,Luke Pearce,73,H,N,May,2022,2021-22
+20/May/2022,19:45,Wasps,7,Sale Sharks,16,Coventry Building Society Arena,Ian Tempest,23,A,N,May,2022,2021-22
+21/May/2022,15:00,Bath,27,London Irish,24,Recreation Ground,Christophe Ridley,51,H,N,May,2022,2021-22
+21/May/2022,15:00,Harlequins,28,Gloucester,24,Twickenham,Craig Maxwell-Keys,52,H,N,May,2022,2021-22
+21/May/2022,15:00,Newcastle Falcons,5,Leicester Tigers,27,Kingston Park,Anthony Woodthorpe,32,A,N,May,2022,2021-22
+21/May/2022,17:30,Saracens,42,Northampton Saints,38,StoneX Stadium,Matthew Carley,80,H,N,May,2022,2021-22
+04/Jun/2022,15:00,Exeter Chiefs,47,Harlequins,38,Sandy Park,Ian Tempest,85,H,N,Jun,2022,2021-22
+04/Jun/2022,15:00,Gloucester,54,Saracens,7,Kingsholm,Wayne Barnes,61,H,N,Jun,2022,2021-22
+04/Jun/2022,15:00,Leicester Tigers,20,Wasps,10,Mattioli Woods Welford Road,Craig Maxwell-Keys,30,H,N,Jun,2022,2021-22
+04/Jun/2022,15:00,Northampton Saints,65,Newcastle Falcons,26,cinch Stadium at Franklin's Gardens,Karl Dickson,91,H,N,Jun,2022,2021-22
+04/Jun/2022,15:00,Sale Sharks,42,Bristol,19,AJ Bell Stadium,Adam Leal,61,H,N,Jun,2022,2021-22
+04/Jun/2022,15:00,Worcester Warriors,43,Bath,27,Sixways,Anthony Woodthorpe,70,H,N,Jun,2022,2021-22
+11/Jun/2022,13:30,Saracens,34,Harlequins,17,StoneX Stadium,Luke Pearce,51,H,N,Jun,2022,2021-22
+11/Jun/2022,16:30,Leicester Tigers,27,Northampton Saints,14,Mattioli Woods Welford Road,Matthew Carley,41,H,N,Jun,2022,2021-22
+18/Jun/2022,15:00,Leicester Tigers,15,Saracens,12,Twickenham,Wayne Barnes,27,H,N,Jun,2022,2021-22
