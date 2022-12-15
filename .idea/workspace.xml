@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ed7c627f-9ef8-46c2-ad7c-0a46a0b1a0cd" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/rugby-premiership.iml" beforeDir="false" afterPath="$PROJECT_DIR$/rugby-premiership.iml" afterDir="false" />
-    </list>
+    <list default="true" id="ed7c627f-9ef8-46c2-ad7c-0a46a0b1a0cd" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -53,11 +49,11 @@
       <recent name="C:\repos\rugby-premiership\predictor" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\repos\rugby-premiership\scraper" />
+      <recent name="C:\repos\rugby-premiership\predictor" />
+      <recent name="C:\repos\rugby-premiership\predictor\filters\calculators" />
+      <recent name="C:\repos\rugby-premiership\predictor\filters" />
       <recent name="C:\repos\rugby-premiership" />
-      <recent name="C:\repos\rugby-results-predictor\scraper\results" />
-      <recent name="C:\repos\rugby-results-predictor\scraper" />
-      <recent name="C:\repos\rugby-results-predictor\writers" />
-      <recent name="C:\repos\rugby-results-predictor\scraper\html" />
     </key>
   </component>
   <component name="RunManager">
