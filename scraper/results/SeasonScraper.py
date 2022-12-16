@@ -1,7 +1,7 @@
-from scraper.html.HtmlParser import parse
+from scraper.pagehtml.HtmlParser import parse
 from scraper.formatters.TeamNameFormatter import team_name_formatter
 from scraper.formatters.ScoreFormatter import score_formatter
-from scraper.html.TagExtractor import tag_extractor
+from scraper.pagehtml.TagExtractor import tag_extractor
 from scraper.formatters.DateFormatter import date_formatter
 from scraper.formatters.MatchDetailsFormatter import match_details_formatter
 

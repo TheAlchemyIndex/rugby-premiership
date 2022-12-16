@@ -10,14 +10,14 @@
 09/Sep/2017,15:00,Exeter Chiefs,37,London Irish,7,Sandy Park,Craig Maxwell-Keys,44,H,N,Sep,2017,2017-18
 09/Sep/2017,15:00,Harlequins,28,Gloucester,17,Twickenham Stoop,Luke Pearce,45,H,N,Sep,2017,2017-18
 09/Sep/2017,16:30,Northampton Saints,24,Leicester Tigers,11,Franklin's Gardens,JP Doyle,35,H,N,Sep,2017,2017-18
-10/Sep/2017,15:00,Worcester Warriors,10,Wasps,24,Sixways Stadium,Tom Foley,34,A,N,Sep,2017,2017-18
+10/Sep/2017,15:00,Worcester Warriors,10,Wasps,24,Sixways,Tom Foley,34,A,N,Sep,2017,2017-18
 15/Sep/2017,19:45,Northampton Saints,24,Bath,6,Franklin's Gardens,Tom Foley,30,H,N,Sep,2017,2017-18
 15/Sep/2017,19:45,Worcester Warriors,10,Exeter Chiefs,41,Sixways,Ian Tempest,51,A,N,Sep,2017,2017-18
 15/Sep/2017,20:00,Sale Sharks,36,London Irish,7,AJ Bell Stadium,Wayne Barnes,43,H,N,Sep,2017,2017-18
 16/Sep/2017,15:00,Leicester Tigers,24,Gloucester,10,Welford Road,Craig Maxwell-Keys,34,H,N,Sep,2017,2017-18
-16/Sep/2017,17:10,Newcastle Falcons,7,Saracens,29,"Talen Energy Stadium, Philadelphia",JP Doyle,36,A,N,Sep,2017,2017-18
+16/Sep/2017,17:10,Newcastle Falcons,7,Saracens,29,Talen Energy Stadium,JP Doyle,36,A,N,Sep,2017,2017-18
 17/Sep/2017,15:00,Wasps,21,Harlequins,24,Ricoh Arena,Andrew Jackson,45,A,N,Sep,2017,2017-18
-22/Sep/2017,19:45,Gloucester,24,Worcester Warriors,19,Kingsholm Stadium,Wayne Barnes,43,H,N,Sep,2017,2017-18
+22/Sep/2017,19:45,Gloucester,24,Worcester Warriors,19,Kingsholm,Wayne Barnes,43,H,N,Sep,2017,2017-18
 23/Sep/2017,15:00,Bath,32,Newcastle Falcons,33,Recreation Ground,Craig Maxwell-Keys,65,A,N,Sep,2017,2017-18
 23/Sep/2017,15:00,Harlequins,28,Leicester Tigers,31,Twickenham Stoop,Ian Tempest,59,A,N,Sep,2017,2017-18
 23/Sep/2017,15:00,Saracens,41,Sale Sharks,13,Allianz Park,Tom Foley,54,H,N,Sep,2017,2017-18
@@ -69,11 +69,11 @@
 30/Dec/2017,15:00,Gloucester,20,Sale Sharks,16,Kingsholm,Andrew Jackson,36,H,N,Dec,2017,2017-18
 30/Dec/2017,15:00,London Irish,15,Newcastle Falcons,20,Madejski Stadium,Tom Foley,35,A,N,Dec,2017,2017-18
 30/Dec/2017,15:00,Saracens,46,Worcester Warriors,31,Allianz Park,Christophe Ridley,77,H,N,Dec,2017,2017-18
-30/Dec/2017,16:00,Harlequins,50,Northampton Saints,21,Twickenham,JP Doyle,71,H,N,Dec,2017,2017-18
+30/Dec/2017,16:00,Harlequins,50,Northampton Saints,21,Twickenham Stadium,JP Doyle,71,H,N,Dec,2017,2017-18
 31/Dec/2017,15:00,Exeter Chiefs,30,Leicester Tigers,6,Sandy Park,Craig Maxwell-Keys,36,H,N,Dec,2017,2017-18
 05/Jan/2018,19:45,Worcester Warriors,25,Bath,46,Sixways,JP Doyle,71,A,N,Jan,2018,2017-18
 06/Jan/2018,15:00,Leicester Tigers,19,London Irish,15,Welford Road,Karl Dickson,34,H,N,Jan,2018,2017-18
-06/Jan/2018,15:00,Northampton Saints,22,Gloucester,19,Franklin’s Gardens,Ian Tempest,41,H,N,Jan,2018,2017-18
+06/Jan/2018,15:00,Northampton Saints,22,Gloucester,19,Franklin's Gardens,Ian Tempest,41,H,N,Jan,2018,2017-18
 06/Jan/2018,15:00,Sale Sharks,30,Harlequins,29,AJ Bell Stadium,Matthew Carley,59,H,N,Jan,2018,2017-18
 07/Jan/2018,15:00,Newcastle Falcons,28,Exeter Chiefs,20,Kingston Park,Andrew Jackson,48,H,N,Jan,2018,2017-18
 07/Jan/2018,15:00,Wasps,15,Saracens,38,Ricoh Arena,Wayne Barnes,53,A,N,Jan,2018,2017-18
@@ -108,8 +108,8 @@
 24/Mar/2018,17:30,Newcastle Falcons,25,Northampton Saints,22,St James' Park,JP Doyle,47,H,N,Mar,2018,2017-18
 25/Mar/2018,15:00,Leicester Tigers,16,Wasps,15,Welford Road,Luke Pearce,31,H,N,Mar,2018,2017-18
 06/Apr/2018,19:45,Sale Sharks,28,Wasps,27,AJ Bell Stadium,JP Doyle,55,H,N,Apr,2018,2017-18
-07/Apr/2018,14:00,Bath,19,Leicester Tigers,34,Twickenham,Wayne Barnes,53,A,N,Apr,2018,2017-18
-07/Apr/2018,14:00,Northampton Saints,13,Saracens,63,Franklin’s Gardens,Craig Maxwell-Keys,76,A,N,Apr,2018,2017-18
+07/Apr/2018,14:00,Bath,19,Leicester Tigers,34,Twickenham Stadium,Wayne Barnes,53,A,N,Apr,2018,2017-18
+07/Apr/2018,14:00,Northampton Saints,13,Saracens,63,Franklin's Gardens,Craig Maxwell-Keys,76,A,N,Apr,2018,2017-18
 07/Apr/2018,15:00,Harlequins,5,London Irish,35,Twickenham Stoop,Ian Tempest,40,A,N,Apr,2018,2017-18
 07/Apr/2018,15:00,Worcester Warriors,27,Newcastle Falcons,13,Sixways,Christophe Ridley,40,H,N,Apr,2018,2017-18
 08/Apr/2018,15:00,Exeter Chiefs,46,Gloucester,10,Sandy Park,Thomas Foley,56,H,N,Apr,2018,2017-18
@@ -128,7 +128,7 @@
 05/May/2018,16:00,Bath,63,London Irish,19,Recreation Ground,Matthew Carley,82,H,N,May,2018,2017-18
 05/May/2018,16:00,Harlequins,17,Exeter Chiefs,41,Twickenham Stoop,Christophe Ridley,58,A,N,May,2018,2017-18
 05/May/2018,16:00,Newcastle Falcons,22,Wasps,39,Kingston Park,Ian Tempest,61,A,N,May,2018,2017-18
-05/May/2018,16:00,Northampton Saints,32,Worcester Warriors,24,Franklin’s Gardens,Luke Pearce,56,H,N,May,2018,2017-18
+05/May/2018,16:00,Northampton Saints,32,Worcester Warriors,24,Franklin's Gardens,Luke Pearce,56,H,N,May,2018,2017-18
 05/May/2018,16:00,Sale Sharks,13,Leicester Tigers,35,AJ Bell Stadium,Wayne Barnes,48,A,N,May,2018,2017-18
 05/May/2018,16:00,Saracens,62,Gloucester,12,Allianz Park,Craig Maxwell-Keys,74,H,N,May,2018,2017-18
 19/May/2018,12:30,Saracens,57,Wasps,33,Allianz Park,JP Doyle,90,H,N,May,2018,2017-18

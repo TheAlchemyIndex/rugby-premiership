@@ -1,8 +1,8 @@
 import pandas as pd
-from calculator.CalculateMean import calc_means, calc_conditional_means_two_cols, \
+from calculator.columns.CalculateMean import calc_means, calc_conditional_means_two_cols, \
     calc_conditional_means_three_cols, calc_previous_5_scores_mean, \
     calc_previous_3_scores_mean_opposition
-from calculator.filters.ScoreFilter import filter_numeric_scores
+from calculator.columns.filters.ScoreFilter import filter_numeric_scores
 
 FILE_PATH = r"../data/All Seasons - 2010-23.csv"
 

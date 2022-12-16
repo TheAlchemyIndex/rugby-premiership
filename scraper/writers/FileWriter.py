@@ -7,7 +7,7 @@ URL_START = "https://en.wikipedia.org/wiki/"
 URL_END = "_Premiership_Rugby"
 
 # Constants for file names
-DIRECTORY = "data/"
+DIRECTORY = "../data/"
 FILE_NAME_SINGLE_SEASONS_END = " Season.csv"
 FILE_NAME_ALL_SEASONS_START = "All Seasons - "
 

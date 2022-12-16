@@ -1,4 +1,4 @@
-from calculator.ColumnHelper import *
+from calculator.columns.ColumnHelper import *
 
 TEAM1_NAME = "team1Name"
 TEAM2_NAME = "team2Name"
