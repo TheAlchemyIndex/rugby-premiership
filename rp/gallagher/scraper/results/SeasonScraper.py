@@ -1,9 +1,9 @@
-from scraper.pagehtml.HtmlParser import parse
-from scraper.formatters.TeamNameFormatter import team_name_formatter
-from scraper.formatters.ScoreFormatter import score_formatter
-from scraper.pagehtml.TagExtractor import tag_extractor
-from scraper.formatters.DateFormatter import date_formatter
-from scraper.formatters.MatchDetailsFormatter import match_details_formatter
+from rp.gallagher.scraper.pagehtml.HtmlParser import parse
+from rp.gallagher.scraper.formatters.TeamNameFormatter import team_name_formatter
+from rp.gallagher.scraper.formatters.ScoreFormatter import score_formatter
+from rp.gallagher.scraper.pagehtml.TagExtractor import tag_extractor
+from rp.gallagher.scraper.formatters.DateFormatter import date_formatter
+from rp.gallagher.scraper.formatters.MatchDetailsFormatter import match_details_formatter
 
 # Constant val for replacing br tags with custom string
 BR_REPLACE = "xXx"

@@ -1,6 +1,6 @@
 # Import libraries required
-from scraper.writers.CsvWriter import write_to_csv
-from scraper.results.SeasonScraper import scrape_results
+from rp.gallagher.scraper.writers.CsvWriter import write_to_csv
+from rp.gallagher.scraper.results.SeasonScraper import scrape_results
 
 # Constants for url value
 URL_START = "https://en.wikipedia.org/wiki/"

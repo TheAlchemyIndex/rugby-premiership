@@ -1,13 +1,16 @@
-from calculator.columns.ColumnHelper import *
+from rp.gallagher.calculator.columns.ColumnHelper import *
+from rp.gallagher.constants.OriginalColumns import *
 
-TEAM1_NAME = "team1Name"
-TEAM2_NAME = "team2Name"
-TEAM1_SCORE = "team1Score"
-TEAM2_SCORE = "team2Score"
-TOTAL_SCORE = "totalScore"
-MONTH = "month"
-YEAR = "year"
-SEASON = "season"
+
+#TEAM1_NAME = "team1Name"
+#TEAM2_NAME = "team2Name"
+#TEAM1_SCORE = "team1Score"
+#TEAM2_SCORE = "team2Score"
+#TOTAL_SCORE = "totalScore"
+#MONTH = "month"
+#YEAR = "year"
+#SEASON = "season"
+#VENUE = "venue"
 
 
 def calc_means(df):
@@ -33,31 +36,37 @@ def calc_conditional_means_two_cols(df):
     avg_home_score_by_month = two_columns_mean(df, MONTH, TEAM1_SCORE, "avgHomeScoreByMonth")
     avg_home_score_by_year = two_columns_mean(df, YEAR, TEAM1_SCORE, "avgHomeScoreByYear")
     avg_home_score_by_season = two_columns_mean(df, SEASON, TEAM1_SCORE, "avgHomeScoreBySeason")
+    avg_home_score_by_venue = two_columns_mean(df, VENUE, TEAM1_SCORE, "avgHomeScoreByVenue")
     avg_home_score_by_team = two_columns_mean(df, TEAM1_NAME, TEAM1_SCORE, "avgHomeScoreByTeam")
 
     # By away team scores
     avg_away_score_by_month = two_columns_mean(df, MONTH, TEAM2_SCORE, "avgAwayScoreByMonth")
     avg_away_score_by_year = two_columns_mean(df, YEAR, TEAM2_SCORE, "avgAwayScoreByYear")
     avg_away_score_by_season = two_columns_mean(df, SEASON, TEAM2_SCORE, "avgAwayScoreBySeason")
+    avg_away_score_by_venue = two_columns_mean(df, VENUE, TEAM2_SCORE, "avgAwayScoreByVenue")
     avg_away_score_by_team = two_columns_mean(df, TEAM2_NAME, TEAM2_SCORE, "avgAwayScoreByTeam")
 
     # By total score
     avg_total_score_by_month = two_columns_mean(df, MONTH, TOTAL_SCORE, "avgTotalScoreByMonth")
     avg_total_score_by_year = two_columns_mean(df, YEAR, TOTAL_SCORE, "avgTotalScoreByYear")
     avg_total_score_by_season = two_columns_mean(df, SEASON, TOTAL_SCORE, "avgTotalScoreBySeason")
+    avg_total_score_by_venue = two_columns_mean(df, VENUE, TOTAL_SCORE, "avgTotalScoreByVenue")
 
     # Merge with df and return new_df of values, rounded to 2 decimal places
     new_df = pd.merge(df, avg_home_score_by_month, on=MONTH, how="outer")
     new_df = pd.merge(new_df, avg_home_score_by_year, on=YEAR, how="outer")
     new_df = pd.merge(new_df, avg_home_score_by_season, on=SEASON, how="outer")
+    new_df = pd.merge(new_df, avg_home_score_by_venue, on=VENUE, how="outer")
     new_df = pd.merge(new_df, avg_home_score_by_team, on=TEAM1_NAME, how="outer")
     new_df = pd.merge(new_df, avg_away_score_by_month, on=MONTH, how="outer")
     new_df = pd.merge(new_df, avg_away_score_by_year, on=YEAR, how="outer")
     new_df = pd.merge(new_df, avg_away_score_by_season, on=SEASON, how="outer")
+    new_df = pd.merge(new_df, avg_away_score_by_venue, on=VENUE, how="outer")
     new_df = pd.merge(new_df, avg_away_score_by_team, on=TEAM2_NAME, how="outer")
     new_df = pd.merge(new_df, avg_total_score_by_month, on=MONTH, how="outer")
     new_df = pd.merge(new_df, avg_total_score_by_year, on=YEAR, how="outer")
     new_df = pd.merge(new_df, avg_total_score_by_season, on=SEASON, how="outer")
+    new_df = pd.merge(new_df, avg_total_score_by_venue, on=VENUE, how="outer")
     new_df.fillna('N/A', inplace=True)
     new_df = new_df.round(2)
     return new_df
@@ -77,6 +86,8 @@ def calc_conditional_means_three_cols(df):
                                                         "avgHomeScoreByTeamByYear")
     avg_home_score_by_team_by_season = three_columns_mean(df, SEASON, TEAM1_NAME, TEAM1_SCORE,
                                                           "avgHomeScoreByTeamBySeason")
+    avg_home_score_by_team_by_venue = three_columns_mean(df, VENUE, TEAM1_NAME, TEAM1_SCORE,
+                                                         "avgHomeScoreByTeamByVenue")
 
     # By away team scores
     avg_away_score_by_team_by_month = three_columns_mean(df, MONTH, TEAM2_NAME, TEAM2_SCORE,
@@ -85,14 +96,18 @@ def calc_conditional_means_three_cols(df):
                                                         "avgAwayScoreByTeamByYear")
     avg_away_score_by_team_by_season = three_columns_mean(df, SEASON, TEAM2_NAME, TEAM2_SCORE,
                                                           "avgAwayScoreByTeamBySeason")
+    avg_away_score_by_team_by_venue = three_columns_mean(df, VENUE, TEAM2_NAME, TEAM2_SCORE,
+                                                         "avgAwayScoreByTeamByVenue")
 
     # Merge with df and return new_df of values, rounded to 2 decimal places
     new_df = pd.merge(df, avg_home_score_by_team_by_month, on=[TEAM1_NAME, MONTH], how="left")
     new_df = pd.merge(new_df, avg_home_score_by_team_by_year, on=[TEAM1_NAME, YEAR], how="left")
     new_df = pd.merge(new_df, avg_home_score_by_team_by_season, on=[TEAM1_NAME, SEASON], how="left")
+    new_df = pd.merge(new_df, avg_home_score_by_team_by_venue, on=[TEAM1_NAME, VENUE], how="left")
     new_df = pd.merge(new_df, avg_away_score_by_team_by_month, on=[TEAM2_NAME, MONTH], how="left")
     new_df = pd.merge(new_df, avg_away_score_by_team_by_year, on=[TEAM2_NAME, YEAR], how="left")
     new_df = pd.merge(new_df, avg_away_score_by_team_by_season, on=[TEAM2_NAME, SEASON], how="left")
+    new_df = pd.merge(new_df, avg_away_score_by_team_by_venue, on=[TEAM2_NAME, VENUE], how="left")
     new_df.fillna('N/A', inplace=True)
     new_df = new_df.round(2)
     return new_df
