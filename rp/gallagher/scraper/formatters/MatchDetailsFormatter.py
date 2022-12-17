@@ -1,4 +1,5 @@
 from re import search
+from rp.gallagher.constants import OriginalColumns
 
 # Constant val for replacing br tags with custom string
 BR_REPLACE = "xXx"
@@ -26,7 +27,7 @@ def match_details_formatter(match_data):
     else:
         referee = "N/A"
 
-    formatted_match_details = {"venue": venue, "referee": referee}
+    formatted_match_details = {OriginalColumns.VENUE: venue, OriginalColumns.REFEREE: referee}
     return formatted_match_details
 
 

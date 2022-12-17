@@ -1,4 +1,5 @@
 import re
+from rp.gallagher.constants import OriginalColumns
 
 # Constant val for replacing br tags with custom string
 BR_REPLACE = "xXx"
@@ -53,7 +54,8 @@ def score_formatter(score):
         total_score = "N/A"
         winner = "N/A"
 
-    formatted_scores = {"team1_score": team1_score, "team2_score": team2_score,
-                        "total_score": total_score, "winner": winner, "extraTime": extra_time}
+    formatted_scores = {OriginalColumns.TEAM1_SCORE: team1_score, OriginalColumns.TEAM2_SCORE: team2_score,
+                        OriginalColumns.TOTAL_SCORE: total_score, OriginalColumns.WINNER: winner,
+                        OriginalColumns.EXTRA_TIME: extra_time}
 
     return formatted_scores

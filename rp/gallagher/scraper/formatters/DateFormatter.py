@@ -1,5 +1,6 @@
 import datetime
 import re
+from rp.gallagher.constants import OriginalColumns
 
 # Constant val for replacing br tags with custom string
 BR_REPLACE = "xXx"
@@ -25,6 +26,7 @@ def date_formatter(match_data, url):
     # Extracts season info from url of match details
     season = re.search("[0-9][0-9][0-9][0-9]-[0-9][0-9]", url).group()
 
-    formatted_date = {"date": date, "time": time, "month": month, "year": year, "season": season}
+    formatted_date = {OriginalColumns.DATE: date, OriginalColumns.TIME: time, OriginalColumns.MONTH: month,
+                      OriginalColumns.YEAR: year, OriginalColumns.SEASON: season}
 
     return formatted_date

@@ -1,4 +1,4 @@
-# Import libraries required
+from rp.gallagher.constants import OriginalColumns
 from rp.gallagher.scraper.writers.CsvWriter import write_to_csv
 from rp.gallagher.scraper.results.SeasonScraper import scrape_results
 
@@ -12,8 +12,10 @@ FILE_NAME_SINGLE_SEASONS_END = " Season.csv"
 FILE_NAME_ALL_SEASONS_START = "All Seasons - "
 
 # Constant for field names
-FIELD_NAMES = ['date', 'time', 'team1Name', 'team1Score', 'team2Name', 'team2Score', 'venue',
-               'referee', 'totalScore', 'winner', 'extraTime', 'month', 'year', 'season']
+FIELD_NAMES = [OriginalColumns.DATE, OriginalColumns.TIME, OriginalColumns.TEAM1_NAME, OriginalColumns.TEAM1_SCORE,
+               OriginalColumns.TEAM2_NAME, OriginalColumns.TEAM2_SCORE, OriginalColumns.VENUE, OriginalColumns.REFEREE,
+               OriginalColumns.TOTAL_SCORE, OriginalColumns.WINNER, OriginalColumns.EXTRA_TIME, OriginalColumns.MONTH,
+               OriginalColumns.YEAR, OriginalColumns.SEASON]
 
 
 def write_to_individual_files(first_season_start, first_season_end, last_season_end):
