@@ -7,7 +7,8 @@ URL_START = "https://en.wikipedia.org/wiki/"
 URL_END = "_Premiership_Rugby"
 
 # Constants for file names
-DIRECTORY = "../data/"
+DIRECTORY_INDIVIDUAL = "../data/rawData/individualSeasons/"
+DIRECTORY_GROUPED = "../data/rawData/groupedSeasons/"
 FILE_NAME_SINGLE_SEASONS_END = " Season.csv"
 FILE_NAME_ALL_SEASONS_START = "All Seasons - "
 
@@ -22,7 +23,7 @@ def write_to_individual_files(first_season_start, first_season_end, last_season_
     # Loop continues until last_season_end is reached
     while first_season_end <= last_season_end:
         url = URL_START + str(first_season_start) + "-" + str(first_season_end) + URL_END
-        file_name = DIRECTORY + str(first_season_start) + "-" \
+        file_name = DIRECTORY_INDIVIDUAL + str(first_season_start) + "-" \
                                                         + str(first_season_end)\
                                                         + FILE_NAME_SINGLE_SEASONS_END
 
@@ -34,7 +35,7 @@ def write_to_individual_files(first_season_start, first_season_end, last_season_
 
 
 def write_to_single_file(first_season_start, first_season_end, last_season_end):
-    file_name = DIRECTORY + FILE_NAME_ALL_SEASONS_START + str(first_season_start)\
+    file_name = DIRECTORY_GROUPED + FILE_NAME_ALL_SEASONS_START + str(first_season_start)\
                                                         + "-" + str(last_season_end)\
                                                         + ".csv"
 

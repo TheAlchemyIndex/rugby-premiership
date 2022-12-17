@@ -4,7 +4,7 @@ from rp.gallagher.calculator.columns.CalculateMean import calc_means, calc_condi
     calc_previous_3_scores_mean_opposition
 from rp.gallagher.calculator.columns.filters.ScoreFilter import filter_numeric_scores, filter_results
 
-FILE_PATH = r"../data/All Seasons - 2010-23.csv"
+FILE_PATH = r"../data/rawData/groupedSeasons/All Seasons - 2010-23.csv"
 
 df = pd.read_csv(FILE_PATH)
 df['date'] = pd.to_datetime(df["date"])
