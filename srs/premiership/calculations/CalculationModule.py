@@ -43,7 +43,7 @@ def create_calculated_columns(first_season_start, first_season_end, last_season_
         # Calculates win percentage for each team
         df_calc_wins = calc_win_percentage(df_calc_last_3_results_opponent)
 
-        # Writes season data to csv and increments season_start
+        # Writes season data to csv and increments first_season_end
         df_calc_wins.to_csv(
             "data/calculatedData/Results - " + str(first_season_start) + "-" + str(last_season_end) + ".csv")
         first_season_end += 1
