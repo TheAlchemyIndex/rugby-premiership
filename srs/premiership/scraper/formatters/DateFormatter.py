@@ -29,12 +29,13 @@ def date_formatter(date_data, url):
     if date_split[1].find("pm") != -1:
         time = datetime.datetime.strptime(time, '%I:%M%p').strftime('%H:%M')
 
+    day = datetime.datetime.strptime(date, '%d/%b/%Y').strftime('%a')
     month = datetime.datetime.strptime(date, '%d/%b/%Y').strftime('%b')
     year = datetime.datetime.strptime(date, '%d/%b/%Y').strftime('%Y')
 
     # Extracts season info from url of match details
     season = re.search("[0-9][0-9][0-9][0-9]-[0-9][0-9]", url).group()
 
-    formatted_date = {OriginalColumns.DATE: date, OriginalColumns.TIME: time, OriginalColumns.MONTH: month,
-                      OriginalColumns.YEAR: year, OriginalColumns.SEASON: season}
+    formatted_date = {OriginalColumns.DATE: date, OriginalColumns.TIME: time, OriginalColumns.DAY: day,
+                      OriginalColumns.MONTH: month, OriginalColumns.YEAR: year, OriginalColumns.SEASON: season}
     return formatted_date

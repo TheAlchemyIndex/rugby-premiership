@@ -31,6 +31,7 @@ def scrape_results(url):
         extract_date = date_formatter(data[count], url)
         date = extract_date[OriginalColumns.DATE]
         time = extract_date[OriginalColumns.TIME]
+        day = extract_date[OriginalColumns.DAY]
         year = extract_date[OriginalColumns.YEAR]
         month = extract_date[OriginalColumns.MONTH]
         season = extract_date[OriginalColumns.SEASON]
@@ -58,7 +59,8 @@ def scrape_results(url):
                       OriginalColumns.TEAM2_SCORE: team2_score, OriginalColumns.VENUE: venue,
                       OriginalColumns.REFEREE: referee, OriginalColumns.TOTAL_SCORE: total_score,
                       OriginalColumns.WINNER: winner, OriginalColumns.EXTRA_TIME: extra_time,
-                      OriginalColumns.MONTH: month, OriginalColumns.YEAR: year, OriginalColumns.SEASON: season}
+                      OriginalColumns.DAY: day, OriginalColumns.MONTH: month, OriginalColumns.YEAR: year,
+                      OriginalColumns.SEASON: season}
         results.append(match_data)
 
         # count is incremented to look at the data for the next match

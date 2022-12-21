@@ -5,8 +5,8 @@ from srs.premiership.scraper.seasons.SeasonScraper import scrape_results
 # Constant list for field names
 FIELD_NAMES = [OriginalColumns.DATE, OriginalColumns.TIME, OriginalColumns.TEAM1_NAME, OriginalColumns.TEAM1_SCORE,
                OriginalColumns.TEAM2_NAME, OriginalColumns.TEAM2_SCORE, OriginalColumns.VENUE, OriginalColumns.REFEREE,
-               OriginalColumns.TOTAL_SCORE, OriginalColumns.WINNER, OriginalColumns.EXTRA_TIME, OriginalColumns.MONTH,
-               OriginalColumns.YEAR, OriginalColumns.SEASON]
+               OriginalColumns.TOTAL_SCORE, OriginalColumns.WINNER, OriginalColumns.EXTRA_TIME, OriginalColumns.DAY,
+               OriginalColumns.MONTH, OriginalColumns.YEAR, OriginalColumns.SEASON]
 
 
 def write_to_individual_files(first_season_start, first_season_end, last_season_end):

@@ -1,136 +1,136 @@
-﻿date,time,team1Name,team1Score,team2Name,team2Score,venue,referee,totalScore,winner,extraTime,month,year,season
-06/Sep/2013,19:45,Newcastle,0,Bath,21,Kingston Park,Wayne Barnes,21,A,N,Sep,2013,2013-14
-07/Sep/2013,14:00,London Irish,20,Saracens,42,Twickenham Stadium,Greg Garner,62,A,N,Sep,2013,2013-14
-07/Sep/2013,15:00,Gloucester,16,Sale,22,Kingsholm,Andrew Small,38,A,N,Sep,2013,2013-14
-07/Sep/2013,15:00,Northampton,38,Exeter,11,Franklin's Gardens,JP Doyle,49,H,N,Sep,2013,2013-14
-07/Sep/2013,16:30,Wasps,15,Harlequins,16,Twickenham Stadium,Tim Wigglesworth,31,A,N,Sep,2013,2013-14
-08/Sep/2013,14:00,Leicester,32,Worcester,15,Welford Road,Luke Pearce,47,H,N,Sep,2013,2013-14
-13/Sep/2013,19:45,Harlequins,6,Northampton,13,Twickenham Stoop,Andrew Small,19,A,N,Sep,2013,2013-14
-13/Sep/2013,20:00,Sale,14,Newcastle,15,Salford City Stadium,Luke Pearce,29,A,N,Sep,2013,2013-14
-14/Sep/2013,15:00,Exeter,30,Wasps,26,Sandy Park,Martin Fox,56,H,N,Sep,2013,2013-14
-14/Sep/2013,15:00,Worcester,18,London Irish,20,Sixways,Tim Wigglesworth,38,A,N,Sep,2013,2013-14
-14/Sep/2013,15:15,Bath,27,Leicester,20,The Recreation Ground,Greg Garner,47,H,N,Sep,2013,2013-14
-15/Sep/2013,14:00,Saracens,44,Gloucester,12,Allianz Park,Wayne Barnes,56,H,N,Sep,2013,2013-14
-20/Sep/2013,19:45,Worcester,13,Harlequins,37,Sixways,Wayne Barnes,50,A,N,Sep,2013,2013-14
-20/Sep/2013,20:00,Sale,26,Wasps,22,Salford City Stadium,Tim Wigglesworth,48,H,N,Sep,2013,2013-14
-21/Sep/2013,15:00,Leicester,31,Newcastle,6,Welford Road,David Rose,37,H,N,Sep,2013,2013-14
-21/Sep/2013,15:00,London Irish,23,Exeter,29,Madejski Stadium,Andrew Small,52,A,N,Sep,2013,2013-14
-21/Sep/2013,15:15,Gloucester,26,Northampton,24,Kingsholm,Martin Fox,50,H,N,Sep,2013,2013-14
-22/Sep/2013,14:00,Saracens,31,Bath,17,Allianz Park,JP Doyle,48,H,N,Sep,2013,2013-14
-27/Sep/2013,19:45,Northampton,33,Sale,14,Franklin's Gardens,David Rose,47,H,N,Sep,2013,2013-14
-28/Sep/2013,15:00,Bath,33,London Irish,18,The Recreation Ground,Luke Pearce,51,H,N,Sep,2013,2013-14
-28/Sep/2013,15:00,Wasps,32,Worcester,16,Adams Park,Gregory Garner,48,H,N,Sep,2013,2013-14
-28/Sep/2013,15:15,Harlequins,12,Saracens,22,Twickenham Stoop,Martin Fox,34,A,N,Sep,2013,2013-14
-29/Sep/2013,14:00,Exeter,9,Leicester,21,Sandy Park,Tim Wigglesworth,30,A,N,Sep,2013,2013-14
-29/Sep/2013,15:00,Newcastle,16,Gloucester,22,Kingston Park,Andrew Small,38,A,N,Sep,2013,2013-14
-04/Oct/2013,19:45,Sale,19,Bath,13,Salford City Stadium,Andrew Small,32,H,N,Oct,2013,2013-14
-05/Oct/2013,15:00,London Irish,18,Harlequins,13,Madejski Stadium,David Rose,31,H,N,Oct,2013,2013-14
-05/Oct/2013,15:00,Saracens,19,Wasps,12,Allianz Park,Luke Pearce,31,H,N,Oct,2013,2013-14
-05/Oct/2013,15:00,Worcester,11,Newcastle,16,Sixways,Martin Fox,27,A,N,Oct,2013,2013-14
-05/Oct/2013,15:15,Leicester,19,Northampton,19,Welford Road,JP Doyle,38,D,N,Oct,2013,2013-14
-06/Oct/2013,14:00,Gloucester,12,Exeter,29,Kingsholm,Matthew Carley,41,A,N,Oct,2013,2013-14
-25/Oct/2013,19:45,Bath,15,Gloucester,13,The Recreation Ground,Wayne Barnes,28,H,N,Oct,2013,2013-14
-26/Oct/2013,15:00,Exeter,40,Worcester,6,Sandy Park,JP Doyle,46,H,N,Oct,2013,2013-14
-26/Oct/2013,15:00,Harlequins,24,Sale,3,Twickenham Stoop,Luke Pearce,27,H,N,Oct,2013,2013-14
-26/Oct/2013,15:15,Northampton,41,Saracens,20,Franklin's Gardens,Tim Wigglesworth,61,H,N,Oct,2013,2013-14
-27/Oct/2013,14:00,Wasps,22,Leicester,12,Adams Park,Andrew Small,34,H,N,Oct,2013,2013-14
-27/Oct/2013,15:00,Newcastle,13,London Irish,11,Kingston Park,Gregory Garner,24,H,N,Oct,2013,2013-14
-01/Nov/2013,19:45,Worcester,6,Bath,21,Sixways,Gregory Garner,27,A,N,Nov,2013,2013-14
-01/Nov/2013,20:00,Sale,16,Exeter,18,Salford City Stadium,Wayne Barnes,34,A,N,Nov,2013,2013-14
-02/Nov/2013,17:00,Gloucester,30,Wasps,32,Kingsholm,JP Doyle,62,A,N,Nov,2013,2013-14
-02/Nov/2013,17:30,Leicester,16,Harlequins,23,Welford Road,Tim Wigglesworth,39,A,N,Nov,2013,2013-14
-03/Nov/2013,14:00,London Irish,14,Northampton,19,Madejski Stadium,Andrew Small,33,A,N,Nov,2013,2013-14
-03/Nov/2013,15:00,Saracens,40,Newcastle,3,Allianz Park,Matthew Carley,43,H,N,Nov,2013,2013-14
-22/Nov/2013,20:00,Sale,26,Worcester,10,Salford City Stadium,Andrew Small,36,H,N,Nov,2013,2013-14
-23/Nov/2013,15:00,Exeter,9,Saracens,16,Sandy Park,Tim Wigglesworth,25,A,N,Nov,2013,2013-14
-23/Nov/2013,15:00,Harlequins,27,Gloucester,19,Twickenham Stoop,Matthew Carley,46,H,N,Nov,2013,2013-14
-23/Nov/2013,15:00,Leicester,20,London Irish,11,Welford Road,Martin Fox,31,H,N,Nov,2013,2013-14
-23/Nov/2013,15:15,Northampton,18,Newcastle,0,Franklin's Gardens,Dean Richards,18,H,N,Nov,2013,2013-14
-24/Nov/2013,14:00,Wasps,5,Bath,28,Adams Park,Luke Pearce,33,A,N,Nov,2013,2013-14
-29/Nov/2013,19:45,Gloucester,17,Leicester,22,Kingsholm,Greg Garner,39,A,N,Nov,2013,2013-14
-30/Nov/2013,15:00,London Irish,12,Wasps,19,Madejski Stadium,Dean Richards,31,A,N,Nov,2013,2013-14
-30/Nov/2013,15:00,Saracens,24,Sale,19,Allianz Park,JP Doyle,43,H,N,Nov,2013,2013-14
-30/Nov/2013,15:00,Worcester,10,Northampton,33,Sixways,Tim Wigglesworth,43,A,N,Nov,2013,2013-14
-30/Nov/2013,15:15,Bath,21,Exeter,16,The Recreation Ground,Matthew Carley,37,H,N,Nov,2013,2013-14
-01/Dec/2013,15:00,Newcastle,9,Harlequins,35,Kingston Park,Andrew Small,44,A,N,Dec,2013,2013-14
-20/Dec/2013,20:00,Sale,15,London Irish,3,Salford City Stadium,Tim Wigglesworth,18,H,N,Dec,2013,2013-14
-21/Dec/2013,15:00,Bath,14,Harlequins,3,The Recreation Ground,Martin Fox,17,H,N,Dec,2013,2013-14
-21/Dec/2013,15:00,Exeter,16,Newcastle,3,Sandy Park,Greg Garner,19,H,N,Dec,2013,2013-14
-21/Dec/2013,15:00,Wasps,15,Northampton,17,Adams Park,Matthew Carley,32,A,N,Dec,2013,2013-14
-21/Dec/2013,15:00,Saracens,49,Leicester,10,Allianz Park,Wayne Barnes,59,H,N,Dec,2013,2013-14
-22/Dec/2013,15:00,Gloucester,12,Worcester,6,Kingsholm,JP Doyle,18,H,N,Dec,2013,2013-14
-27/Dec/2013,19:45,Newcastle,12,Wasps,17,Kingston Park,Wayne Barnes,29,A,N,Dec,2013,2013-14
-28/Dec/2013,15:00,Leicester,30,Sale,23,Welford Road,Matthew Carley,53,H,N,Dec,2013,2013-14
-28/Dec/2013,15:00,Northampton,43,Bath,25,Franklin's Gardens,Luke Pearce,68,H,N,Dec,2013,2013-14
-28/Dec/2013,15:00,Worcester,8,Saracens,26,Sixways,Gregory Garner,34,A,N,Dec,2013,2013-14
-28/Dec/2013,15:00,Harlequins,22,Exeter,6,Twickenham Stadium,JP Doyle,28,H,N,Dec,2013,2013-14
-29/Dec/2013,15:00,London Irish,19,Gloucester,22,Madejski Stadium,Andrew Small,41,A,N,Dec,2013,2013-14
-03/Jan/2014,19:45,Newcastle,8,Sale,16,Kingston Park,Andrew Small,24,A,N,Jan,2014,2013-14
-03/Jan/2014,19:45,Northampton,23,Harlequins,9,Franklin's Gardens,Greg Garner,32,H,N,Jan,2014,2013-14
-04/Jan/2014,15:00,London Irish,22,Worcester,9,Madejski Stadium,Wayne Barnes,31,H,N,Jan,2014,2013-14
-04/Jan/2014,15:15,Gloucester,8,Saracens,29,Kingsholm,Luke Pearce,37,A,N,Jan,2014,2013-14
-05/Jan/2014,14:00,Leicester,27,Bath,27,Welford Road,JP Doyle,54,D,N,Jan,2014,2013-14
-05/Jan/2014,15:00,Wasps,19,Exeter,16,Adams Park,Andrew Small,35,H,N,Jan,2014,2013-14
-07/Feb/2014,19:45,Worcester,22,Leicester,23,Sixways,Andrew Small,45,A,N,Feb,2014,2013-14
-07/Feb/2014,20:00,Sale,24,Gloucester,19,Salford City Stadium,Matthew Carley,43,H,N,Feb,2014,2013-14
-08/Feb/2014,15:00,Bath,24,Newcastle,6,The Recreation Ground,Tim Wigglesworth,30,H,N,Feb,2014,2013-14
-08/Feb/2014,15:00,Saracens,13,London Irish,22,Allianz Park,Dean Richards,35,A,N,Feb,2014,2013-14
-08/Feb/2014,19:00,Exeter,16,Northampton,17,Sandy Park,Greg Garner,33,A,N,Feb,2014,2013-14
-09/Feb/2014,13:00,Harlequins,11,Wasps,10,Twickenham Stoop,Luke Pearce,21,H,N,Feb,2014,2013-14
-14/Feb/2014,20:00,Sale,10,Saracens,15,Salford City Stadium,Greg Garner,25,A,N,Feb,2014,2013-14
-15/Feb/2014,15:00,Harlequins,18,Newcastle,14,Twickenham Stoop,JP Doyle,32,H,N,Feb,2014,2013-14
-15/Feb/2014,15:00,Wasps,20,London Irish,23,Adams Park,Tim Wigglesworth,43,A,N,Feb,2014,2013-14
-15/Feb/2014,15:00,Northampton,30,Worcester,14,Franklin's Gardens,Wayne Barnes,44,H,N,Feb,2014,2013-14
-15/Feb/2014,15:15,Exeter,23,Bath,27,Sandy Park,Andrew Small,50,A,N,Feb,2014,2013-14
-16/Feb/2014,14:00,Leicester,11,Gloucester,8,Welford Road,Dean Richards,19,H,N,Feb,2014,2013-14
-22/Feb/2014,14:00,Bath,32,Wasps,25,The Recreation Ground,Matthew Carley,57,H,N,Feb,2014,2013-14
-22/Feb/2014,14:00,Gloucester,25,Harlequins,20,Kingsholm,Gregory Garner,45,H,N,Feb,2014,2013-14
-22/Feb/2014,14:00,Worcester,12,Sale,24,Sixways,Tim Wigglesworth,36,A,N,Feb,2014,2013-14
-23/Feb/2014,13:00,London Irish,15,Leicester,20,Madejski Stadium,JP Doyle,35,A,N,Feb,2014,2013-14
-23/Feb/2014,15:00,Newcastle,16,Northampton,22,Kingston Park,Andrew Small,38,A,N,Feb,2014,2013-14
-23/Feb/2014,15:15,Saracens,23,Exeter,10,Allianz Park,Wayne Barnes,33,H,N,Feb,2014,2013-14
-28/Feb/2014,20:00,Bath,10,Saracens,23,The Recreation Ground,Luke Pearce,33,A,N,Feb,2014,2013-14
-01/Mar/2014,15:00,Exeter,18,London Irish,0,Sandy Park,Matthew Carley,18,H,N,Mar,2014,2013-14
-01/Mar/2014,15:00,Harlequins,21,Worcester,20,Twickenham Stoop,Wayne Barnes,41,H,N,Mar,2014,2013-14
-01/Mar/2014,15:00,Wasps,17,Sale,21,Adams Park,Dean Richards,38,A,N,Mar,2014,2013-14
-01/Mar/2014,15:00,Northampton,39,Gloucester,13,Franklin's Gardens,Tim Wigglesworth,52,H,N,Mar,2014,2013-14
-02/Mar/2014,15:00,Newcastle,18,Leicester,41,Kingston Park,Greg Garner,59,A,N,Mar,2014,2013-14
-21/Mar/2014,19:45,Worcester,11,Wasps,13,Sixways,Andrew Small,24,A,N,Mar,2014,2013-14
-22/Mar/2014,14:00,Sale,19,Northampton,6,Salford City Stadium,Luke Pearce,25,H,N,Mar,2014,2013-14
-22/Mar/2014,15:00,Gloucester,40,Newcastle,33,Kingsholm,Wayne Barnes,73,H,N,Mar,2014,2013-14
-22/Mar/2014,15:15,Saracens,39,Harlequins,17,Wembley Stadium,JP Doyle,56,H,N,Mar,2014,2013-14
-22/Mar/2014,17:30,London Irish,23,Bath,44,Madejski Stadium,Greg Garner,67,A,N,Mar,2014,2013-14
-23/Mar/2014,14:00,Leicester,45,Exeter,15,Welford Road,Dean Richards,60,H,N,Mar,2014,2013-14
-28/Mar/2014,19:45,Bath,11,Sale,12,The Recreation Ground,Dean Richards,23,A,N,Mar,2014,2013-14
-29/Mar/2014,15:00,Exeter,13,Gloucester,14,Sandy Park,Matthew Carley,27,A,N,Mar,2014,2013-14
-29/Mar/2014,15:00,Harlequins,23,London Irish,9,Twickenham Stoop,Andrew Small,32,H,N,Mar,2014,2013-14
-29/Mar/2014,15:00,Wasps,20,Saracens,32,Adams Park,Luke Pearce,52,A,N,Mar,2014,2013-14
-29/Mar/2014,15:00,Northampton,16,Leicester,22,Franklin's Gardens,Wayne Barnes,38,A,N,Mar,2014,2013-14
-30/Mar/2014,15:00,Newcastle,12,Worcester,17,Kingston Park,Tim Wigglesworth,29,A,N,Mar,2014,2013-14
-11/Apr/2014,20:00,Sale,12,Harlequins,27,Salford City Stadium,Wayne Barnes,39,A,N,Apr,2014,2013-14
-12/Apr/2014,15:00,Gloucester,17,Bath,18,Kingsholm,Tim Wigglesworth,35,A,N,Apr,2014,2013-14
-12/Apr/2014,15:00,Leicester,27,Wasps,15,Welford Road,Andrew Small,42,H,N,Apr,2014,2013-14
-12/Apr/2014,15:00,Worcester,33,Exeter,38,Sixways,JP Doyle,71,A,N,Apr,2014,2013-14
-13/Apr/2014,14:00,Saracens,28,Northampton,24,Allianz Park,Matthew Carley,52,H,N,Apr,2014,2013-14
-13/Apr/2014,15:00,London Irish,40,Newcastle,12,Madejski Stadium,Luke Pearce,52,H,N,Apr,2014,2013-14
-18/Apr/2014,19:45,Harlequins,24,Leicester,20,Twickenham Stoop,Tim Wigglesworth,44,H,N,Apr,2014,2013-14
-19/Apr/2014,15:00,Bath,32,Worcester,20,The Recreation Ground,Matthew Carley,52,H,N,Apr,2014,2013-14
-19/Apr/2014,15:00,Exeter,12,Sale,55,Sandy Park,Dean Richards,67,A,N,Apr,2014,2013-14
-19/Apr/2014,15:15,Wasps,38,Gloucester,30,Twickenham Stadium,Wayne Barnes,68,H,N,Apr,2014,2013-14
-20/Apr/2014,14:00,Northampton,36,London Irish,21,Franklin's Gardens,JP Doyle,57,H,N,Apr,2014,2013-14
-20/Apr/2014,15:00,Newcastle,18,Saracens,23,Kingston Park,Andrew Small,41,A,N,Apr,2014,2013-14
-02/May/2014,19:45,Bath,19,Northampton,19,The Recreation Ground,Matthew Carley,38,D,N,May,2014,2013-14
-03/May/2014,15:00,Gloucester,38,London Irish,30,Kingsholm,Steve Lee,68,H,N,May,2014,2013-14
-03/May/2014,15:00,Wasps,44,Newcastle,38,Adams Park,Dean Richards,82,H,N,May,2014,2013-14
-03/May/2014,15:00,Saracens,44,Worcester,20,Allianz Park,Tim Wigglesworth,64,H,N,May,2014,2013-14
-03/May/2014,15:15,Sale,22,Leicester,42,Salford City Stadium,JP Doyle,64,A,N,May,2014,2013-14
-04/May/2014,14:00,Exeter,29,Harlequins,30,Sandy Park,Andrew Small,59,A,N,May,2014,2013-14
-10/May/2014,15:15,Harlequins,19,Bath,16,Twickenham Stoop,Wayne Barnes,35,H,N,May,2014,2013-14
-10/May/2014,15:15,Leicester,31,Saracens,27,Welford Road,Greg Garner,58,H,N,May,2014,2013-14
-10/May/2014,15:15,London Irish,22,Sale,20,Madejski Stadium,Greg Macdonald,42,H,N,May,2014,2013-14
-10/May/2014,15:15,Newcastle,13,Exeter,23,Kingston Park,Craig Maxwell-Keys,36,A,N,May,2014,2013-14
-10/May/2014,15:15,Northampton,74,Wasps,13,Franklin's Gardens,Luke Pearce,87,H,N,May,2014,2013-14
-10/May/2014,15:15,Worcester,28,Gloucester,27,Sixways,JP Doyle,55,H,N,May,2014,2013-14
-16/May/2014,19:45,Northampton,21,Leicester,20,Franklin's Gardens,JP Doyle,41,H,N,May,2014,2013-14
-17/May/2014,14:00,Saracens,31,Harlequins,17,Allianz Park,Wayne Barnes,48,H,N,May,2014,2013-14
-31/May/2014,15:00,Northampton,24,Saracens,20,Twickenham Stadium,JP Doyle,44,H,Y,May,2014,2013-14
+﻿date,time,team1Name,team1Score,team2Name,team2Score,venue,referee,totalScore,winner,extraTime,day,month,year,season
+06/Sep/2013,19:45,Newcastle,0,Bath,21,Kingston Park,Wayne Barnes,21,A,N,Fri,Sep,2013,2013-14
+07/Sep/2013,14:00,London Irish,20,Saracens,42,Twickenham Stadium,Greg Garner,62,A,N,Sat,Sep,2013,2013-14
+07/Sep/2013,15:00,Gloucester,16,Sale,22,Kingsholm,Andrew Small,38,A,N,Sat,Sep,2013,2013-14
+07/Sep/2013,15:00,Northampton,38,Exeter,11,Franklin's Gardens,JP Doyle,49,H,N,Sat,Sep,2013,2013-14
+07/Sep/2013,16:30,Wasps,15,Harlequins,16,Twickenham Stadium,Tim Wigglesworth,31,A,N,Sat,Sep,2013,2013-14
+08/Sep/2013,14:00,Leicester,32,Worcester,15,Welford Road,Luke Pearce,47,H,N,Sun,Sep,2013,2013-14
+13/Sep/2013,19:45,Harlequins,6,Northampton,13,Twickenham Stoop,Andrew Small,19,A,N,Fri,Sep,2013,2013-14
+13/Sep/2013,20:00,Sale,14,Newcastle,15,Salford City Stadium,Luke Pearce,29,A,N,Fri,Sep,2013,2013-14
+14/Sep/2013,15:00,Exeter,30,Wasps,26,Sandy Park,Martin Fox,56,H,N,Sat,Sep,2013,2013-14
+14/Sep/2013,15:00,Worcester,18,London Irish,20,Sixways,Tim Wigglesworth,38,A,N,Sat,Sep,2013,2013-14
+14/Sep/2013,15:15,Bath,27,Leicester,20,The Recreation Ground,Greg Garner,47,H,N,Sat,Sep,2013,2013-14
+15/Sep/2013,14:00,Saracens,44,Gloucester,12,Allianz Park,Wayne Barnes,56,H,N,Sun,Sep,2013,2013-14
+20/Sep/2013,19:45,Worcester,13,Harlequins,37,Sixways,Wayne Barnes,50,A,N,Fri,Sep,2013,2013-14
+20/Sep/2013,20:00,Sale,26,Wasps,22,Salford City Stadium,Tim Wigglesworth,48,H,N,Fri,Sep,2013,2013-14
+21/Sep/2013,15:00,Leicester,31,Newcastle,6,Welford Road,David Rose,37,H,N,Sat,Sep,2013,2013-14
+21/Sep/2013,15:00,London Irish,23,Exeter,29,Madejski Stadium,Andrew Small,52,A,N,Sat,Sep,2013,2013-14
+21/Sep/2013,15:15,Gloucester,26,Northampton,24,Kingsholm,Martin Fox,50,H,N,Sat,Sep,2013,2013-14
+22/Sep/2013,14:00,Saracens,31,Bath,17,Allianz Park,JP Doyle,48,H,N,Sun,Sep,2013,2013-14
+27/Sep/2013,19:45,Northampton,33,Sale,14,Franklin's Gardens,David Rose,47,H,N,Fri,Sep,2013,2013-14
+28/Sep/2013,15:00,Bath,33,London Irish,18,The Recreation Ground,Luke Pearce,51,H,N,Sat,Sep,2013,2013-14
+28/Sep/2013,15:00,Wasps,32,Worcester,16,Adams Park,Gregory Garner,48,H,N,Sat,Sep,2013,2013-14
+28/Sep/2013,15:15,Harlequins,12,Saracens,22,Twickenham Stoop,Martin Fox,34,A,N,Sat,Sep,2013,2013-14
+29/Sep/2013,14:00,Exeter,9,Leicester,21,Sandy Park,Tim Wigglesworth,30,A,N,Sun,Sep,2013,2013-14
+29/Sep/2013,15:00,Newcastle,16,Gloucester,22,Kingston Park,Andrew Small,38,A,N,Sun,Sep,2013,2013-14
+04/Oct/2013,19:45,Sale,19,Bath,13,Salford City Stadium,Andrew Small,32,H,N,Fri,Oct,2013,2013-14
+05/Oct/2013,15:00,London Irish,18,Harlequins,13,Madejski Stadium,David Rose,31,H,N,Sat,Oct,2013,2013-14
+05/Oct/2013,15:00,Saracens,19,Wasps,12,Allianz Park,Luke Pearce,31,H,N,Sat,Oct,2013,2013-14
+05/Oct/2013,15:00,Worcester,11,Newcastle,16,Sixways,Martin Fox,27,A,N,Sat,Oct,2013,2013-14
+05/Oct/2013,15:15,Leicester,19,Northampton,19,Welford Road,JP Doyle,38,D,N,Sat,Oct,2013,2013-14
+06/Oct/2013,14:00,Gloucester,12,Exeter,29,Kingsholm,Matthew Carley,41,A,N,Sun,Oct,2013,2013-14
+25/Oct/2013,19:45,Bath,15,Gloucester,13,The Recreation Ground,Wayne Barnes,28,H,N,Fri,Oct,2013,2013-14
+26/Oct/2013,15:00,Exeter,40,Worcester,6,Sandy Park,JP Doyle,46,H,N,Sat,Oct,2013,2013-14
+26/Oct/2013,15:00,Harlequins,24,Sale,3,Twickenham Stoop,Luke Pearce,27,H,N,Sat,Oct,2013,2013-14
+26/Oct/2013,15:15,Northampton,41,Saracens,20,Franklin's Gardens,Tim Wigglesworth,61,H,N,Sat,Oct,2013,2013-14
+27/Oct/2013,14:00,Wasps,22,Leicester,12,Adams Park,Andrew Small,34,H,N,Sun,Oct,2013,2013-14
+27/Oct/2013,15:00,Newcastle,13,London Irish,11,Kingston Park,Gregory Garner,24,H,N,Sun,Oct,2013,2013-14
+01/Nov/2013,19:45,Worcester,6,Bath,21,Sixways,Gregory Garner,27,A,N,Fri,Nov,2013,2013-14
+01/Nov/2013,20:00,Sale,16,Exeter,18,Salford City Stadium,Wayne Barnes,34,A,N,Fri,Nov,2013,2013-14
+02/Nov/2013,17:00,Gloucester,30,Wasps,32,Kingsholm,JP Doyle,62,A,N,Sat,Nov,2013,2013-14
+02/Nov/2013,17:30,Leicester,16,Harlequins,23,Welford Road,Tim Wigglesworth,39,A,N,Sat,Nov,2013,2013-14
+03/Nov/2013,14:00,London Irish,14,Northampton,19,Madejski Stadium,Andrew Small,33,A,N,Sun,Nov,2013,2013-14
+03/Nov/2013,15:00,Saracens,40,Newcastle,3,Allianz Park,Matthew Carley,43,H,N,Sun,Nov,2013,2013-14
+22/Nov/2013,20:00,Sale,26,Worcester,10,Salford City Stadium,Andrew Small,36,H,N,Fri,Nov,2013,2013-14
+23/Nov/2013,15:00,Exeter,9,Saracens,16,Sandy Park,Tim Wigglesworth,25,A,N,Sat,Nov,2013,2013-14
+23/Nov/2013,15:00,Harlequins,27,Gloucester,19,Twickenham Stoop,Matthew Carley,46,H,N,Sat,Nov,2013,2013-14
+23/Nov/2013,15:00,Leicester,20,London Irish,11,Welford Road,Martin Fox,31,H,N,Sat,Nov,2013,2013-14
+23/Nov/2013,15:15,Northampton,18,Newcastle,0,Franklin's Gardens,Dean Richards,18,H,N,Sat,Nov,2013,2013-14
+24/Nov/2013,14:00,Wasps,5,Bath,28,Adams Park,Luke Pearce,33,A,N,Sun,Nov,2013,2013-14
+29/Nov/2013,19:45,Gloucester,17,Leicester,22,Kingsholm,Greg Garner,39,A,N,Fri,Nov,2013,2013-14
+30/Nov/2013,15:00,London Irish,12,Wasps,19,Madejski Stadium,Dean Richards,31,A,N,Sat,Nov,2013,2013-14
+30/Nov/2013,15:00,Saracens,24,Sale,19,Allianz Park,JP Doyle,43,H,N,Sat,Nov,2013,2013-14
+30/Nov/2013,15:00,Worcester,10,Northampton,33,Sixways,Tim Wigglesworth,43,A,N,Sat,Nov,2013,2013-14
+30/Nov/2013,15:15,Bath,21,Exeter,16,The Recreation Ground,Matthew Carley,37,H,N,Sat,Nov,2013,2013-14
+01/Dec/2013,15:00,Newcastle,9,Harlequins,35,Kingston Park,Andrew Small,44,A,N,Sun,Dec,2013,2013-14
+20/Dec/2013,20:00,Sale,15,London Irish,3,Salford City Stadium,Tim Wigglesworth,18,H,N,Fri,Dec,2013,2013-14
+21/Dec/2013,15:00,Bath,14,Harlequins,3,The Recreation Ground,Martin Fox,17,H,N,Sat,Dec,2013,2013-14
+21/Dec/2013,15:00,Exeter,16,Newcastle,3,Sandy Park,Greg Garner,19,H,N,Sat,Dec,2013,2013-14
+21/Dec/2013,15:00,Wasps,15,Northampton,17,Adams Park,Matthew Carley,32,A,N,Sat,Dec,2013,2013-14
+21/Dec/2013,15:00,Saracens,49,Leicester,10,Allianz Park,Wayne Barnes,59,H,N,Sat,Dec,2013,2013-14
+22/Dec/2013,15:00,Gloucester,12,Worcester,6,Kingsholm,JP Doyle,18,H,N,Sun,Dec,2013,2013-14
+27/Dec/2013,19:45,Newcastle,12,Wasps,17,Kingston Park,Wayne Barnes,29,A,N,Fri,Dec,2013,2013-14
+28/Dec/2013,15:00,Leicester,30,Sale,23,Welford Road,Matthew Carley,53,H,N,Sat,Dec,2013,2013-14
+28/Dec/2013,15:00,Northampton,43,Bath,25,Franklin's Gardens,Luke Pearce,68,H,N,Sat,Dec,2013,2013-14
+28/Dec/2013,15:00,Worcester,8,Saracens,26,Sixways,Gregory Garner,34,A,N,Sat,Dec,2013,2013-14
+28/Dec/2013,15:00,Harlequins,22,Exeter,6,Twickenham Stadium,JP Doyle,28,H,N,Sat,Dec,2013,2013-14
+29/Dec/2013,15:00,London Irish,19,Gloucester,22,Madejski Stadium,Andrew Small,41,A,N,Sun,Dec,2013,2013-14
+03/Jan/2014,19:45,Newcastle,8,Sale,16,Kingston Park,Andrew Small,24,A,N,Fri,Jan,2014,2013-14
+03/Jan/2014,19:45,Northampton,23,Harlequins,9,Franklin's Gardens,Greg Garner,32,H,N,Fri,Jan,2014,2013-14
+04/Jan/2014,15:00,London Irish,22,Worcester,9,Madejski Stadium,Wayne Barnes,31,H,N,Sat,Jan,2014,2013-14
+04/Jan/2014,15:15,Gloucester,8,Saracens,29,Kingsholm,Luke Pearce,37,A,N,Sat,Jan,2014,2013-14
+05/Jan/2014,14:00,Leicester,27,Bath,27,Welford Road,JP Doyle,54,D,N,Sun,Jan,2014,2013-14
+05/Jan/2014,15:00,Wasps,19,Exeter,16,Adams Park,Andrew Small,35,H,N,Sun,Jan,2014,2013-14
+07/Feb/2014,19:45,Worcester,22,Leicester,23,Sixways,Andrew Small,45,A,N,Fri,Feb,2014,2013-14
+07/Feb/2014,20:00,Sale,24,Gloucester,19,Salford City Stadium,Matthew Carley,43,H,N,Fri,Feb,2014,2013-14
+08/Feb/2014,15:00,Bath,24,Newcastle,6,The Recreation Ground,Tim Wigglesworth,30,H,N,Sat,Feb,2014,2013-14
+08/Feb/2014,15:00,Saracens,13,London Irish,22,Allianz Park,Dean Richards,35,A,N,Sat,Feb,2014,2013-14
+08/Feb/2014,19:00,Exeter,16,Northampton,17,Sandy Park,Greg Garner,33,A,N,Sat,Feb,2014,2013-14
+09/Feb/2014,13:00,Harlequins,11,Wasps,10,Twickenham Stoop,Luke Pearce,21,H,N,Sun,Feb,2014,2013-14
+14/Feb/2014,20:00,Sale,10,Saracens,15,Salford City Stadium,Greg Garner,25,A,N,Fri,Feb,2014,2013-14
+15/Feb/2014,15:00,Harlequins,18,Newcastle,14,Twickenham Stoop,JP Doyle,32,H,N,Sat,Feb,2014,2013-14
+15/Feb/2014,15:00,Wasps,20,London Irish,23,Adams Park,Tim Wigglesworth,43,A,N,Sat,Feb,2014,2013-14
+15/Feb/2014,15:00,Northampton,30,Worcester,14,Franklin's Gardens,Wayne Barnes,44,H,N,Sat,Feb,2014,2013-14
+15/Feb/2014,15:15,Exeter,23,Bath,27,Sandy Park,Andrew Small,50,A,N,Sat,Feb,2014,2013-14
+16/Feb/2014,14:00,Leicester,11,Gloucester,8,Welford Road,Dean Richards,19,H,N,Sun,Feb,2014,2013-14
+22/Feb/2014,14:00,Bath,32,Wasps,25,The Recreation Ground,Matthew Carley,57,H,N,Sat,Feb,2014,2013-14
+22/Feb/2014,14:00,Gloucester,25,Harlequins,20,Kingsholm,Gregory Garner,45,H,N,Sat,Feb,2014,2013-14
+22/Feb/2014,14:00,Worcester,12,Sale,24,Sixways,Tim Wigglesworth,36,A,N,Sat,Feb,2014,2013-14
+23/Feb/2014,13:00,London Irish,15,Leicester,20,Madejski Stadium,JP Doyle,35,A,N,Sun,Feb,2014,2013-14
+23/Feb/2014,15:00,Newcastle,16,Northampton,22,Kingston Park,Andrew Small,38,A,N,Sun,Feb,2014,2013-14
+23/Feb/2014,15:15,Saracens,23,Exeter,10,Allianz Park,Wayne Barnes,33,H,N,Sun,Feb,2014,2013-14
+28/Feb/2014,20:00,Bath,10,Saracens,23,The Recreation Ground,Luke Pearce,33,A,N,Fri,Feb,2014,2013-14
+01/Mar/2014,15:00,Exeter,18,London Irish,0,Sandy Park,Matthew Carley,18,H,N,Sat,Mar,2014,2013-14
+01/Mar/2014,15:00,Harlequins,21,Worcester,20,Twickenham Stoop,Wayne Barnes,41,H,N,Sat,Mar,2014,2013-14
+01/Mar/2014,15:00,Wasps,17,Sale,21,Adams Park,Dean Richards,38,A,N,Sat,Mar,2014,2013-14
+01/Mar/2014,15:00,Northampton,39,Gloucester,13,Franklin's Gardens,Tim Wigglesworth,52,H,N,Sat,Mar,2014,2013-14
+02/Mar/2014,15:00,Newcastle,18,Leicester,41,Kingston Park,Greg Garner,59,A,N,Sun,Mar,2014,2013-14
+21/Mar/2014,19:45,Worcester,11,Wasps,13,Sixways,Andrew Small,24,A,N,Fri,Mar,2014,2013-14
+22/Mar/2014,14:00,Sale,19,Northampton,6,Salford City Stadium,Luke Pearce,25,H,N,Sat,Mar,2014,2013-14
+22/Mar/2014,15:00,Gloucester,40,Newcastle,33,Kingsholm,Wayne Barnes,73,H,N,Sat,Mar,2014,2013-14
+22/Mar/2014,15:15,Saracens,39,Harlequins,17,Wembley Stadium,JP Doyle,56,H,N,Sat,Mar,2014,2013-14
+22/Mar/2014,17:30,London Irish,23,Bath,44,Madejski Stadium,Greg Garner,67,A,N,Sat,Mar,2014,2013-14
+23/Mar/2014,14:00,Leicester,45,Exeter,15,Welford Road,Dean Richards,60,H,N,Sun,Mar,2014,2013-14
+28/Mar/2014,19:45,Bath,11,Sale,12,The Recreation Ground,Dean Richards,23,A,N,Fri,Mar,2014,2013-14
+29/Mar/2014,15:00,Exeter,13,Gloucester,14,Sandy Park,Matthew Carley,27,A,N,Sat,Mar,2014,2013-14
+29/Mar/2014,15:00,Harlequins,23,London Irish,9,Twickenham Stoop,Andrew Small,32,H,N,Sat,Mar,2014,2013-14
+29/Mar/2014,15:00,Wasps,20,Saracens,32,Adams Park,Luke Pearce,52,A,N,Sat,Mar,2014,2013-14
+29/Mar/2014,15:00,Northampton,16,Leicester,22,Franklin's Gardens,Wayne Barnes,38,A,N,Sat,Mar,2014,2013-14
+30/Mar/2014,15:00,Newcastle,12,Worcester,17,Kingston Park,Tim Wigglesworth,29,A,N,Sun,Mar,2014,2013-14
+11/Apr/2014,20:00,Sale,12,Harlequins,27,Salford City Stadium,Wayne Barnes,39,A,N,Fri,Apr,2014,2013-14
+12/Apr/2014,15:00,Gloucester,17,Bath,18,Kingsholm,Tim Wigglesworth,35,A,N,Sat,Apr,2014,2013-14
+12/Apr/2014,15:00,Leicester,27,Wasps,15,Welford Road,Andrew Small,42,H,N,Sat,Apr,2014,2013-14
+12/Apr/2014,15:00,Worcester,33,Exeter,38,Sixways,JP Doyle,71,A,N,Sat,Apr,2014,2013-14
+13/Apr/2014,14:00,Saracens,28,Northampton,24,Allianz Park,Matthew Carley,52,H,N,Sun,Apr,2014,2013-14
+13/Apr/2014,15:00,London Irish,40,Newcastle,12,Madejski Stadium,Luke Pearce,52,H,N,Sun,Apr,2014,2013-14
+18/Apr/2014,19:45,Harlequins,24,Leicester,20,Twickenham Stoop,Tim Wigglesworth,44,H,N,Fri,Apr,2014,2013-14
+19/Apr/2014,15:00,Bath,32,Worcester,20,The Recreation Ground,Matthew Carley,52,H,N,Sat,Apr,2014,2013-14
+19/Apr/2014,15:00,Exeter,12,Sale,55,Sandy Park,Dean Richards,67,A,N,Sat,Apr,2014,2013-14
+19/Apr/2014,15:15,Wasps,38,Gloucester,30,Twickenham Stadium,Wayne Barnes,68,H,N,Sat,Apr,2014,2013-14
+20/Apr/2014,14:00,Northampton,36,London Irish,21,Franklin's Gardens,JP Doyle,57,H,N,Sun,Apr,2014,2013-14
+20/Apr/2014,15:00,Newcastle,18,Saracens,23,Kingston Park,Andrew Small,41,A,N,Sun,Apr,2014,2013-14
+02/May/2014,19:45,Bath,19,Northampton,19,The Recreation Ground,Matthew Carley,38,D,N,Fri,May,2014,2013-14
+03/May/2014,15:00,Gloucester,38,London Irish,30,Kingsholm,Steve Lee,68,H,N,Sat,May,2014,2013-14
+03/May/2014,15:00,Wasps,44,Newcastle,38,Adams Park,Dean Richards,82,H,N,Sat,May,2014,2013-14
+03/May/2014,15:00,Saracens,44,Worcester,20,Allianz Park,Tim Wigglesworth,64,H,N,Sat,May,2014,2013-14
+03/May/2014,15:15,Sale,22,Leicester,42,Salford City Stadium,JP Doyle,64,A,N,Sat,May,2014,2013-14
+04/May/2014,14:00,Exeter,29,Harlequins,30,Sandy Park,Andrew Small,59,A,N,Sun,May,2014,2013-14
+10/May/2014,15:15,Harlequins,19,Bath,16,Twickenham Stoop,Wayne Barnes,35,H,N,Sat,May,2014,2013-14
+10/May/2014,15:15,Leicester,31,Saracens,27,Welford Road,Greg Garner,58,H,N,Sat,May,2014,2013-14
+10/May/2014,15:15,London Irish,22,Sale,20,Madejski Stadium,Greg Macdonald,42,H,N,Sat,May,2014,2013-14
+10/May/2014,15:15,Newcastle,13,Exeter,23,Kingston Park,Craig Maxwell-Keys,36,A,N,Sat,May,2014,2013-14
+10/May/2014,15:15,Northampton,74,Wasps,13,Franklin's Gardens,Luke Pearce,87,H,N,Sat,May,2014,2013-14
+10/May/2014,15:15,Worcester,28,Gloucester,27,Sixways,JP Doyle,55,H,N,Sat,May,2014,2013-14
+16/May/2014,19:45,Northampton,21,Leicester,20,Franklin's Gardens,JP Doyle,41,H,N,Fri,May,2014,2013-14
+17/May/2014,14:00,Saracens,31,Harlequins,17,Allianz Park,Wayne Barnes,48,H,N,Sat,May,2014,2013-14
+31/May/2014,15:00,Northampton,24,Saracens,20,Twickenham Stadium,JP Doyle,44,H,Y,Sat,May,2014,2013-14
