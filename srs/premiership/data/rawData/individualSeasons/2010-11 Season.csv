@@ -1,0 +1,142 @@
+﻿date,time,team1Name,team1Score,team2Name,team2Score,venue,referee,totalScore,winner,extraTime,day,month,year,season
+03/Sep/2010,19:45,Sale,35,Newcastle,18,Edgeley Park,Dean Richards,53,H,N,Fri,Sep,2010,2010-11
+04/Sep/2010,14:00,London Irish,33,Saracens,16,Twickenham Stadium,Andrew Small,49,H,N,Sat,Sep,2010,2010-11
+04/Sep/2010,15:00,Exeter,22,Gloucester,10,Sandy Park,Rob Debney,32,H,N,Sat,Sep,2010,2010-11
+04/Sep/2010,16:30,Wasps,29,Harlequins,29,Twickenham Stadium,Chris White,58,D,N,Sat,Sep,2010,2010-11
+05/Sep/2010,15:00,Leeds,16,Bath,32,Headingley,N/A,48,A,N,Sun,Sep,2010,2010-11
+05/Sep/2010,15:00,Northampton,27,Leicester,19,Franklin's Gardens,Dave Pearson,46,H,N,Sun,Sep,2010,2010-11
+10/Sep/2010,20:00,Newcastle,29,Wasps,17,Kingston Park,N/A,46,H,N,Fri,Sep,2010,2010-11
+11/Sep/2010,13:30,Harlequins,16,Northampton,20,Twickenham Stoop,Andrew Small,36,A,N,Sat,Sep,2010,2010-11
+11/Sep/2010,14:15,Bath,20,London Irish,13,Recreation Ground,Dave Pearson,33,H,N,Sat,Sep,2010,2010-11
+11/Sep/2010,15:00,Gloucester,22,Leeds,21,Kingsholm,N/A,43,H,N,Sat,Sep,2010,2010-11
+11/Sep/2010,17:30,Leicester,37,Exeter,27,Welford Road,Dean Richards,64,H,N,Sat,Sep,2010,2010-11
+12/Sep/2010,14:15,Saracens,28,Sale,13,Vicarage Road,Wayne Barnes,41,H,N,Sun,Sep,2010,2010-11
+17/Sep/2010,19:45,Northampton,31,Bath,10,Franklin's Gardens,Chris White,41,H,N,Fri,Sep,2010,2010-11
+17/Sep/2010,19:45,Sale,21,Harlequins,17,Edgeley Park,Dave Pearson,38,H,N,Fri,Sep,2010,2010-11
+18/Sep/2010,15:00,Exeter,22,Newcastle,17,Sandy Park,Greg Garner,39,H,N,Sat,Sep,2010,2010-11
+18/Sep/2010,15:05,Wasps,37,Leicester,30,Adams Park,Wayne Barnes,67,H,N,Sat,Sep,2010,2010-11
+19/Sep/2010,15:00,London Irish,23,Gloucester,16,Madejski Stadium,Dean Richards,39,H,N,Sun,Sep,2010,2010-11
+19/Sep/2010,15:00,Leeds,14,Saracens,26,Headingley,Sean Davey,40,A,N,Sun,Sep,2010,2010-11
+25/Sep/2010,14:15,Bath,31,Sale,16,Recreation Ground,N/A,47,H,N,Sat,Sep,2010,2010-11
+25/Sep/2010,14:30,Gloucester,22,Wasps,20,Kingsholm,N/A,42,H,N,Sat,Sep,2010,2010-11
+25/Sep/2010,15:00,Harlequins,40,Exeter,13,Twickenham Stoop,N/A,53,H,N,Sat,Sep,2010,2010-11
+25/Sep/2010,15:00,Leicester,48,Leeds,6,Welford Road,N/A,54,H,N,Sat,Sep,2010,2010-11
+25/Sep/2010,17:15,Newcastle,12,London Irish,46,Kingston Park,N/A,58,A,N,Sat,Sep,2010,2010-11
+26/Sep/2010,15:00,Saracens,24,Northampton,17,Vicarage Road,N/A,41,H,N,Sun,Sep,2010,2010-11
+01/Oct/2010,19:45,Sale,24,Wasps,25,Edgeley Park,N/A,49,A,N,Fri,Oct,2010,2010-11
+01/Oct/2010,20:05,Bath,3,Gloucester,18,Recreation Ground,N/A,21,A,N,Fri,Oct,2010,2010-11
+02/Oct/2010,15:00,Harlequins,23,Newcastle,12,Twickenham Stoop,N/A,35,H,N,Sat,Oct,2010,2010-11
+02/Oct/2010,15:00,London Irish,40,Leeds,24,Madejski Stadium,N/A,64,H,N,Sat,Oct,2010,2010-11
+02/Oct/2010,15:00,Northampton,27,Exeter,21,Franklin's Gardens,N/A,48,H,N,Sat,Oct,2010,2010-11
+03/Oct/2010,16:30,Saracens,26,Leicester,20,Vicarage Road,N/A,46,H,N,Sun,Oct,2010,2010-11
+22/Oct/2010,19:45,Leeds,3,Sale,6,Headingley,N/A,9,A,N,Fri,Oct,2010,2010-11
+22/Oct/2010,20:00,Newcastle,13,Saracens,15,Kingston Park,N/A,28,A,N,Fri,Oct,2010,2010-11
+23/Oct/2010,14:30,Leicester,21,Bath,15,Welford Road,N/A,36,H,N,Sat,Oct,2010,2010-11
+23/Oct/2010,15:00,Gloucester,33,Harlequins,26,Kingsholm,N/A,59,H,N,Sat,Oct,2010,2010-11
+23/Oct/2010,17:15,Exeter,9,London Irish,12,Sandy Park,N/A,21,A,N,Sat,Oct,2010,2010-11
+24/Oct/2010,14:45,Wasps,10,Northampton,37,Adams Park,N/A,47,A,N,Sun,Oct,2010,2010-11
+30/Oct/2010,14:30,Northampton,34,Newcastle,13,Franklin's Gardens,Nigel Owens,47,H,N,Sat,Oct,2010,2010-11
+30/Oct/2010,15:00,Saracens,9,Exeter,23,Vicarage Road,Tim Wigglesworth,32,A,N,Sat,Oct,2010,2010-11
+30/Oct/2010,17:30,Gloucester,19,Leicester,12,Kingsholm,Wayne Barnes,31,H,N,Sat,Oct,2010,2010-11
+31/Oct/2010,15:00,Harlequins,6,Bath,6,Twickenham Stoop,Sean Davey,12,D,N,Sun,Oct,2010,2010-11
+31/Oct/2010,15:00,Leeds,8,Wasps,17,Headingley,Dean Richards,25,A,N,Sun,Oct,2010,2010-11
+31/Oct/2010,15:00,London Irish,39,Sale,26,Madejski Stadium,Martin Fox,65,H,N,Sun,Oct,2010,2010-11
+19/Nov/2010,19:45,Sale,10,Northampton,19,Edgeley Park,N/A,29,A,N,Fri,Nov,2010,2010-11
+19/Nov/2010,19:45,Leicester,18,Harlequins,13,Welford Road,N/A,31,H,N,Fri,Nov,2010,2010-11
+20/Nov/2010,15:00,Exeter,15,Leeds,9,Sandy Park,N/A,24,H,N,Sat,Nov,2010,2010-11
+21/Nov/2010,14:45,Wasps,33,London Irish,25,Adams Park,N/A,58,H,N,Sun,Nov,2010,2010-11
+21/Nov/2010,15:00,Newcastle,12,Gloucester,6,Kingston Park,N/A,18,H,N,Sun,Nov,2010,2010-11
+21/Nov/2010,16:15,Bath,13,Saracens,17,Recreation Ground,N/A,30,A,N,Sun,Nov,2010,2010-11
+27/Nov/2010,15:00,Exeter,24,Sale,19,Sandy Park,N/A,43,H,N,Sat,Nov,2010,2010-11
+27/Nov/2010,15:00,Leicester,44,Newcastle,19,Welford Road,N/A,63,H,N,Sat,Nov,2010,2010-11
+27/Nov/2010,15:00,Northampton,35,London Irish,23,Franklin's Gardens,N/A,58,H,N,Sat,Nov,2010,2010-11
+27/Nov/2010,16:30,Gloucester,19,Saracens,13,Kingsholm,N/A,32,H,N,Sat,Nov,2010,2010-11
+27/Nov/2010,17:30,Bath,6,Wasps,11,Recreation Ground,Dean Richards,17,A,N,Sat,Nov,2010,2010-11
+28/Nov/2010,15:00,Harlequins,51,Leeds,18,Twickenham Stoop,N/A,69,H,N,Sun,Nov,2010,2010-11
+03/Dec/2010,19:45,Sale,Postponed,Gloucester,Postponed,Edgeley Park,N/A,N/A,N/A,N,Fri,Dec,2010,2010-11
+03/Dec/2010,20:00,Newcastle,Postponed,Bath,Postponed,Kingston Park,N/A,N/A,N/A,N,Fri,Dec,2010,2010-11
+04/Dec/2010,15:00,London Irish,14,Leicester,23,Madejski Stadium,N/A,37,A,N,Sat,Dec,2010,2010-11
+05/Dec/2010,14:45,Wasps,24,Exeter,12,Adams Park,N/A,36,H,N,Sun,Dec,2010,2010-11
+05/Dec/2010,15:00,Leeds,Postponed,Northampton,Postponed,Headingley,N/A,N/A,N/A,N,Sun,Dec,2010,2010-11
+05/Dec/2010,15:00,Saracens,26,Harlequins,14,Vicarage Road,N/A,40,H,N,Sun,Dec,2010,2010-11
+26/Dec/2010,14:15,Bath,Postponed,Exeter,Postponed,Recreation Ground,N/A,N/A,N/A,N,Sun,Dec,2010,2010-11
+26/Dec/2010,15:00,Gloucester,Postponed,Northampton,Postponed,Kingsholm,N/A,N/A,N/A,N,Sun,Dec,2010,2010-11
+26/Dec/2010,15:00,Newcastle,Postponed,Leeds,Postponed,Kingston Park,N/A,N/A,N/A,N,Sun,Dec,2010,2010-11
+26/Dec/2010,15:00,Saracens,13,Wasps,6,Wembley Stadium,N/A,19,H,N,Sun,Dec,2010,2010-11
+27/Dec/2010,15:00,Leicester,54,Sale,21,Welford Road,N/A,75,H,N,Mon,Dec,2010,2010-11
+27/Dec/2010,16:15,Harlequins,28,London Irish,18,Twickenham Stadium,N/A,46,H,N,Mon,Dec,2010,2010-11
+01/Jan/2011,15:00,Leeds,15,Gloucester,13,Headingley,N/A,28,H,N,Sat,Jan,2011,2010-11
+01/Jan/2011,15:00,London Irish,24,Bath,25,Madejski Stadium,N/A,49,A,N,Sat,Jan,2011,2010-11
+01/Jan/2011,15:00,Northampton,13,Harlequins,16,Franklin's Gardens,N/A,29,A,N,Sat,Jan,2011,2010-11
+02/Jan/2011,14:45,Wasps,33,Newcastle,16,Adams Park,N/A,49,H,N,Sun,Jan,2011,2010-11
+02/Jan/2011,15:00,Sale,28,Saracens,22,Edgeley Park,N/A,50,H,N,Sun,Jan,2011,2010-11
+02/Jan/2011,16:15,Exeter,15,Leicester,22,Sandy Park,N/A,37,A,N,Sun,Jan,2011,2010-11
+07/Jan/2011,19:45,Newcastle,19,Sale,19,Kingston Park,N/A,38,D,N,Fri,Jan,2011,2010-11
+08/Jan/2011,14:15,Bath,16,Leeds,13,Recreation Ground,N/A,29,H,N,Sat,Jan,2011,2010-11
+08/Jan/2011,15:00,Gloucester,37,Exeter,23,Kingsholm,N/A,60,H,N,Sat,Jan,2011,2010-11
+08/Jan/2011,15:00,Harlequins,17,Wasps,10,Twickenham Stoop,N/A,27,H,N,Sat,Jan,2011,2010-11
+08/Jan/2011,15:00,Leicester,27,Northampton,16,Welford Road,N/A,43,H,N,Sat,Jan,2011,2010-11
+09/Jan/2011,15:00,Saracens,12,London Irish,6,Vicarage Road,N/A,18,H,N,Sun,Jan,2011,2010-11
+11/Feb/2011,19:45,Sale,7,Bath,19,Edgeley Park,N/A,26,A,N,Fri,Feb,2011,2010-11
+12/Feb/2011,12:30,London Irish,23 ,Newcastle,14,Madejski Stadium,N/A,37,H,N,Sat,Feb,2011,2010-11
+12/Feb/2011,15:00,Exeter,20,Harlequins,6,Sandy Park,N/A,26,H,N,Sat,Feb,2011,2010-11
+12/Feb/2011,15:00,Northampton,15,Saracens,29,Franklin's Gardens,N/A,44,A,N,Sat,Feb,2011,2010-11
+13/Feb/2011,15:00,Leeds,9,Leicester,15,Headingley,N/A,24,A,N,Sun,Feb,2011,2010-11
+13/Feb/2011,17:00,Wasps,9,Gloucester,10,Adams Park,N/A,19,A,N,Sun,Feb,2011,2010-11
+18/Feb/2011,19:45,Gloucester,23,London Irish,9,Kingsholm,N/A,32,H,N,Fri,Feb,2011,2010-11
+18/Feb/2011,20:00,Newcastle,13,Exeter,23,Kingston Park,N/A,36,A,N,Fri,Feb,2011,2010-11
+19/Feb/2011,15:00,Bath,38,Northampton,8,Recreation Ground,N/A,46,H,N,Sat,Feb,2011,2010-11
+19/Feb/2011,15:00,Harlequins,21,Sale,9,Twickenham Stoop,N/A,30,H,N,Sat,Feb,2011,2010-11
+19/Feb/2011,17:30,Leicester,21,Wasps,12,Welford Road,N/A,33,H,N,Sat,Feb,2011,2010-11
+20/Feb/2011,15:00,Saracens,39,Leeds,0,Vicarage Road,N/A,39,H,N,Sun,Feb,2011,2010-11
+25/Feb/2011,19:45,Sale,16,Leicester,18,Edgeley Park,N/A,34,A,N,Fri,Feb,2011,2010-11
+26/Feb/2011,15:00,Exeter,9,Bath,12,Sandy Park,N/A,21,A,N,Sat,Feb,2011,2010-11
+26/Feb/2011,15:00,London Irish,15,Harlequins,9,Madejski Stadium,N/A,24,H,N,Sat,Feb,2011,2010-11
+26/Feb/2011,15:00,Northampton,16,Gloucester,18,Franklin's Gardens,N/A,34,A,N,Sat,Feb,2011,2010-11
+27/Feb/2011,13:00,Wasps,15,Saracens,26,Adams Park,N/A,41,A,N,Sun,Feb,2011,2010-11
+27/Feb/2011,17:30,Leeds,5,Newcastle,22,Headingley,N/A,27,A,N,Sun,Feb,2011,2010-11
+04/Mar/2011,20:00,Newcastle,33,Harlequins,18,Kingston Park,N/A,51,H,N,Fri,Mar,2011,2010-11
+05/Mar/2011,15:00,Gloucester,34,Bath,22,Kingsholm,N/A,56,H,N,Sat,Mar,2011,2010-11
+05/Mar/2011,15:15,Leicester,14,Saracens,15,Welford Road,N/A,29,A,N,Sat,Mar,2011,2010-11
+06/Mar/2011,15:00,Exeter,30,Northampton,9,Sandy Park,N/A,39,H,N,Sun,Mar,2011,2010-11
+06/Mar/2011,15:00,Wasps,33,Sale,26,Adams Park,N/A,59,H,N,Sun,Mar,2011,2010-11
+06/Mar/2011,15:00,Leeds,27,London Irish,19,Headingley,N/A,46,H,N,Sun,Mar,2011,2010-11
+12/Mar/2011,15:00,Leeds,13,Northampton,23,Headingley,N/A,36,A,N,Sat,Mar,2011,2010-11
+25/Mar/2011,19:45,Sale,15,Leeds,12,Edgeley Park,N/A,27,H,N,Fri,Mar,2011,2010-11
+26/Mar/2011,15:00,Harlequins,53,Gloucester,15,Twickenham Stoop,N/A,68,H,N,Sat,Mar,2011,2010-11
+26/Mar/2011,15:00,London Irish,39,Exeter,17,Madejski Stadium,N/A,56,H,N,Sat,Mar,2011,2010-11
+26/Mar/2011,16:30,Bath,6,Leicester,37,Recreation Ground,N/A,43,A,N,Sat,Mar,2011,2010-11
+27/Mar/2011,13:45,Northampton,39,Wasps,3,Franklin's Gardens,N/A,42,H,N,Sun,Mar,2011,2010-11
+27/Mar/2011,15:00,Saracens,24,Newcastle,9,Vicarage Road,N/A,33,H,N,Sun,Mar,2011,2010-11
+02/Apr/2011,14:30,Northampton,53,Sale,24,Franklin's Gardens,N/A,77,H,N,Sat,Apr,2011,2010-11
+02/Apr/2011,15:00,Gloucester,34,Newcastle,9,Kingsholm,Dean Richards,43,H,N,Sat,Apr,2011,2010-11
+02/Apr/2011,17:30,Harlequins,13,Leicester,17,Twickenham Stoop,Wayne Barnes,30,A,N,Sat,Apr,2011,2010-11
+03/Apr/2011,15:00,Leeds,27,Exeter,22,Headingley,Tim Wigglesworth,49,H,N,Sun,Apr,2011,2010-11
+03/Apr/2011,15:00,London Irish,25,Wasps,12,Madejski Stadium,Chris White,37,H,N,Sun,Apr,2011,2010-11
+03/Apr/2011,15:00,Saracens,20,Bath,9,Vicarage Road,Nigel Owens,29,H,N,Sun,Apr,2011,2010-11
+08/Apr/2011,19:45,Sale,36,Gloucester,31,Edgeley Park,N/A,67,H,N,Fri,Apr,2011,2010-11
+09/Apr/2011,14:30,Bath,26,Exeter,18,Recreation Ground,N/A,44,H,N,Sat,Apr,2011,2010-11
+09/Apr/2011,15:00,Newcastle,29,Leeds,30,Kingston Park,N/A,59,A,N,Sat,Apr,2011,2010-11
+15/Apr/2011,19:45,Newcastle,15,Northampton,22,Kingston Park,Greg Garner,37,A,N,Fri,Apr,2011,2010-11
+16/Apr/2011,14:15,Bath,19,Harlequins,15,Recreation Ground,Dave Pearson,34,H,N,Sat,Apr,2011,2010-11
+16/Apr/2011,15:00,Exeter,12,Saracens,33,Sandy Park,Dean Richards,45,A,N,Sat,Apr,2011,2010-11
+16/Apr/2011,15:00,Leicester,41,Gloucester,41,Welford Road,George Clancy,82,D,N,Sat,Apr,2011,2010-11
+16/Apr/2011,17:30,Sale,20,London Irish,34,Reebok Stadium,N/A,54,A,N,Sat,Apr,2011,2010-11
+17/Apr/2011,15:00,Wasps,51,Leeds,18,Adams Park,N/A,69,H,N,Sun,Apr,2011,2010-11
+19/Apr/2011,19:45,Gloucester,27,Northampton,15,Kingsholm,N/A,42,H,N,Tue,Apr,2011,2010-11
+22/Apr/2011,15:00,Sale,24,Exeter,30,Edgeley Park,Peter Fitzgibbon,54,A,N,Fri,Apr,2011,2010-11
+22/Apr/2011,18:00,Newcastle,13,Leicester,24,Kingston Park,Tim Wigglesworth,37,A,N,Fri,Apr,2011,2010-11
+23/Apr/2011,15:00,London Irish,20,Northampton,26,Madejski Stadium,N/A,46,A,N,Sat,Apr,2011,2010-11
+23/Apr/2011,17:30,Wasps,10,Bath,43,Twickenham Stadium,Wayne Barnes,53,A,N,Sat,Apr,2011,2010-11
+24/Apr/2011,13:30,Saracens,35,Gloucester,12,Vicarage Road,Dave Pearson,47,H,N,Sun,Apr,2011,2010-11
+24/Apr/2011,15:00,Leeds,3,Harlequins,38,Headingley,Martin Fox,41,A,N,Sun,Apr,2011,2010-11
+30/Apr/2011,16:00,Newcastle,11,Bath,14,Kingston Park,N/A,25,A,N,Sat,Apr,2011,2010-11
+07/May/2011,15:00,Bath,42,Newcastle,12,Recreation Ground,Wayne Barnes,54,H,N,Sat,May,2011,2010-11
+07/May/2011,15:00,Exeter,21,Wasps,8,Sandy Park,Llyr Apgeraint-Roberts,29,H,N,Sat,May,2011,2010-11
+07/May/2011,15:00,Gloucester,68,Sale,17,Kingsholm,N/A,85,H,N,Sat,May,2011,2010-11
+07/May/2011,15:00,Harlequins,13,Saracens,16,Twickenham Stoop,Tim Wigglesworth,29,A,N,Sat,May,2011,2010-11
+07/May/2011,15:00,Leicester,32,London Irish,23,Welford Road,Greg Garner,55,H,N,Sat,May,2011,2010-11
+07/May/2011,15:00,Northampton,31,Leeds,24,Franklin's Gardens,Andrew Small,55,H,N,Sat,May,2011,2010-11
+14/May/2011,15:15,Leicester,11,Northampton,3,Welford Road,Wayne Barnes,14,H,N,Sat,May,2011,2010-11
+15/May/2011,14:30,Saracens,12,Gloucester,10,Vicarage Road,Andrew Small,22,H,N,Sun,May,2011,2010-11
+28/May/2011,15:00,Leicester,18,Saracens,22,Twickenham Stadium,Wayne Barnes,40,A,N,Sat,May,2011,2010-11
