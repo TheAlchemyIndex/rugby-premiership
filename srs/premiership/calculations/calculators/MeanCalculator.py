@@ -149,25 +149,19 @@ def calc_conditional_means_three_cols(df):
     return new_df
 
 
-def calc_previous_5_scores_mean(df):
-    """Calculate the mean of the score columns, based on the last 5 or fewer scores.
+def calc_rolling_5_scores_mean(df, cols, new_cols):
+    """Calculate the mean for the last 5 home scores and points scored against for each home team on a rolling basis.
 
     :param df: The dataframe the calculation will be performed on
-    :return: A dataframe containing columns of mean values for the score columns, based on the last
-    5 or fewer scores
+    :param cols: The columns of values that the mean will be calculated from
+    :param new_cols: The new columns that will be created that contain the mean values
+    :return: A dataframe containing columns of the rolling mean values for the home team's previous 5 scores as well
+    as the points scored against them
     """
-    # By home team scores
-    avg_home_score_last_5_results = mean_previous_5_scores(df, OriginalColumns.TEAM1_NAME, OriginalColumns.TEAM1_SCORE,
-                                                           CalculatedColumns.AVG_HOME_LAST_5_RESULTS)
-    # By away team scores
-    avg_away_score_last_5_results = mean_previous_5_scores(df, OriginalColumns.TEAM2_NAME, OriginalColumns.TEAM2_SCORE,
-                                                           CalculatedColumns.AVG_AWAY_LAST_5_RESULTS)
-
-    # Merge with df and return new_df of values, rounded to 2 decimal places
-    new_df = pd.merge(df, avg_home_score_last_5_results, on=OriginalColumns.TEAM1_NAME, how="outer")
-    new_df = pd.merge(new_df, avg_away_score_last_5_results, on=OriginalColumns.TEAM2_NAME, how="outer")
-    new_df.fillna('N/A', inplace=True)
-    new_df = new_df.round(2)
+    sorted_df = df.sort_values(OriginalColumns.DATE)
+    rolling_scores = sorted_df[cols].rolling(5, closed="left").mean()
+    sorted_df[new_cols] = rolling_scores
+    new_df = sorted_df.dropna(subset=new_cols)
     return new_df
 
 
@@ -197,3 +191,11 @@ def calc_previous_3_scores_mean_opposition(df):
     new_df.fillna('N/A', inplace=True)
     new_df = new_df.round(2)
     return new_df
+
+
+def rolling_averages(group, cols, new_cols):
+    group = group.sort_values("date")
+    rolling_stats = group[cols].rolling(5, closed="left").mean()
+    group[new_cols] = rolling_stats
+    group = group.dropna(subset=new_cols)
+    return group

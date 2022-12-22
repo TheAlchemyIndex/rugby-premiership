@@ -34,7 +34,14 @@ def create_calculated_columns(first_season_start, first_season_end, last_season_
 
         # Calculates means of previous 5 scores
         df_calc_cond_means_three_cols.sort_values(by='date', inplace=True)
-        df_calc_last_5_results = calc_previous_5_scores_mean(df_calc_cond_means_three_cols)
+
+        # Columns for calculating the mean of the last 5 scores for and against the home team
+        last_5_results_home_cols = [OriginalColumns.TEAM1_SCORE, OriginalColumns.TEAM2_SCORE]
+        last_5_results_home_new_cols = [CalculatedColumns.AVG_HOME_LAST_5_SCORES,
+                                        CalculatedColumns.AVG_HOME_LAST_5_SCORES_AGAINST]
+
+        df_calc_last_5_results = df_calc_cond_means_three_cols.groupby(OriginalColumns.TEAM1_NAME).apply(lambda x: calc_rolling_5_scores_mean(x, last_5_results_home_cols, last_5_results_home_new_cols))
+        df_calc_last_5_results = df_calc_last_5_results.droplevel(OriginalColumns.TEAM1_NAME)
 
         # Calculates means of previous 3 scores against each opponent
         df_calc_last_5_results.sort_values(by='date', inplace=True)

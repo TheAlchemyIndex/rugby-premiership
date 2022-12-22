@@ -31,8 +31,10 @@ AVG_AWAY_SCORE_BY_TEAM_BY_SEASON = "avgAwayScoreByTeamBySeason"
 AVG_AWAY_SCORE_BY_TEAM_BY_VENUE = "avgAwayScoreByTeamByVenue"
 AVG_AWAY_SCORE_BY_TEAM_AGAINST_OPPONENT = "avgAwayScoreByTeamAgainstOpponent"
 
-AVG_HOME_LAST_5_RESULTS = "avgHomeLast5Results"
-AVG_AWAY_LAST_5_RESULTS = "avgAwayLast5Results"
+AVG_HOME_LAST_5_SCORES = "avgHomeLast5Scores"
+AVG_HOME_LAST_5_SCORES_AGAINST = "avgHomeLast5ScoresAgainst"
+#AVG_AWAY_LAST_5_SCORES = "avgAwayLast5Scores"
+#AVG_AWAY_LAST_5_SCORES_AGAINST = "avgAwayLast5ScoresAgainst"
 
 AVG_HOME_LAST_3_RESULTS_OPPOSITION = "avgHomeLast3ResultsAgainstOpponent"
 AVG_AWAY_LAST_3_RESULTS_OPPOSITION = "avgAwayLast3ResultsAgainstOpponent"
