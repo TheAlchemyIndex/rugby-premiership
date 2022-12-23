@@ -11,7 +11,7 @@ def date_formatter(date_data, url):
 
     :param date_data: Date information about a match
     :param url: Url that the match data has been scraped from - for using to get the season
-    :return: A key: value dictionary containing the date, time, month, year and season of a match
+    :return: A key: value dictionary containing the date, time, hour, day, month, year and season of a match
     """
     # Removes any brackets and characters in between if found in the date
     date_data = re.sub("\[(.*?)\]", "", date_data, flags=re.DOTALL).strip()
@@ -29,6 +29,7 @@ def date_formatter(date_data, url):
     if date_split[1].find("pm") != -1:
         time = datetime.datetime.strptime(time, '%I:%M%p').strftime('%H:%M')
 
+    hour = time.split(":")[0]
     day = datetime.datetime.strptime(date, '%d/%b/%Y').strftime('%a')
     month = datetime.datetime.strptime(date, '%d/%b/%Y').strftime('%b')
     year = datetime.datetime.strptime(date, '%d/%b/%Y').strftime('%Y')
@@ -36,6 +37,7 @@ def date_formatter(date_data, url):
     # Extracts season info from url of match details
     season = re.search("[0-9][0-9][0-9][0-9]-[0-9][0-9]", url).group()
 
-    formatted_date = {OriginalColumns.DATE: date, OriginalColumns.TIME: time, OriginalColumns.DAY: day,
-                      OriginalColumns.MONTH: month, OriginalColumns.YEAR: year, OriginalColumns.SEASON: season}
+    formatted_date = {OriginalColumns.DATE: date, OriginalColumns.TIME: time, OriginalColumns.HOUR: hour,
+                      OriginalColumns.DAY: day, OriginalColumns.MONTH: month, OriginalColumns.YEAR: year,
+                      OriginalColumns.SEASON: season}
     return formatted_date

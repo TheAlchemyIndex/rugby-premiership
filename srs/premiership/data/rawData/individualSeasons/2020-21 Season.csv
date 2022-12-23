@@ -1,136 +1,136 @@
-﻿date,time,team1Name,team1Score,team2Name,team2Score,venue,referee,totalScore,winner,extraTime,day,month,year,season
-20/Nov/2020,19:45,Harlequins,3,Exeter,33,Twickenham Stoop,Christophe Ridley,36,A,N,Fri,Nov,2020,2020-21
-20/Nov/2020,20:00,Sale,32,Northampton,23,AJ Bell Stadium,Ian Tempest,55,H,N,Fri,Nov,2020,2020-21
-21/Nov/2020,12:30,Bath,12,Newcastle,19,Recreation Ground,Craig Maxwell-Keys,31,A,N,Sat,Nov,2020,2020-21
-21/Nov/2020,15:00,Leicester,38,Gloucester,15,Welford Road,Jack Makepeace,53,H,N,Sat,Nov,2020,2020-21
-21/Nov/2020,15:00,Worcester,11,London Irish,10,Sixways,Adam Leal,21,H,N,Sat,Nov,2020,2020-21
-22/Nov/2020,13:00,Wasps,23,Bristol,20,Ricoh Arena,Tom Foley,43,H,N,Sun,Nov,2020,2020-21
-27/Nov/2020,19:45,Newcastle,15,Sale,13,Kingston Park,Wayne Barnes,28,H,N,Fri,Nov,2020,2020-21
-28/Nov/2020,14:00,Northampton,29,Harlequins,49,Franklin's Gardens,Tom Foley,78,A,N,Sat,Nov,2020,2020-21
-28/Nov/2020,15:00,Bristol,30,Worcester,13,Ashton Gate,Ian Tempest,43,H,N,Sat,Nov,2020,2020-21
-28/Nov/2020,15:00,Gloucester,40,Wasps,24,Kingsholm,Hamish Smales,64,H,N,Sat,Nov,2020,2020-21
-28/Nov/2020,17:30,Exeter,40,Bath,3,Sandy Park,Christophe Ridley,43,H,N,Sat,Nov,2020,2020-21
-29/Nov/2020,16:15,London Irish,22,Leicester,9,Brentford Community Stadium,Karl Dickson,31,H,N,Sun,Nov,2020,2020-21
-04/Dec/2020,19:45,Bristol,18,Northampton,17,Ashton Gate,Luke Pearce,35,H,N,Fri,Dec,2020,2020-21
-05/Dec/2020,15:00,Leicester,13,Exeter,35,Welford Road,Craig Maxwell-Keys,48,A,N,Sat,Dec,2020,2020-21
-05/Dec/2020,15:00,Wasps,17,Newcastle,27,Ricoh Arena,Andrew Jackson,44,A,N,Sat,Dec,2020,2020-21
-05/Dec/2020,15:00,Worcester,17,Bath,33,Sixways,Tom Foley,50,A,N,Sat,Dec,2020,2020-21
-06/Dec/2020,14:30,London Irish,13,Sale,21,Brentford Community Stadium,Christophe Ridley,34,A,N,Sun,Dec,2020,2020-21
-06/Dec/2020,16:15,Gloucester,24,Harlequins,34,Kingsholm,Ian Tempest,58,A,N,Sun,Dec,2020,2020-21
-26/Dec/2020,14:00,Bath,Cancelled,London Irish,Cancelled,Recreation Ground,N/A,N/A,N/A,N,Sat,Dec,2020,2020-21
-26/Dec/2020,14:00,Harlequins,19,Bristol,27,Twickenham Stoop,Matthew Carley,46,A,N,Sat,Dec,2020,2020-21
-26/Dec/2020,14:00,Newcastle,Cancelled,Leicester,Cancelled,Kingston Park,N/A,N/A,N/A,N,Sat,Dec,2020,2020-21
-26/Dec/2020,15:00,Exeter,28,Gloucester,20,Sandy Park,Tom Foley,48,H,N,Sat,Dec,2020,2020-21
-26/Dec/2020,16:30,Northampton,29,Worcester,10,Franklin's Gardens,Christophe Ridley,39,H,N,Sat,Dec,2020,2020-21
-27/Dec/2020,15:00,Sale,23,Wasps,26,AJ Bell Stadium,Craig Maxwell-Keys,49,A,N,Sun,Dec,2020,2020-21
-01/Jan/2021,15:00,Bristol,29,Newcastle,17,Ashton Gate,Christophe Ridley,46,H,N,Fri,Jan,2021,2020-21
-01/Jan/2021,19:45,Worcester,Cancelled,Harlequins,Cancelled,Sixways,N/A,N/A,N/A,N,Fri,Jan,2021,2020-21
-02/Jan/2021,14:00,Wasps,34,Exeter,5,Ricoh Arena,Ian Tempest,39,H,N,Sat,Jan,2021,2020-21
-02/Jan/2021,16:30,Gloucester,19,Sale,22,Kingsholm,Karl Dickson,41,A,N,Sat,Jan,2021,2020-21
-03/Jan/2021,14:30,London Irish,Cancelled,Northampton,Cancelled,Brentford Community Stadium,N/A,N/A,N/A,N,Sun,Jan,2021,2020-21
-03/Jan/2021,15:00,Leicester,36,Bath,31,Welford Road,Wayne Barnes,67,H,N,Sun,Jan,2021,2020-21
-08/Jan/2021,19:45,Bath,44,Wasps,52,Recreation Ground,Matthew Carley,96,A,N,Fri,Jan,2021,2020-21
-08/Jan/2021,20:00,Sale,20,Worcester,13,AJ Bell Stadium,Wayne Barnes,33,H,N,Fri,Jan,2021,2020-21
-09/Jan/2021,14:00,Newcastle,22,Gloucester,10,Kingston Park,Craig Maxwell-Keys,32,H,N,Sat,Jan,2021,2020-21
-09/Jan/2021,16:30,Exeter,7,Bristol,20,Sandy Park,Karl Dickson,27,A,N,Sat,Jan,2021,2020-21
-09/Jan/2021,16:30,Northampton,Cancelled,Leicester,Cancelled,Franklin's Gardens,N/A,N/A,N/A,N,Sat,Jan,2021,2020-21
-10/Jan/2021,15:00,Harlequins,27,London Irish,27,Twickenham Stoop,Tom Foley,54,D,N,Sun,Jan,2021,2020-21
-29/Jan/2021,19:45,Bristol,48,Bath,3,Ashton Gate,Wayne Barnes,51,H,N,Fri,Jan,2021,2020-21
-29/Jan/2021,19:45,Leicester,15,Sale,25,Welford Road,Ian Tempest,40,A,N,Fri,Jan,2021,2020-21
-30/Jan/2021,15:00,Gloucester,26,Northampton,31,Kingsholm,Karl Dickson,57,A,N,Sat,Jan,2021,2020-21
-30/Jan/2021,15:00,Worcester,17,Exeter,21,Sixways,Tom Foley,38,A,N,Sat,Jan,2021,2020-21
-31/Jan/2021,14:30,London Irish,31,Newcastle,22,Brentford Community Stadium,Matthew Carley,53,H,N,Sun,Jan,2021,2020-21
-31/Jan/2021,15:00,Wasps,17,Harlequins,49,Ricoh Arena,Luke Pearce,66,A,N,Sun,Jan,2021,2020-21
-05/Feb/2021,19:45,Bristol,13,Sale,20,Ashton Gate,Luke Pearce,33,A,N,Fri,Feb,2021,2020-21
-06/Feb/2021,13:00,Wasps,17,Northampton,22,Ricoh Arena,Adam Leal,39,A,N,Sat,Feb,2021,2020-21
-06/Feb/2021,14:15,Bath,15,Harlequins,28,Recreation Ground,Craig Maxwell-Keys,43,A,N,Sat,Feb,2021,2020-21
-06/Feb/2021,15:00,Leicester,41,Worcester,24,Welford Road,Andrew Jackson,65,H,N,Sat,Feb,2021,2020-21
-06/Feb/2021,15:00,London Irish,32,Gloucester,26,Brentford Community Stadium,Ian Tempest,58,H,N,Sat,Feb,2021,2020-21
-07/Feb/2021,13:00,Newcastle,9,Exeter,15,Kingston Park,Anthony Woodthorpe,24,A,N,Sun,Feb,2021,2020-21
-12/Feb/2021,19:45,Gloucester,17,Bristol,18,Kingsholm,Tom Foley,35,A,N,Fri,Feb,2021,2020-21
-12/Feb/2021,20:00,Sale,22,Bath,27,AJ Bell Stadium,Christophe Ridley,49,A,N,Fri,Feb,2021,2020-21
-13/Feb/2021,16:00,Harlequins,37,Leicester,24,Twickenham Stoop,Anthony Woodthorpe,61,H,N,Sat,Feb,2021,2020-21
-13/Feb/2021,16:15,Exeter,26,London Irish,3,Sandy Park,Jack Makepeace,29,H,N,Sat,Feb,2021,2020-21
-13/Feb/2021,16:30,Northampton,Cancelled,Newcastle,Cancelled,Franklin's Gardens,N/A,N/A,N/A,N,Sat,Feb,2021,2020-21
-14/Feb/2021,13:00,Worcester,13,Wasps,17,Sixways,Ian Tempest,30,A,N,Sun,Feb,2021,2020-21
-19/Feb/2021,19:45,Bath,16,Gloucester,14,Recreation Ground,Wayne Barnes,30,H,N,Fri,Feb,2021,2020-21
-20/Feb/2021,13:00,Harlequins,24,Sale,12,Twickenham Stoop,Ian Tempest,36,H,N,Sat,Feb,2021,2020-21
-20/Feb/2021,15:00,Leicester,27,Wasps,8,Welford Road,Craig Maxwell-Keys,35,H,N,Sat,Feb,2021,2020-21
-20/Feb/2021,15:00,Exeter,12,Northampton,13,Sandy Park,Christophe Ridley,25,A,N,Sat,Feb,2021,2020-21
-20/Feb/2021,15:00,Worcester,Cancelled,Newcastle,Cancelled,Sixways,N/A,N/A,N/A,N,Sat,Feb,2021,2020-21
-21/Feb/2021,15:00,London Irish,34,Bristol,34,Brentford Community Stadium,Karl Dickson,68,D,N,Sun,Feb,2021,2020-21
-26/Feb/2021,19:45,Sale,25,Exeter,20,AJ Bell Stadium,Karl Dickson,45,H,N,Fri,Feb,2021,2020-21
-27/Feb/2021,13:00,Bristol,17,Leicester,3,Ashton Gate,Christophe Ridley,20,H,N,Sat,Feb,2021,2020-21
-27/Feb/2021,15:00,Newcastle,25,Harlequins,22,Kingston Park,Jack Makepeace,47,H,N,Sat,Feb,2021,2020-21
-27/Feb/2021,15:00,Wasps,10,London Irish,16,Ricoh Arena,Hamish Smales,26,A,N,Sat,Feb,2021,2020-21
-27/Feb/2021,15:15,Gloucester,22,Worcester,14,Kingsholm,Luke Pearce,36,H,N,Sat,Feb,2021,2020-21
-28/Feb/2021,13:00,Northampton,22,Bath,23,Franklin's Gardens,Ian Tempest,45,A,N,Sun,Feb,2021,2020-21
-05/Mar/2021,19:45,Leicester,33,London Irish,32,Welford Road,Wayne Barnes,65,H,N,Fri,Mar,2021,2020-21
-05/Mar/2021,20:00,Sale,31,Newcastle,16,AJ Bell Stadium,Andrew Jackson,47,H,N,Fri,Mar,2021,2020-21
-06/Mar/2021,15:00,Bath,16,Exeter,38,Recreation Ground,Tom Foley,54,A,N,Sat,Mar,2021,2020-21
-06/Mar/2021,15:00,Wasps,19,Gloucester,20,Ricoh Arena,Matthew Carley,39,A,N,Sat,Mar,2021,2020-21
-06/Mar/2021,17:15,Worcester,23,Bristol,24,Sixways,Craig Maxwell-Keys,47,A,N,Sat,Mar,2021,2020-21
-07/Mar/2021,15:00,Harlequins,37,Northampton,19,Twickenham Stoop,Luke Pearce,56,H,N,Sun,Mar,2021,2020-21
-12/Mar/2021,19:45,Bristol,37,Wasps,20,Ashton Gate,Karl Dickson,57,H,N,Fri,Mar,2021,2020-21
-13/Mar/2021,12:30,Exeter,21,Harlequins,20,Sandy Park,Craig Maxwell-Keys,41,H,N,Sat,Mar,2021,2020-21
-13/Mar/2021,12:30,Newcastle,19,Bath,38,Kingston Park,Ian Tempest,57,A,N,Sat,Mar,2021,2020-21
-13/Mar/2021,14:45,Northampton,17,Sale,14,Franklin's Gardens,Matthew Carley,31,H,N,Sat,Mar,2021,2020-21
-13/Mar/2021,15:00,Gloucester,14,Leicester,20,Kingsholm,Adam Leal,34,A,N,Sat,Mar,2021,2020-21
-14/Mar/2021,13:00,London Irish,20,Worcester,17,Brentford Community Stadium,Luke Pearce,37,H,N,Sun,Mar,2021,2020-21
-19/Mar/2021,19:45,Newcastle,18,Wasps,20,Kingston Park,Anthony Woodthorpe,38,A,N,Fri,Mar,2021,2020-21
-20/Mar/2021,14:00,Bath,47,Worcester,22,Recreation Ground,Adam Leal,69,H,N,Sat,Mar,2021,2020-21
-20/Mar/2021,14:00,Harlequins,59,Gloucester,24,Twickenham Stoop,Ian Tempest,83,H,N,Sat,Mar,2021,2020-21
-20/Mar/2021,14:30,Exeter,47,Leicester,31,Sandy Park,Jack Makepeace,78,H,N,Sat,Mar,2021,2020-21
-21/Mar/2021,15:00,Northampton,21,Bristol,28,Franklin's Gardens,Tom Foley,49,A,N,Sun,Mar,2021,2020-21
-21/Mar/2021,15:00,Sale,41,London Irish,13,AJ Bell Stadium,Craig Maxwell-Keys,54,H,N,Sun,Mar,2021,2020-21
-26/Mar/2021,17:30,Gloucester,34,Exeter,18,Kingsholm,Luke Pearce,52,H,N,Fri,Mar,2021,2020-21
-27/Mar/2021,14:00,Bristol,35,Harlequins,33,Ashton Gate,Hamish Smales,68,H,N,Sat,Mar,2021,2020-21
-27/Mar/2021,15:00,London Irish,36,Bath,33,Brentford Community Stadium,Craig Maxwell-Keys,69,H,N,Sat,Mar,2021,2020-21
-27/Mar/2021,15:00,Worcester,14,Northampton,62,Sixways,Andrew Jackson,76,A,N,Sat,Mar,2021,2020-21
-27/Mar/2021,16:30,Wasps,19,Sale,20,Ricoh Arena,Christophe Ridley,39,A,N,Sat,Mar,2021,2020-21
-28/Mar/2021,15:00,Leicester,26,Newcastle,12,Welford Road,Karl Dickson,38,H,N,Sun,Mar,2021,2020-21
-16/Apr/2021,19:45,Northampton,44,London Irish,26,Franklin's Gardens,Wayne Barnes,70,H,N,Fri,Apr,2021,2020-21
-17/Apr/2021,12:30,Exeter,43,Wasps,13,Sandy Park,Tom Foley,56,H,N,Sat,Apr,2021,2020-21
-17/Apr/2021,12:30,Sale,25,Gloucester,22,AJ Bell Stadium,Adam Leal,47,H,N,Sat,Apr,2021,2020-21
-17/Apr/2021,17:00,Harlequins,50,Worcester,26,Twickenham Stoop,Craig Maxwell-Keys,76,H,N,Sat,Apr,2021,2020-21
-17/Apr/2021,17:00,Newcastle,17,Bristol,34,Kingston Park,Christophe Ridley,51,A,N,Sat,Apr,2021,2020-21
-18/Apr/2021,15:00,Bath,21,Leicester,20,Recreation Ground,Luke Pearce,41,H,N,Sun,Apr,2021,2020-21
-23/Apr/2021,19:45,Bristol,12,Exeter,20,Ashton Gate,N/A,32,A,N,Fri,Apr,2021,2020-21
-24/Apr/2021,12:30,London Irish,21,Harlequins,25,Brentford Community Stadium,N/A,46,A,N,Sat,Apr,2021,2020-21
-24/Apr/2021,15:00,Gloucester,35,Newcastle,24,Kingsholm,N/A,59,H,N,Sat,Apr,2021,2020-21
-24/Apr/2021,15:00,Leicester,18,Northampton,23,Welford Road,N/A,41,A,N,Sat,Apr,2021,2020-21
-24/Apr/2021,15:00,Worcester,32,Sale,35,Sixways,N/A,67,A,N,Sat,Apr,2021,2020-21
-25/Apr/2021,15:00,Wasps,39,Bath,29,Ricoh Arena,N/A,68,H,N,Sun,Apr,2021,2020-21
-07/May/2021,19:45,Sale,26,Leicester,10,AJ Bell Stadium,Tom Foley,36,H,N,Fri,May,2021,2020-21
-08/May/2021,14:00,Northampton,7,Gloucester,31,Franklin's Gardens,Ian Tempest,38,A,N,Sat,May,2021,2020-21
-08/May/2021,15:00,Exeter,41,Worcester,10,Sandy Park,Anthony Woodthorpe,51,H,N,Sat,May,2021,2020-21
-08/May/2021,15:00,Newcastle,52,London Irish,27,Kingston Park,Jack Makepeace,79,H,N,Sat,May,2021,2020-21
-08/May/2021,16:30,Bath,20,Bristol,40,Recreation Ground,Luke Pearce,60,A,N,Sat,May,2021,2020-21
-09/May/2021,15:00,Harlequins,48,Wasps,46,Twickenham Stoop,Wayne Barnes,94,H,N,Sun,May,2021,2020-21
-14/May/2021,19:45,Bath,20,Sale,24,Recreation Ground,Karl Dickson,44,A,N,Fri,May,2021,2020-21
-15/May/2021,15:00,Wasps,23,Worcester,19,Ricoh Arena,Ian Tempest,42,H,N,Sat,May,2021,2020-21
-15/May/2021,15:30,Leicester,35,Harlequins,29,Welford Road,Luke Pearce,64,H,N,Sat,May,2021,2020-21
-17/May/2021,19:30,Newcastle,18,Northampton,10,Kingston Park,Matthew Carley,28,H,N,Mon,May,2021,2020-21
-17/May/2021,19:45,Bristol,39,Gloucester,7,Ashton Gate,Craig Maxwell-Keys,46,H,N,Mon,May,2021,2020-21
-18/May/2021,19:45,London Irish,12,Exeter,31,Brentford Community Stadium,Christophe Ridley,43,A,N,Tue,May,2021,2020-21
-28/May/2021,19:45,Sale,22,Bristol,12,AJ Bell Stadium,Christophe Ridley,34,H,N,Fri,May,2021,2020-21
-28/May/2021,19:45,Gloucester,30,London Irish,28,Kingsholm,Matthew Carley,58,H,N,Fri,May,2021,2020-21
-29/May/2021,14:00,Harlequins,44,Bath,33,Twickenham Stoop,Tom Foley,77,H,N,Sat,May,2021,2020-21
-30/May/2021,15:00,Worcester,17,Leicester,18,Sixways,Karl Dickson,35,A,N,Sun,May,2021,2020-21
-29/May/2021,16:30,Northampton,30,Wasps,25,Franklin's Gardens,Adam Leal,55,H,N,Sat,May,2021,2020-21
-30/May/2021,13:30,Exeter,74,Newcastle,3,Sandy Park,Andrew Jackson,77,H,N,Sun,May,2021,2020-21
-04/Jun/2021,19:45,Sale,45,Harlequins,12,AJ Bell Stadium,Wayne Barnes,57,H,N,Fri,Jun,2021,2020-21
-05/Jun/2021,14:00,Gloucester,Cancelled,Bath,Cancelled,Kingsholm,N/A,N/A,N/A,N,Sat,Jun,2021,2020-21
-05/Jun/2021,15:00,Leicester,23,Bristol,26,Welford Road,Ian Tempest,49,A,N,Sat,Jun,2021,2020-21
-05/Jun/2021,15:00,Newcastle,24,Worcester,14,Kingston Park,Luke Pearce,38,H,N,Sat,Jun,2021,2020-21
-05/Jun/2021,16:30,London Irish,36,Wasps,39,Brentford Community Stadium,Tom Foley,75,A,N,Sat,Jun,2021,2020-21
-06/Jun/2021,15:00,Northampton,26,Exeter,29,Franklin's Gardens,Craig Maxwell-Keys,55,A,N,Sun,Jun,2021,2020-21
-12/Jun/2021,15:00,Bath,30,Northampton,24,Recreation Ground,N/A,54,H,N,Sat,Jun,2021,2020-21
-12/Jun/2021,15:00,Bristol,Cancelled,London Irish,Cancelled,Ashton Gate,N/A,N/A,N/A,N,Sat,Jun,2021,2020-21
-12/Jun/2021,15:00,Exeter,20,Sale,19,Sandy Park,N/A,39,H,N,Sat,Jun,2021,2020-21
-12/Jun/2021,15:00,Harlequins,54,Newcastle,26,Twickenham Stoop,N/A,80,H,N,Sat,Jun,2021,2020-21
-12/Jun/2021,15:00,Wasps,31,Leicester,38,Ricoh Arena,N/A,69,A,N,Sat,Jun,2021,2020-21
-12/Jun/2021,15:00,Worcester,Cancelled,Gloucester,Cancelled,Sixways,N/A,N/A,N/A,N,Sat,Jun,2021,2020-21
-19/Jun/2020,13:30,Bristol,36,Harlequins,43,Ashton Gate,Wayne Barnes,79,A,Y,Fri,Jun,2020,2020-21
-19/Jun/2020,16:30,Exeter,40,Sale,30,Sandy Park,Tom Foley,70,H,N,Fri,Jun,2020,2020-21
-26/Jun/2020,17:30,Exeter,38,Harlequins,40,Twickenham Stadium,Matthew Carley,78,A,N,Fri,Jun,2020,2020-21
+﻿date,time,team1Name,team1Score,team2Name,team2Score,venue,referee,totalScore,winner,extraTime,hour,day,month,year,season
+20/Nov/2020,19:45,Harlequins,3,Exeter,33,Twickenham Stoop,Christophe Ridley,36,A,N,19,Fri,Nov,2020,2020-21
+20/Nov/2020,20:00,Sale,32,Northampton,23,AJ Bell Stadium,Ian Tempest,55,H,N,20,Fri,Nov,2020,2020-21
+21/Nov/2020,12:30,Bath,12,Newcastle,19,Recreation Ground,Craig Maxwell-Keys,31,A,N,12,Sat,Nov,2020,2020-21
+21/Nov/2020,15:00,Leicester,38,Gloucester,15,Welford Road,Jack Makepeace,53,H,N,15,Sat,Nov,2020,2020-21
+21/Nov/2020,15:00,Worcester,11,London Irish,10,Sixways,Adam Leal,21,H,N,15,Sat,Nov,2020,2020-21
+22/Nov/2020,13:00,Wasps,23,Bristol,20,Ricoh Arena,Tom Foley,43,H,N,13,Sun,Nov,2020,2020-21
+27/Nov/2020,19:45,Newcastle,15,Sale,13,Kingston Park,Wayne Barnes,28,H,N,19,Fri,Nov,2020,2020-21
+28/Nov/2020,14:00,Northampton,29,Harlequins,49,Franklin's Gardens,Tom Foley,78,A,N,14,Sat,Nov,2020,2020-21
+28/Nov/2020,15:00,Bristol,30,Worcester,13,Ashton Gate,Ian Tempest,43,H,N,15,Sat,Nov,2020,2020-21
+28/Nov/2020,15:00,Gloucester,40,Wasps,24,Kingsholm,Hamish Smales,64,H,N,15,Sat,Nov,2020,2020-21
+28/Nov/2020,17:30,Exeter,40,Bath,3,Sandy Park,Christophe Ridley,43,H,N,17,Sat,Nov,2020,2020-21
+29/Nov/2020,16:15,London Irish,22,Leicester,9,Brentford Community Stadium,Karl Dickson,31,H,N,16,Sun,Nov,2020,2020-21
+04/Dec/2020,19:45,Bristol,18,Northampton,17,Ashton Gate,Luke Pearce,35,H,N,19,Fri,Dec,2020,2020-21
+05/Dec/2020,15:00,Leicester,13,Exeter,35,Welford Road,Craig Maxwell-Keys,48,A,N,15,Sat,Dec,2020,2020-21
+05/Dec/2020,15:00,Wasps,17,Newcastle,27,Ricoh Arena,Andrew Jackson,44,A,N,15,Sat,Dec,2020,2020-21
+05/Dec/2020,15:00,Worcester,17,Bath,33,Sixways,Tom Foley,50,A,N,15,Sat,Dec,2020,2020-21
+06/Dec/2020,14:30,London Irish,13,Sale,21,Brentford Community Stadium,Christophe Ridley,34,A,N,14,Sun,Dec,2020,2020-21
+06/Dec/2020,16:15,Gloucester,24,Harlequins,34,Kingsholm,Ian Tempest,58,A,N,16,Sun,Dec,2020,2020-21
+26/Dec/2020,14:00,Bath,Cancelled,London Irish,Cancelled,Recreation Ground,N/A,N/A,N/A,N,14,Sat,Dec,2020,2020-21
+26/Dec/2020,14:00,Harlequins,19,Bristol,27,Twickenham Stoop,Matthew Carley,46,A,N,14,Sat,Dec,2020,2020-21
+26/Dec/2020,14:00,Newcastle,Cancelled,Leicester,Cancelled,Kingston Park,N/A,N/A,N/A,N,14,Sat,Dec,2020,2020-21
+26/Dec/2020,15:00,Exeter,28,Gloucester,20,Sandy Park,Tom Foley,48,H,N,15,Sat,Dec,2020,2020-21
+26/Dec/2020,16:30,Northampton,29,Worcester,10,Franklin's Gardens,Christophe Ridley,39,H,N,16,Sat,Dec,2020,2020-21
+27/Dec/2020,15:00,Sale,23,Wasps,26,AJ Bell Stadium,Craig Maxwell-Keys,49,A,N,15,Sun,Dec,2020,2020-21
+01/Jan/2021,15:00,Bristol,29,Newcastle,17,Ashton Gate,Christophe Ridley,46,H,N,15,Fri,Jan,2021,2020-21
+01/Jan/2021,19:45,Worcester,Cancelled,Harlequins,Cancelled,Sixways,N/A,N/A,N/A,N,19,Fri,Jan,2021,2020-21
+02/Jan/2021,14:00,Wasps,34,Exeter,5,Ricoh Arena,Ian Tempest,39,H,N,14,Sat,Jan,2021,2020-21
+02/Jan/2021,16:30,Gloucester,19,Sale,22,Kingsholm,Karl Dickson,41,A,N,16,Sat,Jan,2021,2020-21
+03/Jan/2021,14:30,London Irish,Cancelled,Northampton,Cancelled,Brentford Community Stadium,N/A,N/A,N/A,N,14,Sun,Jan,2021,2020-21
+03/Jan/2021,15:00,Leicester,36,Bath,31,Welford Road,Wayne Barnes,67,H,N,15,Sun,Jan,2021,2020-21
+08/Jan/2021,19:45,Bath,44,Wasps,52,Recreation Ground,Matthew Carley,96,A,N,19,Fri,Jan,2021,2020-21
+08/Jan/2021,20:00,Sale,20,Worcester,13,AJ Bell Stadium,Wayne Barnes,33,H,N,20,Fri,Jan,2021,2020-21
+09/Jan/2021,14:00,Newcastle,22,Gloucester,10,Kingston Park,Craig Maxwell-Keys,32,H,N,14,Sat,Jan,2021,2020-21
+09/Jan/2021,16:30,Exeter,7,Bristol,20,Sandy Park,Karl Dickson,27,A,N,16,Sat,Jan,2021,2020-21
+09/Jan/2021,16:30,Northampton,Cancelled,Leicester,Cancelled,Franklin's Gardens,N/A,N/A,N/A,N,16,Sat,Jan,2021,2020-21
+10/Jan/2021,15:00,Harlequins,27,London Irish,27,Twickenham Stoop,Tom Foley,54,D,N,15,Sun,Jan,2021,2020-21
+29/Jan/2021,19:45,Bristol,48,Bath,3,Ashton Gate,Wayne Barnes,51,H,N,19,Fri,Jan,2021,2020-21
+29/Jan/2021,19:45,Leicester,15,Sale,25,Welford Road,Ian Tempest,40,A,N,19,Fri,Jan,2021,2020-21
+30/Jan/2021,15:00,Gloucester,26,Northampton,31,Kingsholm,Karl Dickson,57,A,N,15,Sat,Jan,2021,2020-21
+30/Jan/2021,15:00,Worcester,17,Exeter,21,Sixways,Tom Foley,38,A,N,15,Sat,Jan,2021,2020-21
+31/Jan/2021,14:30,London Irish,31,Newcastle,22,Brentford Community Stadium,Matthew Carley,53,H,N,14,Sun,Jan,2021,2020-21
+31/Jan/2021,15:00,Wasps,17,Harlequins,49,Ricoh Arena,Luke Pearce,66,A,N,15,Sun,Jan,2021,2020-21
+05/Feb/2021,19:45,Bristol,13,Sale,20,Ashton Gate,Luke Pearce,33,A,N,19,Fri,Feb,2021,2020-21
+06/Feb/2021,13:00,Wasps,17,Northampton,22,Ricoh Arena,Adam Leal,39,A,N,13,Sat,Feb,2021,2020-21
+06/Feb/2021,14:15,Bath,15,Harlequins,28,Recreation Ground,Craig Maxwell-Keys,43,A,N,14,Sat,Feb,2021,2020-21
+06/Feb/2021,15:00,Leicester,41,Worcester,24,Welford Road,Andrew Jackson,65,H,N,15,Sat,Feb,2021,2020-21
+06/Feb/2021,15:00,London Irish,32,Gloucester,26,Brentford Community Stadium,Ian Tempest,58,H,N,15,Sat,Feb,2021,2020-21
+07/Feb/2021,13:00,Newcastle,9,Exeter,15,Kingston Park,Anthony Woodthorpe,24,A,N,13,Sun,Feb,2021,2020-21
+12/Feb/2021,19:45,Gloucester,17,Bristol,18,Kingsholm,Tom Foley,35,A,N,19,Fri,Feb,2021,2020-21
+12/Feb/2021,20:00,Sale,22,Bath,27,AJ Bell Stadium,Christophe Ridley,49,A,N,20,Fri,Feb,2021,2020-21
+13/Feb/2021,16:00,Harlequins,37,Leicester,24,Twickenham Stoop,Anthony Woodthorpe,61,H,N,16,Sat,Feb,2021,2020-21
+13/Feb/2021,16:15,Exeter,26,London Irish,3,Sandy Park,Jack Makepeace,29,H,N,16,Sat,Feb,2021,2020-21
+13/Feb/2021,16:30,Northampton,Cancelled,Newcastle,Cancelled,Franklin's Gardens,N/A,N/A,N/A,N,16,Sat,Feb,2021,2020-21
+14/Feb/2021,13:00,Worcester,13,Wasps,17,Sixways,Ian Tempest,30,A,N,13,Sun,Feb,2021,2020-21
+19/Feb/2021,19:45,Bath,16,Gloucester,14,Recreation Ground,Wayne Barnes,30,H,N,19,Fri,Feb,2021,2020-21
+20/Feb/2021,13:00,Harlequins,24,Sale,12,Twickenham Stoop,Ian Tempest,36,H,N,13,Sat,Feb,2021,2020-21
+20/Feb/2021,15:00,Leicester,27,Wasps,8,Welford Road,Craig Maxwell-Keys,35,H,N,15,Sat,Feb,2021,2020-21
+20/Feb/2021,15:00,Exeter,12,Northampton,13,Sandy Park,Christophe Ridley,25,A,N,15,Sat,Feb,2021,2020-21
+20/Feb/2021,15:00,Worcester,Cancelled,Newcastle,Cancelled,Sixways,N/A,N/A,N/A,N,15,Sat,Feb,2021,2020-21
+21/Feb/2021,15:00,London Irish,34,Bristol,34,Brentford Community Stadium,Karl Dickson,68,D,N,15,Sun,Feb,2021,2020-21
+26/Feb/2021,19:45,Sale,25,Exeter,20,AJ Bell Stadium,Karl Dickson,45,H,N,19,Fri,Feb,2021,2020-21
+27/Feb/2021,13:00,Bristol,17,Leicester,3,Ashton Gate,Christophe Ridley,20,H,N,13,Sat,Feb,2021,2020-21
+27/Feb/2021,15:00,Newcastle,25,Harlequins,22,Kingston Park,Jack Makepeace,47,H,N,15,Sat,Feb,2021,2020-21
+27/Feb/2021,15:00,Wasps,10,London Irish,16,Ricoh Arena,Hamish Smales,26,A,N,15,Sat,Feb,2021,2020-21
+27/Feb/2021,15:15,Gloucester,22,Worcester,14,Kingsholm,Luke Pearce,36,H,N,15,Sat,Feb,2021,2020-21
+28/Feb/2021,13:00,Northampton,22,Bath,23,Franklin's Gardens,Ian Tempest,45,A,N,13,Sun,Feb,2021,2020-21
+05/Mar/2021,19:45,Leicester,33,London Irish,32,Welford Road,Wayne Barnes,65,H,N,19,Fri,Mar,2021,2020-21
+05/Mar/2021,20:00,Sale,31,Newcastle,16,AJ Bell Stadium,Andrew Jackson,47,H,N,20,Fri,Mar,2021,2020-21
+06/Mar/2021,15:00,Bath,16,Exeter,38,Recreation Ground,Tom Foley,54,A,N,15,Sat,Mar,2021,2020-21
+06/Mar/2021,15:00,Wasps,19,Gloucester,20,Ricoh Arena,Matthew Carley,39,A,N,15,Sat,Mar,2021,2020-21
+06/Mar/2021,17:15,Worcester,23,Bristol,24,Sixways,Craig Maxwell-Keys,47,A,N,17,Sat,Mar,2021,2020-21
+07/Mar/2021,15:00,Harlequins,37,Northampton,19,Twickenham Stoop,Luke Pearce,56,H,N,15,Sun,Mar,2021,2020-21
+12/Mar/2021,19:45,Bristol,37,Wasps,20,Ashton Gate,Karl Dickson,57,H,N,19,Fri,Mar,2021,2020-21
+13/Mar/2021,12:30,Exeter,21,Harlequins,20,Sandy Park,Craig Maxwell-Keys,41,H,N,12,Sat,Mar,2021,2020-21
+13/Mar/2021,12:30,Newcastle,19,Bath,38,Kingston Park,Ian Tempest,57,A,N,12,Sat,Mar,2021,2020-21
+13/Mar/2021,14:45,Northampton,17,Sale,14,Franklin's Gardens,Matthew Carley,31,H,N,14,Sat,Mar,2021,2020-21
+13/Mar/2021,15:00,Gloucester,14,Leicester,20,Kingsholm,Adam Leal,34,A,N,15,Sat,Mar,2021,2020-21
+14/Mar/2021,13:00,London Irish,20,Worcester,17,Brentford Community Stadium,Luke Pearce,37,H,N,13,Sun,Mar,2021,2020-21
+19/Mar/2021,19:45,Newcastle,18,Wasps,20,Kingston Park,Anthony Woodthorpe,38,A,N,19,Fri,Mar,2021,2020-21
+20/Mar/2021,14:00,Bath,47,Worcester,22,Recreation Ground,Adam Leal,69,H,N,14,Sat,Mar,2021,2020-21
+20/Mar/2021,14:00,Harlequins,59,Gloucester,24,Twickenham Stoop,Ian Tempest,83,H,N,14,Sat,Mar,2021,2020-21
+20/Mar/2021,14:30,Exeter,47,Leicester,31,Sandy Park,Jack Makepeace,78,H,N,14,Sat,Mar,2021,2020-21
+21/Mar/2021,15:00,Northampton,21,Bristol,28,Franklin's Gardens,Tom Foley,49,A,N,15,Sun,Mar,2021,2020-21
+21/Mar/2021,15:00,Sale,41,London Irish,13,AJ Bell Stadium,Craig Maxwell-Keys,54,H,N,15,Sun,Mar,2021,2020-21
+26/Mar/2021,17:30,Gloucester,34,Exeter,18,Kingsholm,Luke Pearce,52,H,N,17,Fri,Mar,2021,2020-21
+27/Mar/2021,14:00,Bristol,35,Harlequins,33,Ashton Gate,Hamish Smales,68,H,N,14,Sat,Mar,2021,2020-21
+27/Mar/2021,15:00,London Irish,36,Bath,33,Brentford Community Stadium,Craig Maxwell-Keys,69,H,N,15,Sat,Mar,2021,2020-21
+27/Mar/2021,15:00,Worcester,14,Northampton,62,Sixways,Andrew Jackson,76,A,N,15,Sat,Mar,2021,2020-21
+27/Mar/2021,16:30,Wasps,19,Sale,20,Ricoh Arena,Christophe Ridley,39,A,N,16,Sat,Mar,2021,2020-21
+28/Mar/2021,15:00,Leicester,26,Newcastle,12,Welford Road,Karl Dickson,38,H,N,15,Sun,Mar,2021,2020-21
+16/Apr/2021,19:45,Northampton,44,London Irish,26,Franklin's Gardens,Wayne Barnes,70,H,N,19,Fri,Apr,2021,2020-21
+17/Apr/2021,12:30,Exeter,43,Wasps,13,Sandy Park,Tom Foley,56,H,N,12,Sat,Apr,2021,2020-21
+17/Apr/2021,12:30,Sale,25,Gloucester,22,AJ Bell Stadium,Adam Leal,47,H,N,12,Sat,Apr,2021,2020-21
+17/Apr/2021,17:00,Harlequins,50,Worcester,26,Twickenham Stoop,Craig Maxwell-Keys,76,H,N,17,Sat,Apr,2021,2020-21
+17/Apr/2021,17:00,Newcastle,17,Bristol,34,Kingston Park,Christophe Ridley,51,A,N,17,Sat,Apr,2021,2020-21
+18/Apr/2021,15:00,Bath,21,Leicester,20,Recreation Ground,Luke Pearce,41,H,N,15,Sun,Apr,2021,2020-21
+23/Apr/2021,19:45,Bristol,12,Exeter,20,Ashton Gate,N/A,32,A,N,19,Fri,Apr,2021,2020-21
+24/Apr/2021,12:30,London Irish,21,Harlequins,25,Brentford Community Stadium,N/A,46,A,N,12,Sat,Apr,2021,2020-21
+24/Apr/2021,15:00,Gloucester,35,Newcastle,24,Kingsholm,N/A,59,H,N,15,Sat,Apr,2021,2020-21
+24/Apr/2021,15:00,Leicester,18,Northampton,23,Welford Road,N/A,41,A,N,15,Sat,Apr,2021,2020-21
+24/Apr/2021,15:00,Worcester,32,Sale,35,Sixways,N/A,67,A,N,15,Sat,Apr,2021,2020-21
+25/Apr/2021,15:00,Wasps,39,Bath,29,Ricoh Arena,N/A,68,H,N,15,Sun,Apr,2021,2020-21
+07/May/2021,19:45,Sale,26,Leicester,10,AJ Bell Stadium,Tom Foley,36,H,N,19,Fri,May,2021,2020-21
+08/May/2021,14:00,Northampton,7,Gloucester,31,Franklin's Gardens,Ian Tempest,38,A,N,14,Sat,May,2021,2020-21
+08/May/2021,15:00,Exeter,41,Worcester,10,Sandy Park,Anthony Woodthorpe,51,H,N,15,Sat,May,2021,2020-21
+08/May/2021,15:00,Newcastle,52,London Irish,27,Kingston Park,Jack Makepeace,79,H,N,15,Sat,May,2021,2020-21
+08/May/2021,16:30,Bath,20,Bristol,40,Recreation Ground,Luke Pearce,60,A,N,16,Sat,May,2021,2020-21
+09/May/2021,15:00,Harlequins,48,Wasps,46,Twickenham Stoop,Wayne Barnes,94,H,N,15,Sun,May,2021,2020-21
+14/May/2021,19:45,Bath,20,Sale,24,Recreation Ground,Karl Dickson,44,A,N,19,Fri,May,2021,2020-21
+15/May/2021,15:00,Wasps,23,Worcester,19,Ricoh Arena,Ian Tempest,42,H,N,15,Sat,May,2021,2020-21
+15/May/2021,15:30,Leicester,35,Harlequins,29,Welford Road,Luke Pearce,64,H,N,15,Sat,May,2021,2020-21
+17/May/2021,19:30,Newcastle,18,Northampton,10,Kingston Park,Matthew Carley,28,H,N,19,Mon,May,2021,2020-21
+17/May/2021,19:45,Bristol,39,Gloucester,7,Ashton Gate,Craig Maxwell-Keys,46,H,N,19,Mon,May,2021,2020-21
+18/May/2021,19:45,London Irish,12,Exeter,31,Brentford Community Stadium,Christophe Ridley,43,A,N,19,Tue,May,2021,2020-21
+28/May/2021,19:45,Sale,22,Bristol,12,AJ Bell Stadium,Christophe Ridley,34,H,N,19,Fri,May,2021,2020-21
+28/May/2021,19:45,Gloucester,30,London Irish,28,Kingsholm,Matthew Carley,58,H,N,19,Fri,May,2021,2020-21
+29/May/2021,14:00,Harlequins,44,Bath,33,Twickenham Stoop,Tom Foley,77,H,N,14,Sat,May,2021,2020-21
+30/May/2021,15:00,Worcester,17,Leicester,18,Sixways,Karl Dickson,35,A,N,15,Sun,May,2021,2020-21
+29/May/2021,16:30,Northampton,30,Wasps,25,Franklin's Gardens,Adam Leal,55,H,N,16,Sat,May,2021,2020-21
+30/May/2021,13:30,Exeter,74,Newcastle,3,Sandy Park,Andrew Jackson,77,H,N,13,Sun,May,2021,2020-21
+04/Jun/2021,19:45,Sale,45,Harlequins,12,AJ Bell Stadium,Wayne Barnes,57,H,N,19,Fri,Jun,2021,2020-21
+05/Jun/2021,14:00,Gloucester,Cancelled,Bath,Cancelled,Kingsholm,N/A,N/A,N/A,N,14,Sat,Jun,2021,2020-21
+05/Jun/2021,15:00,Leicester,23,Bristol,26,Welford Road,Ian Tempest,49,A,N,15,Sat,Jun,2021,2020-21
+05/Jun/2021,15:00,Newcastle,24,Worcester,14,Kingston Park,Luke Pearce,38,H,N,15,Sat,Jun,2021,2020-21
+05/Jun/2021,16:30,London Irish,36,Wasps,39,Brentford Community Stadium,Tom Foley,75,A,N,16,Sat,Jun,2021,2020-21
+06/Jun/2021,15:00,Northampton,26,Exeter,29,Franklin's Gardens,Craig Maxwell-Keys,55,A,N,15,Sun,Jun,2021,2020-21
+12/Jun/2021,15:00,Bath,30,Northampton,24,Recreation Ground,N/A,54,H,N,15,Sat,Jun,2021,2020-21
+12/Jun/2021,15:00,Bristol,Cancelled,London Irish,Cancelled,Ashton Gate,N/A,N/A,N/A,N,15,Sat,Jun,2021,2020-21
+12/Jun/2021,15:00,Exeter,20,Sale,19,Sandy Park,N/A,39,H,N,15,Sat,Jun,2021,2020-21
+12/Jun/2021,15:00,Harlequins,54,Newcastle,26,Twickenham Stoop,N/A,80,H,N,15,Sat,Jun,2021,2020-21
+12/Jun/2021,15:00,Wasps,31,Leicester,38,Ricoh Arena,N/A,69,A,N,15,Sat,Jun,2021,2020-21
+12/Jun/2021,15:00,Worcester,Cancelled,Gloucester,Cancelled,Sixways,N/A,N/A,N/A,N,15,Sat,Jun,2021,2020-21
+19/Jun/2020,13:30,Bristol,36,Harlequins,43,Ashton Gate,Wayne Barnes,79,A,Y,13,Fri,Jun,2020,2020-21
+19/Jun/2020,16:30,Exeter,40,Sale,30,Sandy Park,Tom Foley,70,H,N,16,Fri,Jun,2020,2020-21
+26/Jun/2020,17:30,Exeter,38,Harlequins,40,Twickenham Stadium,Matthew Carley,78,A,N,17,Fri,Jun,2020,2020-21
