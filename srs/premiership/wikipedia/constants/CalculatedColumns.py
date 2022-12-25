@@ -1,8 +1,8 @@
-AVG_HOME_LAST_5_SCORES = "avgHomeLast5Scores"
-AVG_HOME_LAST_5_SCORES_AGAINST = "avgHomeLast5ScoresAgainst"
+AVG_HOME_LAST_5_SCORES = "avgLast5Scores"
+AVG_HOME_LAST_5_SCORES_AGAINST = "avgLast5ScoresAgainst"
 
-HOME_TEAM_CODE = "homeTeamCode"
-AWAY_TEAM_CODE = "awayTeamCode"
+HOME_TEAM_CODE = "team1Code"
+AWAY_TEAM_CODE = "team2Code"
 MONTH_CODE = "monthCode"
 VENUE_CODE = "venueCode"
 DAY_CODE = "dayCode"

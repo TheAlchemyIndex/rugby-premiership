@@ -25,7 +25,7 @@ def match_details_formatter(match_details_data):
     if len(check_for_referee) > 0:
         referee = check_for_referee[0].split("Referee: ")[1]
     else:
-        referee = "N/A"
+        referee = "Unknown"
 
     formatted_match_details = {OriginalColumns.VENUE: venue, OriginalColumns.REFEREE: referee}
     return formatted_match_details

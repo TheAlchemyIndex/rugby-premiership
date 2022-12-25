@@ -62,7 +62,16 @@ def scrape_results(url):
                       OriginalColumns.WINNER: winner, OriginalColumns.EXTRA_TIME: extra_time,
                       OriginalColumns.HOUR: hour, OriginalColumns.DAY: day, OriginalColumns.MONTH: month,
                       OriginalColumns.YEAR: year, OriginalColumns.SEASON: season}
+        match_data_reversed = {OriginalColumns.DATE: date, OriginalColumns.TIME: time,
+                               OriginalColumns.TEAM1_NAME: team2_name, OriginalColumns.TEAM1_SCORE: team2_score,
+                               OriginalColumns.TEAM2_NAME: team1_name, OriginalColumns.TEAM2_SCORE: team1_score,
+                               OriginalColumns.VENUE: venue, OriginalColumns.REFEREE: referee,
+                               OriginalColumns.TOTAL_SCORE: total_score, OriginalColumns.WINNER: winner,
+                               OriginalColumns.EXTRA_TIME: extra_time, OriginalColumns.HOUR: hour,
+                               OriginalColumns.DAY: day, OriginalColumns.MONTH: month, OriginalColumns.YEAR: year,
+                               OriginalColumns.SEASON: season}
         results.append(match_data)
+        results.append(match_data_reversed)
 
         # count is incremented to look at the data for the next match
         count += 5
