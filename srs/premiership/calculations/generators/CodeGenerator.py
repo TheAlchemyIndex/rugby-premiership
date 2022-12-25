@@ -13,6 +13,8 @@ def generate_category_codes(df):
     df[CalculatedColumns.MONTH_CODE] = df[OriginalColumns.MONTH].astype("category").cat.codes
     df[CalculatedColumns.VENUE_CODE] = df[OriginalColumns.VENUE].astype("category").cat.codes
     df[CalculatedColumns.DAY_CODE] = df[OriginalColumns.DAY].astype("category").cat.codes
+    df[CalculatedColumns.REFEREE_CODE] = df[OriginalColumns.REFEREE].astype("category").cat.codes
+    df[CalculatedColumns.SEASON_CODE] = df[OriginalColumns.SEASON].astype("category").cat.codes
     df[CalculatedColumns.TARGET_CODE] = (df[OriginalColumns.WINNER] == "H").astype("int")
 
     return df
