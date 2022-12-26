@@ -1,5 +1,7 @@
-AVG_HOME_LAST_5_SCORES = "avgLast5Scores"
-AVG_HOME_LAST_5_SCORES_AGAINST = "avgLast5ScoresAgainst"
+AVG_LAST_5_SCORES = "avgLast5Scores"
+AVG_LAST_5_SCORES_AGAINST = "avgLast5ScoresAgainst"
+AVG_LAST_5_BPS = "avgLast5Bps"
+AVG_LAST_5_BPS_AGAINST = "avgLast5BpsAgainst"
 
 HOME_TEAM_CODE = "team1Code"
 AWAY_TEAM_CODE = "team2Code"
