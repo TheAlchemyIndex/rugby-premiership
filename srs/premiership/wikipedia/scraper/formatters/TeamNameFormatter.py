@@ -10,27 +10,38 @@ def team_name_formatter(team_name_data):
     # Removes any brackets and characters in between if found in the date
     formatted_team_name = re.sub("\((.*?)\)", "", team_name_data, flags=re.DOTALL).strip()
 
+    bps = 0
+
+    try:
+        match = re.search(r'\(.*?\)', team_name_data)
+        if "BP" in match.group():
+            bps = re.search("[0-9]", match.group()).group()
+        else:
+            bps = 0
+    except AttributeError:
+        bps = 0
+
     if formatted_team_name == "Bath Rugby":
-        return "Bath"
+        return ["Bath", bps]
     elif formatted_team_name == "Bristol Bears":
-        return "Bristol"
+        return ["Bristol", bps]
     elif formatted_team_name == "Exeter Chiefs":
-        return "Exeter"
+        return ["Exeter", bps]
     elif formatted_team_name == "Leeds Carnegie":
-        return "Leeds"
+        return ["Leeds", bps]
     elif formatted_team_name == "Leicester Tigers":
-        return "Leicester"
+        return ["Leicester", bps]
     elif formatted_team_name == "Gloucester Rugby":
-        return "Gloucester"
+        return ["Gloucester", bps]
     elif formatted_team_name == "Newcastle Falcons":
-        return "Newcastle"
+        return ["Newcastle", bps]
     elif formatted_team_name == "Northampton Saints":
-        return "Northampton"
+        return ["Northampton", bps]
     elif formatted_team_name == "Sale Sharks":
-        return "Sale"
+        return ["Sale", bps]
     elif formatted_team_name == "London Wasps":
-        return "Wasps"
+        return ["Wasps", bps]
     elif formatted_team_name == "Worcester Warriors":
-        return "Worcester"
+        return ["Worcester", bps]
     else:
-        return formatted_team_name
+        return [formatted_team_name, bps]

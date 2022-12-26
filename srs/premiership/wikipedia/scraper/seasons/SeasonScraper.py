@@ -42,9 +42,11 @@ def scrape_results(url):
         venue = extract_match_details[OriginalColumns.VENUE]
         referee = extract_match_details[OriginalColumns.REFEREE]
 
-        # Extracts team information
-        team1_name = team_name_formatter(data[count + 1])
-        team2_name = team_name_formatter(data[count + 3])
+        # Extracts team and bonus point information
+        team1_name = team_name_formatter(data[count + 1])[0]
+        team2_name = team_name_formatter(data[count + 3])[0]
+        team1_bps = team_name_formatter(data[count + 1])[1]
+        team2_bps = team_name_formatter(data[count + 3])[1]
 
         # Extracts score information
         score = score_formatter(data[count + 2])
@@ -55,20 +57,41 @@ def scrape_results(url):
         extra_time = score[OriginalColumns.EXTRA_TIME]
 
         # Creates dictionary of match_data information and appends to results list
-        match_data = {OriginalColumns.DATE: date, OriginalColumns.TIME: time, OriginalColumns.TEAM1_NAME: team1_name,
-                      OriginalColumns.TEAM1_SCORE: team1_score, OriginalColumns.TEAM2_NAME: team2_name,
-                      OriginalColumns.TEAM2_SCORE: team2_score, OriginalColumns.VENUE: venue,
-                      OriginalColumns.REFEREE: referee, OriginalColumns.TOTAL_SCORE: total_score,
-                      OriginalColumns.WINNER: winner, OriginalColumns.EXTRA_TIME: extra_time,
-                      OriginalColumns.HOUR: hour, OriginalColumns.DAY: day, OriginalColumns.MONTH: month,
-                      OriginalColumns.YEAR: year, OriginalColumns.SEASON: season}
-        match_data_reversed = {OriginalColumns.DATE: date, OriginalColumns.TIME: time,
-                               OriginalColumns.TEAM1_NAME: team2_name, OriginalColumns.TEAM1_SCORE: team2_score,
-                               OriginalColumns.TEAM2_NAME: team1_name, OriginalColumns.TEAM2_SCORE: team1_score,
-                               OriginalColumns.VENUE: venue, OriginalColumns.REFEREE: referee,
-                               OriginalColumns.TOTAL_SCORE: total_score, OriginalColumns.WINNER: winner,
-                               OriginalColumns.EXTRA_TIME: extra_time, OriginalColumns.HOUR: hour,
-                               OriginalColumns.DAY: day, OriginalColumns.MONTH: month, OriginalColumns.YEAR: year,
+        match_data = {OriginalColumns.DATE: date,
+                      OriginalColumns.TIME: time,
+                      OriginalColumns.TEAM1_NAME: team1_name,
+                      OriginalColumns.TEAM1_SCORE: team1_score,
+                      OriginalColumns.TEAM1_BPS: team1_bps,
+                      OriginalColumns.TEAM2_NAME: team2_name,
+                      OriginalColumns.TEAM2_SCORE: team2_score,
+                      OriginalColumns.TEAM2_BPS: team2_bps,
+                      OriginalColumns.VENUE: venue,
+                      OriginalColumns.REFEREE: referee,
+                      OriginalColumns.TOTAL_SCORE: total_score,
+                      OriginalColumns.WINNER: winner,
+                      OriginalColumns.EXTRA_TIME: extra_time,
+                      OriginalColumns.HOUR: hour,
+                      OriginalColumns.DAY: day,
+                      OriginalColumns.MONTH: month,
+                      OriginalColumns.YEAR: year,
+                      OriginalColumns.SEASON: season}
+        match_data_reversed = {OriginalColumns.DATE: date,
+                               OriginalColumns.TIME: time,
+                               OriginalColumns.TEAM1_NAME: team2_name,
+                               OriginalColumns.TEAM1_SCORE: team2_score,
+                               OriginalColumns.TEAM1_BPS: team2_bps,
+                               OriginalColumns.TEAM2_NAME: team1_name,
+                               OriginalColumns.TEAM2_SCORE: team1_score,
+                               OriginalColumns.TEAM2_BPS: team1_bps,
+                               OriginalColumns.VENUE: venue,
+                               OriginalColumns.REFEREE: referee,
+                               OriginalColumns.TOTAL_SCORE: total_score,
+                               OriginalColumns.WINNER: winner,
+                               OriginalColumns.EXTRA_TIME: extra_time,
+                               OriginalColumns.HOUR: hour,
+                               OriginalColumns.DAY: day,
+                               OriginalColumns.MONTH: month,
+                               OriginalColumns.YEAR: year,
                                OriginalColumns.SEASON: season}
         results.append(match_data)
         results.append(match_data_reversed)
