@@ -1,4 +1,5 @@
-from srs.premiership.wikipedia.constants import OriginalColumns, Urls
+from srs.premiership.wikipedia.constants import Urls
+from srs.premiership.wikipedia.constants.columns import OriginalColumns
 from srs.premiership.wikipedia.constants import Directories
 from srs.premiership.wikipedia.scraper.writers.CsvWriter import write_to_csv
 from srs.premiership.wikipedia.scraper.seasons.SeasonScraper import scrape_results
@@ -7,21 +8,29 @@ from srs.premiership.wikipedia.scraper.seasons.SeasonScraper import scrape_resul
 FIELD_NAMES = [OriginalColumns.DATE,
                OriginalColumns.TIME,
                OriginalColumns.TEAM1_NAME,
-               OriginalColumns.TEAM1_SCORE,
+               OriginalColumns.TEAM1_POINTS,
                OriginalColumns.TEAM1_BPS,
                OriginalColumns.TEAM2_NAME,
-               OriginalColumns.TEAM2_SCORE,
+               OriginalColumns.TEAM2_POINTS,
                OriginalColumns.TEAM2_BPS,
                OriginalColumns.VENUE,
                OriginalColumns.REFEREE,
-               OriginalColumns.TOTAL_SCORE,
+               OriginalColumns.TOTAL_POINTS,
                OriginalColumns.WINNER,
                OriginalColumns.EXTRA_TIME,
                OriginalColumns.HOUR,
                OriginalColumns.DAY,
                OriginalColumns.MONTH,
                OriginalColumns.YEAR,
-               OriginalColumns.SEASON]
+               OriginalColumns.SEASON,
+               OriginalColumns.TEAM1_TRIES,
+               OriginalColumns.TEAM1_CONVERSIONS,
+               OriginalColumns.TEAM1_PENALTIES,
+               OriginalColumns.TEAM1_DROP_GOALS,
+               OriginalColumns.TEAM2_TRIES,
+               OriginalColumns.TEAM2_CONVERSIONS,
+               OriginalColumns.TEAM2_PENALTIES,
+               OriginalColumns.TEAM2_DROP_GOALS]
 
 
 def write_to_individual_files(first_season_start, first_season_end, last_season_end):

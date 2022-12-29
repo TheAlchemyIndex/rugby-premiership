@@ -1,271 +1,271 @@
-﻿date,time,team1Name,team1Score,team1Bps,team2Name,team2Score,team2Bps,venue,referee,totalScore,winner,extraTime,hour,day,month,year,season
-02/Sep/2016,19:45,Gloucester,31,2,Leicester,38,1,Kingsholm,Wayne Barnes,69,A,N,19,Fri,Sep,2016,2016-17
-02/Sep/2016,19:45,Leicester,38,1,Gloucester,31,2,Kingsholm,Wayne Barnes,69,A,N,19,Fri,Sep,2016,2016-17
-02/Sep/2016,20:00,Newcastle,19,0,Sale,17,1,Kingston Park,Greg Garner,36,H,N,20,Fri,Sep,2016,2016-17
-02/Sep/2016,20:00,Sale,17,1,Newcastle,19,0,Kingston Park,Greg Garner,36,H,N,20,Fri,Sep,2016,2016-17
-03/Sep/2016,14:00,Saracens,35,1,Worcester,3,0,Twickenham Stadium,Matthew Carley,38,H,N,14,Sat,Sep,2016,2016-17
-03/Sep/2016,14:00,Worcester,3,0,Saracens,35,1,Twickenham Stadium,Matthew Carley,38,H,N,14,Sat,Sep,2016,2016-17
-03/Sep/2016,15:30,Northampton,14,1,Bath,18,0,Franklin's Gardens,JP Doyle,32,A,N,15,Sat,Sep,2016,2016-17
-03/Sep/2016,15:30,Bath,18,0,Northampton,14,1,Franklin's Gardens,JP Doyle,32,A,N,15,Sat,Sep,2016,2016-17
-03/Sep/2016,16:30,Harlequins,21,0,Bristol,19,1,Twickenham Stadium,Luke Pearce,40,H,N,16,Sat,Sep,2016,2016-17
-03/Sep/2016,16:30,Bristol,19,1,Harlequins,21,0,Twickenham Stadium,Luke Pearce,40,H,N,16,Sat,Sep,2016,2016-17
-04/Sep/2016,15:00,Wasps,25,0,Exeter,20,1,Ricoh Arena,Tom Foley,45,H,N,15,Sun,Sep,2016,2016-17
-04/Sep/2016,15:00,Exeter,20,1,Wasps,25,0,Ricoh Arena,Tom Foley,45,H,N,15,Sun,Sep,2016,2016-17
-09/Sep/2016,19:45,Worcester,23,0,Gloucester,23,0,Sixways,Luke Pearce,46,D,N,19,Fri,Sep,2016,2016-17
-09/Sep/2016,19:45,Gloucester,23,0,Worcester,23,0,Sixways,Luke Pearce,46,D,N,19,Fri,Sep,2016,2016-17
-09/Sep/2016,20:15,Sale,19,0,Harlequins,10,0,AJ Bell Stadium,Tom Foley,29,H,N,20,Fri,Sep,2016,2016-17
-09/Sep/2016,20:15,Harlequins,10,0,Sale,19,0,AJ Bell Stadium,Tom Foley,29,H,N,20,Fri,Sep,2016,2016-17
-10/Sep/2016,15:00,Bath,58,1,Newcastle,5,0,Recreation Ground,Ian Tempest,63,H,N,15,Sat,Sep,2016,2016-17
-10/Sep/2016,15:00,Newcastle,5,0,Bath,58,1,Recreation Ground,Ian Tempest,63,H,N,15,Sat,Sep,2016,2016-17
-10/Sep/2016,15:00,Leicester,22,0,Wasps,34,1,Welford Road,Greg Garner,56,A,N,15,Sat,Sep,2016,2016-17
-10/Sep/2016,15:00,Wasps,34,1,Leicester,22,0,Welford Road,Greg Garner,56,A,N,15,Sat,Sep,2016,2016-17
-11/Sep/2016,16:30,Bristol,10,0,Northampton,32,1,Ashton Gate,Craig Maxwell-Keys,42,A,N,16,Sun,Sep,2016,2016-17
-11/Sep/2016,16:30,Northampton,32,1,Bristol,10,0,Ashton Gate,Craig Maxwell-Keys,42,A,N,16,Sun,Sep,2016,2016-17
-11/Sep/2016,15:00,Exeter,13,0,Saracens,34,1,Sandy Park,JP Doyle,47,A,N,15,Sun,Sep,2016,2016-17
-11/Sep/2016,15:00,Saracens,34,1,Exeter,13,0,Sandy Park,JP Doyle,47,A,N,15,Sun,Sep,2016,2016-17
-16/Sep/2016,19:45,Sale,13,0,Gloucester,26,0,AJ Bell Stadium,Ian Tempest,39,A,N,19,Fri,Sep,2016,2016-17
-16/Sep/2016,19:45,Gloucester,26,0,Sale,13,0,AJ Bell Stadium,Ian Tempest,39,A,N,19,Fri,Sep,2016,2016-17
-17/Sep/2016,15:00,Bath,37,1,Worcester,22,0,Recreation Ground,Craig Maxwell-Keys,59,H,N,15,Sat,Sep,2016,2016-17
-17/Sep/2016,15:00,Worcester,22,0,Bath,37,1,Recreation Ground,Craig Maxwell-Keys,59,H,N,15,Sat,Sep,2016,2016-17
-17/Sep/2016,15:00,Exeter,36,1,Harlequins,25,0,Sandy Park,Matthew Carley,61,H,N,15,Sat,Sep,2016,2016-17
-17/Sep/2016,15:00,Harlequins,25,0,Exeter,36,1,Sandy Park,Matthew Carley,61,H,N,15,Sat,Sep,2016,2016-17
-17/Sep/2016,15:00,Saracens,27,0,Northampton,12,0,Allianz Park,Greg Garner,39,H,N,15,Sat,Sep,2016,2016-17
-17/Sep/2016,15:00,Northampton,12,0,Saracens,27,0,Allianz Park,Greg Garner,39,H,N,15,Sat,Sep,2016,2016-17
-18/Sep/2016,14:30,Wasps,70,1,Bristol,22,0,Ricoh Arena,Tim Wigglesworth,92,H,N,14,Sun,Sep,2016,2016-17
-18/Sep/2016,14:30,Bristol,22,0,Wasps,70,1,Ricoh Arena,Tim Wigglesworth,92,H,N,14,Sun,Sep,2016,2016-17
-18/Sep/2016,15:00,Newcastle,13,1,Leicester,14,0,Kingston Park,JP Doyle,27,A,N,15,Sun,Sep,2016,2016-17
-18/Sep/2016,15:00,Leicester,14,0,Newcastle,13,1,Kingston Park,JP Doyle,27,A,N,15,Sun,Sep,2016,2016-17
-23/Sep/2016,19:45,Bristol,17,0,Exeter,41,1,Ashton Gate,Tom Foley,58,A,N,19,Fri,Sep,2016,2016-17
-23/Sep/2016,19:45,Exeter,41,1,Bristol,17,0,Ashton Gate,Tom Foley,58,A,N,19,Fri,Sep,2016,2016-17
-24/Sep/2016,15:00,Gloucester,13,1,Newcastle,18,0,Kingsholm,David Sainsbury,31,A,N,15,Sat,Sep,2016,2016-17
-24/Sep/2016,15:00,Newcastle,18,0,Gloucester,13,1,Kingsholm,David Sainsbury,31,A,N,15,Sat,Sep,2016,2016-17
-24/Sep/2016,15:00,Harlequins,17,0,Saracens,10,1,Twickenham Stoop,Craig Maxwell-Keys,27,H,N,15,Sat,Sep,2016,2016-17
-24/Sep/2016,15:00,Saracens,10,1,Harlequins,17,0,Twickenham Stoop,Craig Maxwell-Keys,27,H,N,15,Sat,Sep,2016,2016-17
-24/Sep/2016,15:00,Northampton,15,1,Wasps,20,0,Franklin's Gardens,Luke Pearce,35,A,N,15,Sat,Sep,2016,2016-17
-24/Sep/2016,15:00,Wasps,20,0,Northampton,15,1,Franklin's Gardens,Luke Pearce,35,A,N,15,Sat,Sep,2016,2016-17
-24/Sep/2016,15:00,Worcester,34,1,Sale,34,1,Sixways,JP Doyle,68,D,N,15,Sat,Sep,2016,2016-17
-24/Sep/2016,15:00,Sale,34,1,Worcester,34,1,Sixways,JP Doyle,68,D,N,15,Sat,Sep,2016,2016-17
-25/Sep/2016,15:00,Leicester,34,0,Bath,14,0,Welford Road,Matthew Carley,48,H,N,15,Sun,Sep,2016,2016-17
-25/Sep/2016,15:00,Bath,14,0,Leicester,34,0,Welford Road,Matthew Carley,48,H,N,15,Sun,Sep,2016,2016-17
-30/Sep/2016,19:45,Bristol,0,0,Saracens,39,1,Ashton Gate,Ian Tempest,39,A,N,19,Fri,Sep,2016,2016-17
-30/Sep/2016,19:45,Saracens,39,1,Bristol,0,0,Ashton Gate,Ian Tempest,39,A,N,19,Fri,Sep,2016,2016-17
-30/Sep/2016,19:45,Northampton,20,0,Exeter,19,1,Franklin's Gardens,Matthew Carley,39,H,N,19,Fri,Sep,2016,2016-17
-30/Sep/2016,19:45,Exeter,19,1,Northampton,20,0,Franklin's Gardens,Matthew Carley,39,H,N,19,Fri,Sep,2016,2016-17
-01/Oct/2016,14:30,Sale,34,1,Leicester,30,1,AJ Bell Stadium,Craig Maxwell-Keys,64,H,N,14,Sat,Oct,2016,2016-17
-01/Oct/2016,14:30,Leicester,30,1,Sale,34,1,AJ Bell Stadium,Craig Maxwell-Keys,64,H,N,14,Sat,Oct,2016,2016-17
-01/Oct/2016,15:00,Gloucester,6,0,Bath,15,0,Kingsholm,JP Doyle,21,A,N,15,Sat,Oct,2016,2016-17
-01/Oct/2016,15:00,Bath,15,0,Gloucester,6,0,Kingsholm,JP Doyle,21,A,N,15,Sat,Oct,2016,2016-17
-02/Oct/2016,14:30,Wasps,47,1,Harlequins,18,0,Ricoh Arena,Greg Garner,65,H,N,14,Sun,Oct,2016,2016-17
-02/Oct/2016,14:30,Harlequins,18,0,Wasps,47,1,Ricoh Arena,Greg Garner,65,H,N,14,Sun,Oct,2016,2016-17
-02/Oct/2016,15:00,Worcester,11,0,Newcastle,9,1,Sixways,Tom Foley,20,H,N,15,Sun,Oct,2016,2016-17
-02/Oct/2016,15:00,Newcastle,9,1,Worcester,11,0,Sixways,Tom Foley,20,H,N,15,Sun,Oct,2016,2016-17
-07/Oct/2016,19:45,Bath,30,0,Sale,3,0,Recreation Ground,Tom Foley,33,H,N,19,Fri,Oct,2016,2016-17
-07/Oct/2016,19:45,Sale,3,0,Bath,30,0,Recreation Ground,Tom Foley,33,H,N,19,Fri,Oct,2016,2016-17
-08/Oct/2016,15:00,Exeter,27,1,Gloucester,27,0,Sandy Park,Greg Garner,54,D,N,15,Sat,Oct,2016,2016-17
-08/Oct/2016,15:00,Gloucester,27,0,Exeter,27,1,Sandy Park,Greg Garner,54,D,N,15,Sat,Oct,2016,2016-17
-08/Oct/2016,15:00,Harlequins,20,0,Northampton,9,0,Twickenham Stoop,Ian Tempest,29,H,N,15,Sat,Oct,2016,2016-17
-08/Oct/2016,15:00,Northampton,9,0,Harlequins,20,0,Twickenham Stoop,Ian Tempest,29,H,N,15,Sat,Oct,2016,2016-17
-08/Oct/2016,15:00,Leicester,34,1,Worcester,13,0,Welford Road,Tim Wigglesworth,47,H,N,15,Sat,Oct,2016,2016-17
-08/Oct/2016,15:00,Worcester,13,0,Leicester,34,1,Welford Road,Tim Wigglesworth,47,H,N,15,Sat,Oct,2016,2016-17
-08/Oct/2016,15:00,Newcastle,19,0,Bristol,14,1,Kingston Park,Wayne Barnes,33,H,N,15,Sat,Oct,2016,2016-17
-08/Oct/2016,15:00,Bristol,14,1,Newcastle,19,0,Kingston Park,Wayne Barnes,33,H,N,15,Sat,Oct,2016,2016-17
-09/Oct/2016,15:00,Saracens,30,1,Wasps,14,0,Allianz Park,Matthew Carley,44,H,N,15,Sun,Oct,2016,2016-17
-09/Oct/2016,15:00,Wasps,14,0,Saracens,30,1,Allianz Park,Matthew Carley,44,H,N,15,Sun,Oct,2016,2016-17
-28/Oct/2016,19:45,Northampton,23,0,Gloucester,20,1,Franklin's Gardens,Tom Foley,43,H,N,19,Fri,Oct,2016,2016-17
-28/Oct/2016,19:45,Gloucester,20,1,Northampton,23,0,Franklin's Gardens,Tom Foley,43,H,N,19,Fri,Oct,2016,2016-17
-29/Oct/2016,15:00,Harlequins,36,1,Worcester,14,0,Twickenham Stoop,Luke Pearce,50,H,N,15,Sat,Oct,2016,2016-17
-29/Oct/2016,15:00,Worcester,14,0,Harlequins,36,1,Twickenham Stoop,Luke Pearce,50,H,N,15,Sat,Oct,2016,2016-17
-29/Oct/2016,15:00,Saracens,24,0,Leicester,10,0,Allianz Park,Wayne Barnes,34,H,N,15,Sat,Oct,2016,2016-17
-29/Oct/2016,15:00,Leicester,10,0,Saracens,24,0,Allianz Park,Wayne Barnes,34,H,N,15,Sat,Oct,2016,2016-17
-30/Oct/2016,14:30,Wasps,31,1,Newcastle,6,0,Ricoh Arena,Craig Maxwell-Keys,37,H,N,14,Sun,Oct,2016,2016-17
-30/Oct/2016,14:30,Newcastle,6,0,Wasps,31,1,Ricoh Arena,Craig Maxwell-Keys,37,H,N,14,Sun,Oct,2016,2016-17
-30/Oct/2016,15:00,Bristol,13,0,Sale,31,1,Ashton Gate,JP Doyle,44,A,N,15,Sun,Oct,2016,2016-17
-30/Oct/2016,15:00,Sale,31,1,Bristol,13,0,Ashton Gate,JP Doyle,44,A,N,15,Sun,Oct,2016,2016-17
-30/Oct/2016,15:00,Exeter,10,1,Bath,13,0,Sandy Park,Ian Tempest,23,A,N,15,Sun,Oct,2016,2016-17
-30/Oct/2016,15:00,Bath,13,0,Exeter,10,1,Sandy Park,Ian Tempest,23,A,N,15,Sun,Oct,2016,2016-17
-18/Nov/2016,19:45,Bath,16,0,Bristol,9,1,Recreation Ground,Ian Tempest,25,H,N,19,Fri,Nov,2016,2016-17
-18/Nov/2016,19:45,Bristol,9,1,Bath,16,0,Recreation Ground,Ian Tempest,25,H,N,19,Fri,Nov,2016,2016-17
-18/Nov/2016,19:45,Worcester,17,1,Northampton,18,0,Sixways,Greg MacDonald,35,A,N,19,Fri,Nov,2016,2016-17
-18/Nov/2016,19:45,Northampton,18,0,Worcester,17,1,Sixways,Greg MacDonald,35,A,N,19,Fri,Nov,2016,2016-17
-18/Nov/2016,20:00,Newcastle,19,0,Exeter,32,1,Kingston Park,Tim Wigglesworth,51,A,N,20,Fri,Nov,2016,2016-17
-18/Nov/2016,20:00,Exeter,32,1,Newcastle,19,0,Kingston Park,Tim Wigglesworth,51,A,N,20,Fri,Nov,2016,2016-17
-19/Nov/2016,15:00,Gloucester,36,1,Wasps,18,0,Kingsholm,Dean Richards,54,H,N,15,Sat,Nov,2016,2016-17
-19/Nov/2016,15:00,Wasps,18,0,Gloucester,36,1,Kingsholm,Dean Richards,54,H,N,15,Sat,Nov,2016,2016-17
-20/Nov/2016,13:00,Sale,13,0,Saracens,28,0,AJ Bell Stadium,Andrew Jackson,41,A,N,13,Sun,Nov,2016,2016-17
-20/Nov/2016,13:00,Saracens,28,0,Sale,13,0,AJ Bell Stadium,Andrew Jackson,41,A,N,13,Sun,Nov,2016,2016-17
-20/Nov/2016,15:00,Leicester,25,0,Harlequins,6,0,Welford Road,Craig Maxwell-Keys,31,H,N,15,Sun,Nov,2016,2016-17
-20/Nov/2016,15:00,Harlequins,6,0,Leicester,25,0,Welford Road,Craig Maxwell-Keys,31,H,N,15,Sun,Nov,2016,2016-17
-25/Nov/2016,19:45,Bristol,16,1,Leicester,21,0,Ashton Gate,Tim Wigglesworth,37,A,N,19,Fri,Nov,2016,2016-17
-25/Nov/2016,19:45,Leicester,21,0,Bristol,16,1,Ashton Gate,Tim Wigglesworth,37,A,N,19,Fri,Nov,2016,2016-17
-25/Nov/2016,19:45,Northampton,16,1,Newcastle,22,0,Franklin's Gardens,Andrew Jackson,38,A,N,19,Fri,Nov,2016,2016-17
-25/Nov/2016,19:45,Newcastle,22,0,Northampton,16,1,Franklin's Gardens,Andrew Jackson,38,A,N,19,Fri,Nov,2016,2016-17
-26/Nov/2016,16:30,Exeter,57,1,Worcester,22,0,Sandy Park,Matthew O’Grady,79,H,N,16,Sat,Nov,2016,2016-17
-26/Nov/2016,16:30,Worcester,22,0,Exeter,57,1,Sandy Park,Matthew O’Grady,79,H,N,16,Sat,Nov,2016,2016-17
-27/Nov/2016,13:00,Saracens,24,0,Gloucester,20,1,Allianz Park,Greg MacDonald,44,H,N,13,Sun,Nov,2016,2016-17
-27/Nov/2016,13:00,Gloucester,20,1,Saracens,24,0,Allianz Park,Greg MacDonald,44,H,N,13,Sun,Nov,2016,2016-17
-27/Nov/2016,14:30,Wasps,34,1,Sale,24,0,Ricoh Arena,Tom Foley,58,H,N,14,Sun,Nov,2016,2016-17
-27/Nov/2016,14:30,Sale,24,0,Wasps,34,1,Ricoh Arena,Tom Foley,58,H,N,14,Sun,Nov,2016,2016-17
-27/Nov/2016,15:00,Harlequins,21,0,Bath,20,1,Twickenham Stoop,Dean Richards,41,H,N,15,Sun,Nov,2016,2016-17
-27/Nov/2016,15:00,Bath,20,1,Harlequins,21,0,Twickenham Stoop,Dean Richards,41,H,N,15,Sun,Nov,2016,2016-17
-02/Dec/2016,19:45,Sale,3,0,Exeter,21,0,AJ Bell Stadium,Wayne Barnes,24,A,N,19,Fri,Dec,2016,2016-17
-02/Dec/2016,19:45,Exeter,21,0,Sale,3,0,AJ Bell Stadium,Wayne Barnes,24,A,N,19,Fri,Dec,2016,2016-17
-03/Dec/2016,12:15,Bath,14,0,Saracens,11,1,Recreation Ground,Greg Garner,25,H,N,12,Sat,Dec,2016,2016-17
-03/Dec/2016,12:15,Saracens,11,1,Bath,14,0,Recreation Ground,Greg Garner,25,H,N,12,Sat,Dec,2016,2016-17
-03/Dec/2016,16:30,Gloucester,26,1,Bristol,18,0,Kingsholm,Matthew Carley,44,H,N,16,Sat,Dec,2016,2016-17
-03/Dec/2016,16:30,Bristol,18,0,Gloucester,26,1,Kingsholm,Matthew Carley,44,H,N,16,Sat,Dec,2016,2016-17
-03/Dec/2016,17:00,Leicester,19,0,Northampton,11,0,Welford Road,JP Doyle,30,H,N,17,Sat,Dec,2016,2016-17
-03/Dec/2016,17:00,Northampton,11,0,Leicester,19,0,Welford Road,JP Doyle,30,H,N,17,Sat,Dec,2016,2016-17
-04/Dec/2016,15:00,Newcastle,38,1,Harlequins,32,2,Kingston Park,Ian Tempest,70,H,N,15,Sun,Dec,2016,2016-17
-04/Dec/2016,15:00,Harlequins,32,2,Newcastle,38,1,Kingston Park,Ian Tempest,70,H,N,15,Sun,Dec,2016,2016-17
-04/Dec/2016,15:00,Worcester,12,0,Wasps,26,0,Sixways,Craig Maxwell-Keys,38,A,N,15,Sun,Dec,2016,2016-17
-04/Dec/2016,15:00,Wasps,26,0,Worcester,12,0,Sixways,Craig Maxwell-Keys,38,A,N,15,Sun,Dec,2016,2016-17
-23/Dec/2016,19:45,Northampton,24,0,Sale,5,0,Franklin's Gardens,Greg Garner,29,H,N,19,Fri,Dec,2016,2016-17
-23/Dec/2016,19:45,Sale,5,0,Northampton,24,0,Franklin's Gardens,Greg Garner,29,H,N,19,Fri,Dec,2016,2016-17
-24/Dec/2016,13:30,Saracens,21,0,Newcastle,6,0,Allianz Park,Matthew Carley,27,H,N,13,Sat,Dec,2016,2016-17
-24/Dec/2016,13:30,Newcastle,6,0,Saracens,21,0,Allianz Park,Matthew Carley,27,H,N,13,Sat,Dec,2016,2016-17
-24/Dec/2016,14:00,Wasps,40,1,Bath,26,1,Ricoh Arena,Luke Pearce,66,H,N,14,Sat,Dec,2016,2016-17
-24/Dec/2016,14:00,Bath,26,1,Wasps,40,1,Ricoh Arena,Luke Pearce,66,H,N,14,Sat,Dec,2016,2016-17
-24/Dec/2016,15:00,Exeter,31,1,Leicester,10,0,Sandy Park,Tom Foley,41,H,N,15,Sat,Dec,2016,2016-17
-24/Dec/2016,15:00,Leicester,10,0,Exeter,31,1,Sandy Park,Tom Foley,41,H,N,15,Sat,Dec,2016,2016-17
-26/Dec/2016,15:00,Bristol,28,0,Worcester,20,0,Ashton Gate,Wayne Barnes,48,H,N,15,Mon,Dec,2016,2016-17
-26/Dec/2016,15:00,Worcester,20,0,Bristol,28,0,Ashton Gate,Wayne Barnes,48,H,N,15,Mon,Dec,2016,2016-17
-27/Dec/2016,16:00,Harlequins,28,0,Gloucester,24,1,Twickenham Stadium,JP Doyle,52,H,N,16,Tue,Dec,2016,2016-17
-27/Dec/2016,16:00,Gloucester,24,1,Harlequins,28,0,Twickenham Stadium,JP Doyle,52,H,N,16,Tue,Dec,2016,2016-17
-30/Dec/2016,19:45,Newcastle,30,2,Wasps,34,1,Kingston Park,Tom Foley,64,A,N,19,Fri,Dec,2016,2016-17
-30/Dec/2016,19:45,Wasps,34,1,Newcastle,30,2,Kingston Park,Tom Foley,64,A,N,19,Fri,Dec,2016,2016-17
-31/Dec/2016,15:00,Bath,11,1,Exeter,17,0,Recreation Ground,Craig Maxwell-Keys,28,A,N,15,Sat,Dec,2016,2016-17
-31/Dec/2016,15:00,Exeter,17,0,Bath,11,1,Recreation Ground,Craig Maxwell-Keys,28,A,N,15,Sat,Dec,2016,2016-17
-01/Jan/2017,14:30,Sale,23,1,Bristol,24,0,AJ Bell Stadium,Ian Tempest,47,A,N,14,Sun,Jan,2017,2016-17
-01/Jan/2017,14:30,Bristol,24,0,Sale,23,1,AJ Bell Stadium,Ian Tempest,47,A,N,14,Sun,Jan,2017,2016-17
-01/Jan/2017,15:00,Gloucester,12,1,Northampton,13,0,Kingsholm,Matthew Carley,25,A,N,15,Sun,Jan,2017,2016-17
-01/Jan/2017,15:00,Northampton,13,0,Gloucester,12,1,Kingsholm,Matthew Carley,25,A,N,15,Sun,Jan,2017,2016-17
-01/Jan/2017,15:00,Leicester,12,1,Saracens,16,0,Welford Road,JP Doyle,28,A,N,15,Sun,Jan,2017,2016-17
-01/Jan/2017,15:00,Saracens,16,0,Leicester,12,1,Welford Road,JP Doyle,28,A,N,15,Sun,Jan,2017,2016-17
-01/Jan/2017,15:00,Worcester,24,0,Harlequins,17,1,Sixways,Luke Pearce,41,H,N,15,Sun,Jan,2017,2016-17
-01/Jan/2017,15:00,Harlequins,17,1,Worcester,24,0,Sixways,Luke Pearce,41,H,N,15,Sun,Jan,2017,2016-17
-06/Jan/2017,19:45,Newcastle,24,0,Bath,22,1,Kingston Park,Greg Garner,46,H,N,19,Fri,Jan,2017,2016-17
-06/Jan/2017,19:45,Bath,22,1,Newcastle,24,0,Kingston Park,Greg Garner,46,H,N,19,Fri,Jan,2017,2016-17
-07/Jan/2017,15:00,Saracens,13,0,Exeter,13,0,Allianz Park,Ian Tempest,26,D,N,15,Sat,Jan,2017,2016-17
-07/Jan/2017,15:00,Exeter,13,0,Saracens,13,0,Allianz Park,Ian Tempest,26,D,N,15,Sat,Jan,2017,2016-17
-07/Jan/2017,15:00,Northampton,32,1,Bristol,26,1,Franklin's Gardens,Andrew Jackson,58,H,N,15,Sat,Jan,2017,2016-17
-07/Jan/2017,15:00,Bristol,26,1,Northampton,32,1,Franklin's Gardens,Andrew Jackson,58,H,N,15,Sat,Jan,2017,2016-17
-07/Jan/2017,15:00,Harlequins,29,0,Sale,26,1,Twickenham Stoop,JP Doyle,55,H,N,15,Sat,Jan,2017,2016-17
-07/Jan/2017,15:00,Sale,26,1,Harlequins,29,0,Twickenham Stoop,JP Doyle,55,H,N,15,Sat,Jan,2017,2016-17
-07/Jan/2017,15:00,Gloucester,55,1,Worcester,19,0,Kingsholm,Wayne Barnes,74,H,N,15,Sat,Jan,2017,2016-17
-07/Jan/2017,15:00,Worcester,19,0,Gloucester,55,1,Kingsholm,Wayne Barnes,74,H,N,15,Sat,Jan,2017,2016-17
-08/Jan/2017,15:00,Wasps,22,0,Leicester,16,1,Ricoh Arena,Craig Maxwell-Keys,38,H,N,15,Sun,Jan,2017,2016-17
-08/Jan/2017,15:00,Leicester,16,1,Wasps,22,0,Ricoh Arena,Craig Maxwell-Keys,38,H,N,15,Sun,Jan,2017,2016-17
-10/Feb/2017,19:45,Bath,32,1,Northampton,30,1,Recreation Ground,Wayne Barnes,62,H,N,19,Fri,Feb,2017,2016-17
-10/Feb/2017,19:45,Northampton,30,1,Bath,32,1,Recreation Ground,Wayne Barnes,62,H,N,19,Fri,Feb,2017,2016-17
-10/Feb/2017,19:45,Bristol,8,0,Harlequins,42,1,Ashton Gate,Matthew Carley,50,A,N,19,Fri,Feb,2017,2016-17
-10/Feb/2017,19:45,Harlequins,42,1,Bristol,8,0,Ashton Gate,Matthew Carley,50,A,N,19,Fri,Feb,2017,2016-17
-10/Feb/2017,20:15,Sale,26,0,Newcastle,24,2,AJ Bell Stadium,Craig Maxwell-Keys,50,H,N,20,Fri,Feb,2017,2016-17
-10/Feb/2017,20:15,Newcastle,24,2,Sale,26,0,AJ Bell Stadium,Craig Maxwell-Keys,50,H,N,20,Fri,Feb,2017,2016-17
-11/Feb/2017,15:00,Leicester,34,1,Gloucester,9,0,Welford Road,Ian Tempest,43,H,N,15,Sat,Feb,2017,2016-17
-11/Feb/2017,15:00,Gloucester,9,0,Leicester,34,1,Welford Road,Ian Tempest,43,H,N,15,Sat,Feb,2017,2016-17
-11/Feb/2017,15:00,Worcester,24,0,Saracens,18,1,Sixways,Tom Foley,42,H,N,15,Sat,Feb,2017,2016-17
-11/Feb/2017,15:00,Saracens,18,1,Worcester,24,0,Sixways,Tom Foley,42,H,N,15,Sat,Feb,2017,2016-17
-12/Feb/2017,13:00,Exeter,35,1,Wasps,35,1,Sandy Park,Greg Garner,70,D,N,13,Sun,Feb,2017,2016-17
-12/Feb/2017,13:00,Wasps,35,1,Exeter,35,1,Sandy Park,Greg Garner,70,D,N,13,Sun,Feb,2017,2016-17
-17/Feb/2017,19:45,Gloucester,31,0,Saracens,23,0,Kingsholm,Wayne Barnes,54,H,N,19,Fri,Feb,2017,2016-17
-17/Feb/2017,19:45,Saracens,23,0,Gloucester,31,0,Kingsholm,Wayne Barnes,54,H,N,19,Fri,Feb,2017,2016-17
-18/Feb/2017,15:00,Bath,22,0,Harlequins,12,0,Recreation Ground,Craig Maxwell-Keys,34,H,N,15,Sat,Feb,2017,2016-17
-18/Feb/2017,15:00,Harlequins,12,0,Bath,22,0,Recreation Ground,Craig Maxwell-Keys,34,H,N,15,Sat,Feb,2017,2016-17
-18/Feb/2017,15:00,Leicester,50,1,Bristol,17,0,Welford Road,Tom Foley,67,H,N,15,Sat,Feb,2017,2016-17
-18/Feb/2017,15:00,Bristol,17,0,Leicester,50,1,Welford Road,Tom Foley,67,H,N,15,Sat,Feb,2017,2016-17
-18/Feb/2017,15:00,Worcester,32,1,Exeter,48,1,Sixways,JP Doyle,80,A,N,15,Sat,Feb,2017,2016-17
-18/Feb/2017,15:00,Exeter,48,1,Worcester,32,1,Sixways,JP Doyle,80,A,N,15,Sat,Feb,2017,2016-17
-19/Feb/2017,15:00,Newcastle,46,1,Northampton,31,1,Kingston Park,Greg Garner,77,H,N,15,Sun,Feb,2017,2016-17
-19/Feb/2017,15:00,Northampton,31,1,Newcastle,46,1,Kingston Park,Greg Garner,77,H,N,15,Sun,Feb,2017,2016-17
-19/Feb/2017,15:00,Sale,34,1,Wasps,28,1,AJ Bell Stadium,Matthew Carley,62,H,N,15,Sun,Feb,2017,2016-17
-19/Feb/2017,15:00,Wasps,28,1,Sale,34,1,AJ Bell Stadium,Matthew Carley,62,H,N,15,Sun,Feb,2017,2016-17
-24/Feb/2017,19:45,Harlequins,18,0,Leicester,27,0,Twickenham Stoop,Dean Richards,45,A,N,19,Fri,Feb,2017,2016-17
-24/Feb/2017,19:45,Leicester,27,0,Harlequins,18,0,Twickenham Stoop,Dean Richards,45,A,N,19,Fri,Feb,2017,2016-17
-25/Feb/2017,14:45,Saracens,29,0,Sale,18,0,Allianz Park,Tim Wigglesworth,47,H,N,14,Sat,Feb,2017,2016-17
-25/Feb/2017,14:45,Sale,18,0,Saracens,29,0,Allianz Park,Tim Wigglesworth,47,H,N,14,Sat,Feb,2017,2016-17
-25/Feb/2017,15:00,Exeter,36,1,Newcastle,14,0,Sandy Park,Ian Tempest,50,H,N,15,Sat,Feb,2017,2016-17
-25/Feb/2017,15:00,Newcastle,14,0,Exeter,36,1,Sandy Park,Ian Tempest,50,H,N,15,Sat,Feb,2017,2016-17
-25/Feb/2017,15:00,Northampton,24,0,Worcester,14,0,Franklin's Gardens,Craig Maxwell-Keys,38,H,N,15,Sat,Feb,2017,2016-17
-25/Feb/2017,15:00,Worcester,14,0,Northampton,24,0,Franklin's Gardens,Craig Maxwell-Keys,38,H,N,15,Sat,Feb,2017,2016-17
-26/Feb/2017,13:00,Bristol,12,0,Bath,11,1,Ashton Gate,Greg Garner,23,H,N,13,Sun,Feb,2017,2016-17
-26/Feb/2017,13:00,Bath,11,1,Bristol,12,0,Ashton Gate,Greg Garner,23,H,N,13,Sun,Feb,2017,2016-17
-26/Feb/2017,13:00,Wasps,35,1,Gloucester,22,0,Ricoh Arena,Andrew Jackson,57,H,N,13,Sun,Feb,2017,2016-17
-26/Feb/2017,13:00,Gloucester,22,0,Wasps,35,1,Ricoh Arena,Andrew Jackson,57,H,N,13,Sun,Feb,2017,2016-17
-03/Mar/2017,19:45,Leicester,15,0,Exeter,34,1,Welford Road,Matthew Carley,49,A,N,19,Fri,Mar,2017,2016-17
-03/Mar/2017,19:45,Exeter,34,1,Leicester,15,0,Welford Road,Matthew Carley,49,A,N,19,Fri,Mar,2017,2016-17
-03/Mar/2017,20:15,Sale,12,0,Northampton,32,1,AJ Bell Stadium,Tom Foley,44,A,N,20,Fri,Mar,2017,2016-17
-03/Mar/2017,20:15,Northampton,32,1,Sale,12,0,AJ Bell Stadium,Tom Foley,44,A,N,20,Fri,Mar,2017,2016-17
-04/Mar/2017,15:00,Bath,3,0,Wasps,24,0,Recreation Ground,JP Doyle,27,A,N,15,Sat,Mar,2017,2016-17
-04/Mar/2017,15:00,Wasps,24,0,Bath,3,0,Recreation Ground,JP Doyle,27,A,N,15,Sat,Mar,2017,2016-17
-04/Mar/2017,15:00,Gloucester,27,1,Harlequins,30,1,Kingsholm,Greg Garner,57,A,N,15,Sat,Mar,2017,2016-17
-04/Mar/2017,15:00,Harlequins,30,1,Gloucester,27,1,Kingsholm,Greg Garner,57,A,N,15,Sat,Mar,2017,2016-17
-05/Mar/2017,14:00,Newcastle,27,1,Saracens,35,1,Kingston Park,Craig Maxwell-Keys,62,A,N,14,Sun,Mar,2017,2016-17
-05/Mar/2017,14:00,Saracens,35,1,Newcastle,27,1,Kingston Park,Craig Maxwell-Keys,62,A,N,14,Sun,Mar,2017,2016-17
-05/Mar/2017,15:00,Worcester,41,1,Bristol,24,0,Sixways,Wayne Barnes,65,H,N,15,Sun,Mar,2017,2016-17
-05/Mar/2017,15:00,Bristol,24,0,Worcester,41,1,Sixways,Wayne Barnes,65,H,N,15,Sun,Mar,2017,2016-17
-24/Mar/2017,19:45,Bristol,14,0,Gloucester,32,1,Ashton Gate,JP Doyle,46,A,N,19,Fri,Mar,2017,2016-17
-24/Mar/2017,19:45,Gloucester,32,1,Bristol,14,0,Ashton Gate,JP Doyle,46,A,N,19,Fri,Mar,2017,2016-17
-25/Mar/2017,15:00,Exeter,30,1,Sale,25,1,Sandy Park,Craig Maxwell-Keys,55,H,N,15,Sat,Mar,2017,2016-17
-25/Mar/2017,15:00,Sale,25,1,Exeter,30,1,Sandy Park,Craig Maxwell-Keys,55,H,N,15,Sat,Mar,2017,2016-17
-25/Mar/2017,15:00,Harlequins,53,1,Newcastle,17,0,Twickenham Stoop,Tom Foley,70,H,N,15,Sat,Mar,2017,2016-17
-25/Mar/2017,15:00,Newcastle,17,0,Harlequins,53,1,Twickenham Stoop,Tom Foley,70,H,N,15,Sat,Mar,2017,2016-17
-25/Mar/2017,15:00,Northampton,31,1,Leicester,36,0,Franklin's Gardens,Greg Garner,67,A,N,15,Sat,Mar,2017,2016-17
-25/Mar/2017,15:00,Leicester,36,0,Northampton,31,1,Franklin's Gardens,Greg Garner,67,A,N,15,Sat,Mar,2017,2016-17
-26/Mar/2017,14:30,Wasps,40,1,Worcester,33,2,Ricoh Arena,Luke Pearce,73,H,N,14,Sun,Mar,2017,2016-17
-26/Mar/2017,14:30,Worcester,33,2,Wasps,40,1,Ricoh Arena,Luke Pearce,73,H,N,14,Sun,Mar,2017,2016-17
-26/Mar/2017,15:00,Saracens,53,1,Bath,10,0,Allianz Park,Wayne Barnes,63,H,N,15,Sun,Mar,2017,2016-17
-26/Mar/2017,15:00,Bath,10,0,Saracens,53,1,Allianz Park,Wayne Barnes,63,H,N,15,Sun,Mar,2017,2016-17
-07/Apr/2017,19:45,Sale,36,1,Worcester,26,1,AJ Bell Stadium,Matthew Carley,62,H,N,19,Fri,Apr,2017,2016-17
-07/Apr/2017,19:45,Worcester,26,1,Sale,36,1,AJ Bell Stadium,Matthew Carley,62,H,N,19,Fri,Apr,2017,2016-17
-07/Apr/2017,20:00,Newcastle,16,0,Gloucester,14,1,Kingston Park,Luke Pearce,30,H,N,20,Fri,Apr,2017,2016-17
-07/Apr/2017,20:00,Gloucester,14,1,Newcastle,16,0,Kingston Park,Luke Pearce,30,H,N,20,Fri,Apr,2017,2016-17
-08/Apr/2017,14:00,Bath,27,0,Leicester,21,1,Twickenham Stadium,JP Doyle,48,H,N,14,Sat,Apr,2017,2016-17
-08/Apr/2017,14:00,Leicester,21,1,Bath,27,0,Twickenham Stadium,JP Doyle,48,H,N,14,Sat,Apr,2017,2016-17
-08/Apr/2017,15:00,Exeter,38,1,Bristol,34,2,Sandy Park,Tom Foley,72,H,N,15,Sat,Apr,2017,2016-17
-08/Apr/2017,15:00,Bristol,34,2,Exeter,38,1,Sandy Park,Tom Foley,72,H,N,15,Sat,Apr,2017,2016-17
-08/Apr/2017,16:30,Saracens,40,1,Harlequins,19,0,Wembley Stadium,Ian Tempest,59,H,N,16,Sat,Apr,2017,2016-17
-08/Apr/2017,16:30,Harlequins,19,0,Saracens,40,1,Wembley Stadium,Ian Tempest,59,H,N,16,Sat,Apr,2017,2016-17
-09/Apr/2017,14:30,Wasps,32,1,Northampton,30,2,Ricoh Arena,Craig Maxwell-Keys,62,H,N,14,Sun,Apr,2017,2016-17
-09/Apr/2017,14:30,Northampton,30,2,Wasps,32,1,Ricoh Arena,Craig Maxwell-Keys,62,H,N,14,Sun,Apr,2017,2016-17
-14/Apr/2017,19:45,Harlequins,26,0,Exeter,39,1,Twickenham Stoop,Wayne Barnes,65,A,N,19,Fri,Apr,2017,2016-17
-14/Apr/2017,19:45,Exeter,39,1,Harlequins,26,0,Twickenham Stoop,Wayne Barnes,65,A,N,19,Fri,Apr,2017,2016-17
-15/Apr/2017,15:00,Gloucester,39,1,Sale,30,1,Kingsholm,Tom Foley,69,H,N,15,Sat,Apr,2017,2016-17
-15/Apr/2017,15:00,Sale,30,1,Gloucester,39,1,Kingsholm,Tom Foley,69,H,N,15,Sat,Apr,2017,2016-17
-15/Apr/2017,15:00,Leicester,30,1,Newcastle,3,0,Welford Road,Ian Tempest,33,H,N,15,Sat,Apr,2017,2016-17
-15/Apr/2017,15:00,Newcastle,3,0,Leicester,30,1,Welford Road,Ian Tempest,33,H,N,15,Sat,Apr,2017,2016-17
-15/Apr/2017,15:00,Worcester,25,0,Bath,19,1,Sixways,Luke Pearce,44,H,N,15,Sat,Apr,2017,2016-17
-15/Apr/2017,15:00,Bath,19,1,Worcester,25,0,Sixways,Luke Pearce,44,H,N,15,Sat,Apr,2017,2016-17
-16/Apr/2017,15:00,Bristol,21,0,Wasps,36,1,Ashton Gate,Greg Garner,57,A,N,15,Sun,Apr,2017,2016-17
-16/Apr/2017,15:00,Wasps,36,1,Bristol,21,0,Ashton Gate,Greg Garner,57,A,N,15,Sun,Apr,2017,2016-17
-16/Apr/2017,15:00,Northampton,25,1,Saracens,27,0,Stadium mk,Matthew Carley,52,A,N,15,Sun,Apr,2017,2016-17
-16/Apr/2017,15:00,Saracens,27,0,Northampton,25,1,Stadium mk,Matthew Carley,52,A,N,15,Sun,Apr,2017,2016-17
-28/Apr/2017,19:45,Harlequins,32,0,Wasps,13,0,Twickenham Stoop,Wayne Barnes,45,H,N,19,Fri,Apr,2017,2016-17
-28/Apr/2017,19:45,Wasps,13,0,Harlequins,32,0,Twickenham Stoop,Wayne Barnes,45,H,N,19,Fri,Apr,2017,2016-17
-28/Apr/2017,20:00,Newcastle,16,0,Worcester,14,1,Kingston Park,Greg Garner,30,H,N,20,Fri,Apr,2017,2016-17
-28/Apr/2017,20:00,Worcester,14,1,Newcastle,16,0,Kingston Park,Greg Garner,30,H,N,20,Fri,Apr,2017,2016-17
-29/Apr/2017,15:00,Exeter,36,1,Northampton,12,0,Sandy Park,JP Doyle,48,H,N,15,Sat,Apr,2017,2016-17
-29/Apr/2017,15:00,Northampton,12,0,Exeter,36,1,Sandy Park,JP Doyle,48,H,N,15,Sat,Apr,2017,2016-17
-29/Apr/2017,15:00,Leicester,41,1,Sale,18,0,Welford Road,Craig Maxwell-Keys,59,H,N,15,Sat,Apr,2017,2016-17
-29/Apr/2017,15:00,Sale,18,0,Leicester,41,1,Welford Road,Craig Maxwell-Keys,59,H,N,15,Sat,Apr,2017,2016-17
-29/Apr/2017,15:00,Saracens,27,0,Bristol,9,0,Allianz Park,Andrew Jackson,36,H,N,15,Sat,Apr,2017,2016-17
-29/Apr/2017,15:00,Bristol,9,0,Saracens,27,0,Allianz Park,Andrew Jackson,36,H,N,15,Sat,Apr,2017,2016-17
-30/Apr/2017,15:00,Bath,44,1,Gloucester,20,0,Recreation Ground,Matthew Carley,64,H,N,15,Sun,Apr,2017,2016-17
-30/Apr/2017,15:00,Gloucester,20,0,Bath,44,1,Recreation Ground,Matthew Carley,64,H,N,15,Sun,Apr,2017,2016-17
-06/May/2017,16:00,Bristol,27,1,Newcastle,39,1,Ashton Gate,Luke Pearce,66,A,N,16,Sat,May,2017,2016-17
-06/May/2017,16:00,Newcastle,39,1,Bristol,27,1,Ashton Gate,Luke Pearce,66,A,N,16,Sat,May,2017,2016-17
-06/May/2017,16:00,Gloucester,20,0,Exeter,34,1,Kingsholm,Ian Tempest,54,A,N,16,Sat,May,2017,2016-17
-06/May/2017,16:00,Exeter,34,1,Gloucester,20,0,Kingsholm,Ian Tempest,54,A,N,16,Sat,May,2017,2016-17
-06/May/2017,16:00,Northampton,22,0,Harlequins,20,1,Franklin's Gardens,JP Doyle,42,H,N,16,Sat,May,2017,2016-17
-06/May/2017,16:00,Harlequins,20,1,Northampton,22,0,Franklin's Gardens,JP Doyle,42,H,N,16,Sat,May,2017,2016-17
-06/May/2017,16:00,Sale,27,0,Bath,24,1,AJ Bell Stadium,Greg Garner,51,H,N,16,Sat,May,2017,2016-17
-06/May/2017,16:00,Bath,24,1,Sale,27,0,AJ Bell Stadium,Greg Garner,51,H,N,16,Sat,May,2017,2016-17
-06/May/2017,16:00,Wasps,35,1,Saracens,15,0,Ricoh Arena,Wayne Barnes,50,H,N,16,Sat,May,2017,2016-17
-06/May/2017,16:00,Saracens,15,0,Wasps,35,1,Ricoh Arena,Wayne Barnes,50,H,N,16,Sat,May,2017,2016-17
-06/May/2017,16:00,Worcester,23,1,Leicester,28,0,Sixways,Tom Foley,51,A,N,16,Sat,May,2017,2016-17
-06/May/2017,16:00,Leicester,28,0,Worcester,23,1,Sixways,Tom Foley,51,A,N,16,Sat,May,2017,2016-17
-20/May/2017,14:30,Exeter,18,0,Saracens,16,0,Sandy Park,Wayne Barnes,34,H,N,14,Sat,May,2017,2016-17
-20/May/2017,14:30,Saracens,16,0,Exeter,18,0,Sandy Park,Wayne Barnes,34,H,N,14,Sat,May,2017,2016-17
-20/May/2017,17:15,Wasps,21,0,Leicester,20,0,Ricoh Arena,Matthew Carley,41,H,N,17,Sat,May,2017,2016-17
-20/May/2017,17:15,Leicester,20,0,Wasps,21,0,Ricoh Arena,Matthew Carley,41,H,N,17,Sat,May,2017,2016-17
-27/May/2017,14:30,Wasps,20,0,Exeter,23,0,Twickenham Stadium,JP Doyle,43,A,Y,14,Sat,May,2017,2016-17
-27/May/2017,14:30,Exeter,23,0,Wasps,20,0,Twickenham Stadium,JP Doyle,43,A,Y,14,Sat,May,2017,2016-17
+﻿date,time,team1Name,team1Score,team1Bps,team2Name,team2Score,team2Bps,venue,referee,totalScore,winner,extraTime,hour,day,month,year,season,team1Tries,team1Conversions,team1Penalties,team1DropGoals,team2Tries,team2Conversions,team2Penalties,team2DropGoals
+02/Sep/2016,19:45,Gloucester,31,2,Leicester,38,1,Kingsholm,Wayne Barnes,69,A,N,19,Fri,Sep,2016,2016-17,4,4,1,0,5,5,1,0
+02/Sep/2016,19:45,Leicester,38,1,Gloucester,31,2,Kingsholm,Wayne Barnes,69,A,N,19,Fri,Sep,2016,2016-17,5,5,1,0,4,4,1,0
+02/Sep/2016,20:00,Newcastle,19,0,Sale,17,1,Kingston Park,Greg Garner,36,H,N,20,Fri,Sep,2016,2016-17,1,1,4,0,2,2,1,0
+02/Sep/2016,20:00,Sale,17,1,Newcastle,19,0,Kingston Park,Greg Garner,36,H,N,20,Fri,Sep,2016,2016-17,2,2,1,0,1,1,4,0
+03/Sep/2016,14:00,Saracens,35,1,Worcester,3,0,Twickenham Stadium,Matthew Carley,38,H,N,14,Sat,Sep,2016,2016-17,4,3,3,0,0,0,1,0
+03/Sep/2016,14:00,Worcester,3,0,Saracens,35,1,Twickenham Stadium,Matthew Carley,38,H,N,14,Sat,Sep,2016,2016-17,0,0,1,0,4,3,3,0
+03/Sep/2016,15:30,Northampton,14,1,Bath,18,0,Franklin's Gardens,JP Doyle,32,A,N,15,Sat,Sep,2016,2016-17,2,2,0,0,0,0,4,2
+03/Sep/2016,15:30,Bath,18,0,Northampton,14,1,Franklin's Gardens,JP Doyle,32,A,N,15,Sat,Sep,2016,2016-17,0,0,4,2,2,2,0,0
+03/Sep/2016,16:30,Harlequins,21,0,Bristol,19,1,Twickenham Stadium,Luke Pearce,40,H,N,16,Sat,Sep,2016,2016-17,2,1,3,0,3,2,0,0
+03/Sep/2016,16:30,Bristol,19,1,Harlequins,21,0,Twickenham Stadium,Luke Pearce,40,H,N,16,Sat,Sep,2016,2016-17,3,2,0,0,2,1,3,0
+04/Sep/2016,15:00,Wasps,25,0,Exeter,20,1,Ricoh Arena,Tom Foley,45,H,N,15,Sun,Sep,2016,2016-17,3,2,2,0,2,2,2,0
+04/Sep/2016,15:00,Exeter,20,1,Wasps,25,0,Ricoh Arena,Tom Foley,45,H,N,15,Sun,Sep,2016,2016-17,2,2,2,0,3,2,2,0
+09/Sep/2016,19:45,Worcester,23,0,Gloucester,23,0,Sixways,Luke Pearce,46,D,N,19,Fri,Sep,2016,2016-17,3,1,2,0,2,2,3,0
+09/Sep/2016,19:45,Gloucester,23,0,Worcester,23,0,Sixways,Luke Pearce,46,D,N,19,Fri,Sep,2016,2016-17,2,2,3,0,3,1,2,0
+09/Sep/2016,20:15,Sale,19,0,Harlequins,10,0,AJ Bell Stadium,Tom Foley,29,H,N,20,Fri,Sep,2016,2016-17,1,1,4,0,1,1,1,0
+09/Sep/2016,20:15,Harlequins,10,0,Sale,19,0,AJ Bell Stadium,Tom Foley,29,H,N,20,Fri,Sep,2016,2016-17,1,1,1,0,1,1,4,0
+10/Sep/2016,15:00,Bath,58,1,Newcastle,5,0,Recreation Ground,Ian Tempest,63,H,N,15,Sat,Sep,2016,2016-17,8,6,1,1,1,0,0,0
+10/Sep/2016,15:00,Newcastle,5,0,Bath,58,1,Recreation Ground,Ian Tempest,63,H,N,15,Sat,Sep,2016,2016-17,1,0,0,0,8,6,1,1
+10/Sep/2016,15:00,Leicester,22,0,Wasps,34,1,Welford Road,Greg Garner,56,A,N,15,Sat,Sep,2016,2016-17,2,0,4,0,4,4,2,0
+10/Sep/2016,15:00,Wasps,34,1,Leicester,22,0,Welford Road,Greg Garner,56,A,N,15,Sat,Sep,2016,2016-17,4,4,2,0,2,0,4,0
+11/Sep/2016,16:30,Bristol,10,0,Northampton,32,1,Ashton Gate,Craig Maxwell-Keys,42,A,N,16,Sun,Sep,2016,2016-17,1,1,1,0,4,3,2,0
+11/Sep/2016,16:30,Northampton,32,1,Bristol,10,0,Ashton Gate,Craig Maxwell-Keys,42,A,N,16,Sun,Sep,2016,2016-17,4,3,2,0,1,1,1,0
+11/Sep/2016,15:00,Exeter,13,0,Saracens,34,1,Sandy Park,JP Doyle,47,A,N,15,Sun,Sep,2016,2016-17,1,1,2,0,5,3,1,0
+11/Sep/2016,15:00,Saracens,34,1,Exeter,13,0,Sandy Park,JP Doyle,47,A,N,15,Sun,Sep,2016,2016-17,5,3,1,0,1,1,2,0
+16/Sep/2016,19:45,Sale,13,0,Gloucester,26,0,AJ Bell Stadium,Ian Tempest,39,A,N,19,Fri,Sep,2016,2016-17,2,0,1,0,2,2,4,0
+16/Sep/2016,19:45,Gloucester,26,0,Sale,13,0,AJ Bell Stadium,Ian Tempest,39,A,N,19,Fri,Sep,2016,2016-17,2,2,4,0,2,0,1,0
+17/Sep/2016,15:00,Bath,37,1,Worcester,22,0,Recreation Ground,Craig Maxwell-Keys,59,H,N,15,Sat,Sep,2016,2016-17,4,4,3,0,3,2,1,0
+17/Sep/2016,15:00,Worcester,22,0,Bath,37,1,Recreation Ground,Craig Maxwell-Keys,59,H,N,15,Sat,Sep,2016,2016-17,3,2,1,0,4,4,3,0
+17/Sep/2016,15:00,Exeter,36,1,Harlequins,25,0,Sandy Park,Matthew Carley,61,H,N,15,Sat,Sep,2016,2016-17,5,4,1,0,3,2,2,0
+17/Sep/2016,15:00,Harlequins,25,0,Exeter,36,1,Sandy Park,Matthew Carley,61,H,N,15,Sat,Sep,2016,2016-17,3,2,2,0,5,4,1,0
+17/Sep/2016,15:00,Saracens,27,0,Northampton,12,0,Allianz Park,Greg Garner,39,H,N,15,Sat,Sep,2016,2016-17,2,1,5,0,0,0,4,0
+17/Sep/2016,15:00,Northampton,12,0,Saracens,27,0,Allianz Park,Greg Garner,39,H,N,15,Sat,Sep,2016,2016-17,0,0,4,0,2,1,5,0
+18/Sep/2016,14:30,Wasps,70,1,Bristol,22,0,Ricoh Arena,Tim Wigglesworth,92,H,N,14,Sun,Sep,2016,2016-17,10,7,2,0,3,2,1,0
+18/Sep/2016,14:30,Bristol,22,0,Wasps,70,1,Ricoh Arena,Tim Wigglesworth,92,H,N,14,Sun,Sep,2016,2016-17,3,2,1,0,10,7,2,0
+18/Sep/2016,15:00,Newcastle,13,1,Leicester,14,0,Kingston Park,JP Doyle,27,A,N,15,Sun,Sep,2016,2016-17,1,1,2,0,1,0,3,0
+18/Sep/2016,15:00,Leicester,14,0,Newcastle,13,1,Kingston Park,JP Doyle,27,A,N,15,Sun,Sep,2016,2016-17,1,0,3,0,1,1,2,0
+23/Sep/2016,19:45,Bristol,17,0,Exeter,41,1,Ashton Gate,Tom Foley,58,A,N,19,Fri,Sep,2016,2016-17,3,1,0,0,5,5,2,0
+23/Sep/2016,19:45,Exeter,41,1,Bristol,17,0,Ashton Gate,Tom Foley,58,A,N,19,Fri,Sep,2016,2016-17,5,5,2,0,3,1,0,0
+24/Sep/2016,15:00,Gloucester,13,1,Newcastle,18,0,Kingsholm,David Sainsbury,31,A,N,15,Sat,Sep,2016,2016-17,1,1,2,0,2,1,2,0
+24/Sep/2016,15:00,Newcastle,18,0,Gloucester,13,1,Kingsholm,David Sainsbury,31,A,N,15,Sat,Sep,2016,2016-17,2,1,2,0,1,1,2,0
+24/Sep/2016,15:00,Harlequins,17,0,Saracens,10,1,Twickenham Stoop,Craig Maxwell-Keys,27,H,N,15,Sat,Sep,2016,2016-17,2,2,1,0,1,1,1,0
+24/Sep/2016,15:00,Saracens,10,1,Harlequins,17,0,Twickenham Stoop,Craig Maxwell-Keys,27,H,N,15,Sat,Sep,2016,2016-17,1,1,1,0,2,2,1,0
+24/Sep/2016,15:00,Northampton,15,1,Wasps,20,0,Franklin's Gardens,Luke Pearce,35,A,N,15,Sat,Sep,2016,2016-17,2,1,1,0,2,2,2,0
+24/Sep/2016,15:00,Wasps,20,0,Northampton,15,1,Franklin's Gardens,Luke Pearce,35,A,N,15,Sat,Sep,2016,2016-17,2,2,2,0,2,1,1,0
+24/Sep/2016,15:00,Worcester,34,1,Sale,34,1,Sixways,JP Doyle,68,D,N,15,Sat,Sep,2016,2016-17,5,3,1,0,4,4,2,0
+24/Sep/2016,15:00,Sale,34,1,Worcester,34,1,Sixways,JP Doyle,68,D,N,15,Sat,Sep,2016,2016-17,4,4,2,0,5,3,1,0
+25/Sep/2016,15:00,Leicester,34,0,Bath,14,0,Welford Road,Matthew Carley,48,H,N,15,Sun,Sep,2016,2016-17,3,2,5,0,2,2,0,0
+25/Sep/2016,15:00,Bath,14,0,Leicester,34,0,Welford Road,Matthew Carley,48,H,N,15,Sun,Sep,2016,2016-17,2,2,0,0,3,2,5,0
+30/Sep/2016,19:45,Bristol,0,0,Saracens,39,1,Ashton Gate,Ian Tempest,39,A,N,19,Fri,Sep,2016,2016-17,0,0,0,0,5,4,2,0
+30/Sep/2016,19:45,Saracens,39,1,Bristol,0,0,Ashton Gate,Ian Tempest,39,A,N,19,Fri,Sep,2016,2016-17,5,4,2,0,0,0,0,0
+30/Sep/2016,19:45,Northampton,20,0,Exeter,19,1,Franklin's Gardens,Matthew Carley,39,H,N,19,Fri,Sep,2016,2016-17,2,2,2,0,1,1,4,0
+30/Sep/2016,19:45,Exeter,19,1,Northampton,20,0,Franklin's Gardens,Matthew Carley,39,H,N,19,Fri,Sep,2016,2016-17,1,1,4,0,2,2,2,0
+01/Oct/2016,14:30,Sale,34,1,Leicester,30,1,AJ Bell Stadium,Craig Maxwell-Keys,64,H,N,14,Sat,Oct,2016,2016-17,4,4,2,0,3,3,3,0
+01/Oct/2016,14:30,Leicester,30,1,Sale,34,1,AJ Bell Stadium,Craig Maxwell-Keys,64,H,N,14,Sat,Oct,2016,2016-17,3,3,3,0,4,4,2,0
+01/Oct/2016,15:00,Gloucester,6,0,Bath,15,0,Kingsholm,JP Doyle,21,A,N,15,Sat,Oct,2016,2016-17,0,0,2,0,2,1,0,1
+01/Oct/2016,15:00,Bath,15,0,Gloucester,6,0,Kingsholm,JP Doyle,21,A,N,15,Sat,Oct,2016,2016-17,2,1,0,1,0,0,2,0
+02/Oct/2016,14:30,Wasps,47,1,Harlequins,18,0,Ricoh Arena,Greg Garner,65,H,N,14,Sun,Oct,2016,2016-17,7,6,0,0,2,1,2,0
+02/Oct/2016,14:30,Harlequins,18,0,Wasps,47,1,Ricoh Arena,Greg Garner,65,H,N,14,Sun,Oct,2016,2016-17,2,1,2,0,7,6,0,0
+02/Oct/2016,15:00,Worcester,11,0,Newcastle,9,1,Sixways,Tom Foley,20,H,N,15,Sun,Oct,2016,2016-17,1,0,2,0,0,0,3,0
+02/Oct/2016,15:00,Newcastle,9,1,Worcester,11,0,Sixways,Tom Foley,20,H,N,15,Sun,Oct,2016,2016-17,0,0,3,0,1,0,2,0
+07/Oct/2016,19:45,Bath,30,0,Sale,3,0,Recreation Ground,Tom Foley,33,H,N,19,Fri,Oct,2016,2016-17,3,3,3,0,0,0,1,0
+07/Oct/2016,19:45,Sale,3,0,Bath,30,0,Recreation Ground,Tom Foley,33,H,N,19,Fri,Oct,2016,2016-17,0,0,1,0,3,3,3,0
+08/Oct/2016,15:00,Exeter,27,1,Gloucester,27,0,Sandy Park,Greg Garner,54,D,N,15,Sat,Oct,2016,2016-17,4,2,1,0,3,3,2,0
+08/Oct/2016,15:00,Gloucester,27,0,Exeter,27,1,Sandy Park,Greg Garner,54,D,N,15,Sat,Oct,2016,2016-17,3,3,2,0,4,2,1,0
+08/Oct/2016,15:00,Harlequins,20,0,Northampton,9,0,Twickenham Stoop,Ian Tempest,29,H,N,15,Sat,Oct,2016,2016-17,1,0,5,0,0,0,3,0
+08/Oct/2016,15:00,Northampton,9,0,Harlequins,20,0,Twickenham Stoop,Ian Tempest,29,H,N,15,Sat,Oct,2016,2016-17,0,0,3,0,1,0,5,0
+08/Oct/2016,15:00,Leicester,34,1,Worcester,13,0,Welford Road,Tim Wigglesworth,47,H,N,15,Sat,Oct,2016,2016-17,4,4,2,0,1,1,2,0
+08/Oct/2016,15:00,Worcester,13,0,Leicester,34,1,Welford Road,Tim Wigglesworth,47,H,N,15,Sat,Oct,2016,2016-17,1,1,2,0,4,4,2,0
+08/Oct/2016,15:00,Newcastle,19,0,Bristol,14,1,Kingston Park,Wayne Barnes,33,H,N,15,Sat,Oct,2016,2016-17,3,2,0,0,2,2,0,0
+08/Oct/2016,15:00,Bristol,14,1,Newcastle,19,0,Kingston Park,Wayne Barnes,33,H,N,15,Sat,Oct,2016,2016-17,2,2,0,0,3,2,0,0
+09/Oct/2016,15:00,Saracens,30,1,Wasps,14,0,Allianz Park,Matthew Carley,44,H,N,15,Sun,Oct,2016,2016-17,4,2,2,0,1,0,3,0
+09/Oct/2016,15:00,Wasps,14,0,Saracens,30,1,Allianz Park,Matthew Carley,44,H,N,15,Sun,Oct,2016,2016-17,1,0,3,0,4,2,2,0
+28/Oct/2016,19:45,Northampton,23,0,Gloucester,20,1,Franklin's Gardens,Tom Foley,43,H,N,19,Fri,Oct,2016,2016-17,2,2,3,0,2,2,2,0
+28/Oct/2016,19:45,Gloucester,20,1,Northampton,23,0,Franklin's Gardens,Tom Foley,43,H,N,19,Fri,Oct,2016,2016-17,2,2,2,0,2,2,3,0
+29/Oct/2016,15:00,Harlequins,36,1,Worcester,14,0,Twickenham Stoop,Luke Pearce,50,H,N,15,Sat,Oct,2016,2016-17,5,3,1,0,2,2,0,0
+29/Oct/2016,15:00,Worcester,14,0,Harlequins,36,1,Twickenham Stoop,Luke Pearce,50,H,N,15,Sat,Oct,2016,2016-17,2,2,0,0,5,3,1,0
+29/Oct/2016,15:00,Saracens,24,0,Leicester,10,0,Allianz Park,Wayne Barnes,34,H,N,15,Sat,Oct,2016,2016-17,3,3,1,0,1,1,1,0
+29/Oct/2016,15:00,Leicester,10,0,Saracens,24,0,Allianz Park,Wayne Barnes,34,H,N,15,Sat,Oct,2016,2016-17,1,1,1,0,3,3,1,0
+30/Oct/2016,14:30,Wasps,31,1,Newcastle,6,0,Ricoh Arena,Craig Maxwell-Keys,37,H,N,14,Sun,Oct,2016,2016-17,4,4,1,0,0,0,2,0
+30/Oct/2016,14:30,Newcastle,6,0,Wasps,31,1,Ricoh Arena,Craig Maxwell-Keys,37,H,N,14,Sun,Oct,2016,2016-17,0,0,2,0,4,4,1,0
+30/Oct/2016,15:00,Bristol,13,0,Sale,31,1,Ashton Gate,JP Doyle,44,A,N,15,Sun,Oct,2016,2016-17,1,1,2,0,5,3,0,0
+30/Oct/2016,15:00,Sale,31,1,Bristol,13,0,Ashton Gate,JP Doyle,44,A,N,15,Sun,Oct,2016,2016-17,5,3,0,0,1,1,2,0
+30/Oct/2016,15:00,Exeter,10,1,Bath,13,0,Sandy Park,Ian Tempest,23,A,N,15,Sun,Oct,2016,2016-17,1,1,1,0,1,1,2,0
+30/Oct/2016,15:00,Bath,13,0,Exeter,10,1,Sandy Park,Ian Tempest,23,A,N,15,Sun,Oct,2016,2016-17,1,1,2,0,1,1,1,0
+18/Nov/2016,19:45,Bath,16,0,Bristol,9,1,Recreation Ground,Ian Tempest,25,H,N,19,Fri,Nov,2016,2016-17,1,1,3,0,0,0,3,0
+18/Nov/2016,19:45,Bristol,9,1,Bath,16,0,Recreation Ground,Ian Tempest,25,H,N,19,Fri,Nov,2016,2016-17,0,0,3,0,1,1,3,0
+18/Nov/2016,19:45,Worcester,17,1,Northampton,18,0,Sixways,Greg MacDonald,35,A,N,19,Fri,Nov,2016,2016-17,2,2,1,0,0,0,6,0
+18/Nov/2016,19:45,Northampton,18,0,Worcester,17,1,Sixways,Greg MacDonald,35,A,N,19,Fri,Nov,2016,2016-17,0,0,6,0,2,2,1,0
+18/Nov/2016,20:00,Newcastle,19,0,Exeter,32,1,Kingston Park,Tim Wigglesworth,51,A,N,20,Fri,Nov,2016,2016-17,2,0,3,0,4,3,2,0
+18/Nov/2016,20:00,Exeter,32,1,Newcastle,19,0,Kingston Park,Tim Wigglesworth,51,A,N,20,Fri,Nov,2016,2016-17,4,3,2,0,2,0,3,0
+19/Nov/2016,15:00,Gloucester,36,1,Wasps,18,0,Kingsholm,Dean Richards,54,H,N,15,Sat,Nov,2016,2016-17,5,4,1,0,2,1,2,0
+19/Nov/2016,15:00,Wasps,18,0,Gloucester,36,1,Kingsholm,Dean Richards,54,H,N,15,Sat,Nov,2016,2016-17,2,1,2,0,5,4,1,0
+20/Nov/2016,13:00,Sale,13,0,Saracens,28,0,AJ Bell Stadium,Andrew Jackson,41,A,N,13,Sun,Nov,2016,2016-17,1,1,2,0,3,2,3,0
+20/Nov/2016,13:00,Saracens,28,0,Sale,13,0,AJ Bell Stadium,Andrew Jackson,41,A,N,13,Sun,Nov,2016,2016-17,3,2,3,0,1,1,2,0
+20/Nov/2016,15:00,Leicester,25,0,Harlequins,6,0,Welford Road,Craig Maxwell-Keys,31,H,N,15,Sun,Nov,2016,2016-17,1,1,5,1,0,0,2,0
+20/Nov/2016,15:00,Harlequins,6,0,Leicester,25,0,Welford Road,Craig Maxwell-Keys,31,H,N,15,Sun,Nov,2016,2016-17,0,0,2,0,1,1,5,1
+25/Nov/2016,19:45,Bristol,16,1,Leicester,21,0,Ashton Gate,Tim Wigglesworth,37,A,N,19,Fri,Nov,2016,2016-17,1,1,3,0,2,1,3,0
+25/Nov/2016,19:45,Leicester,21,0,Bristol,16,1,Ashton Gate,Tim Wigglesworth,37,A,N,19,Fri,Nov,2016,2016-17,2,1,3,0,1,1,3,0
+25/Nov/2016,19:45,Northampton,16,1,Newcastle,22,0,Franklin's Gardens,Andrew Jackson,38,A,N,19,Fri,Nov,2016,2016-17,1,1,3,0,3,2,1,0
+25/Nov/2016,19:45,Newcastle,22,0,Northampton,16,1,Franklin's Gardens,Andrew Jackson,38,A,N,19,Fri,Nov,2016,2016-17,3,2,1,0,1,1,3,0
+26/Nov/2016,16:30,Exeter,57,1,Worcester,22,0,Sandy Park,Matthew O’Grady,79,H,N,16,Sat,Nov,2016,2016-17,8,7,1,0,3,2,1,0
+26/Nov/2016,16:30,Worcester,22,0,Exeter,57,1,Sandy Park,Matthew O’Grady,79,H,N,16,Sat,Nov,2016,2016-17,3,2,1,0,8,7,1,0
+27/Nov/2016,13:00,Saracens,24,0,Gloucester,20,1,Allianz Park,Greg MacDonald,44,H,N,13,Sun,Nov,2016,2016-17,2,1,4,0,2,2,2,0
+27/Nov/2016,13:00,Gloucester,20,1,Saracens,24,0,Allianz Park,Greg MacDonald,44,H,N,13,Sun,Nov,2016,2016-17,2,2,2,0,2,1,4,0
+27/Nov/2016,14:30,Wasps,34,1,Sale,24,0,Ricoh Arena,Tom Foley,58,H,N,14,Sun,Nov,2016,2016-17,5,3,1,0,3,3,1,0
+27/Nov/2016,14:30,Sale,24,0,Wasps,34,1,Ricoh Arena,Tom Foley,58,H,N,14,Sun,Nov,2016,2016-17,3,3,1,0,5,3,1,0
+27/Nov/2016,15:00,Harlequins,21,0,Bath,20,1,Twickenham Stoop,Dean Richards,41,H,N,15,Sun,Nov,2016,2016-17,2,1,3,0,2,2,2,0
+27/Nov/2016,15:00,Bath,20,1,Harlequins,21,0,Twickenham Stoop,Dean Richards,41,H,N,15,Sun,Nov,2016,2016-17,2,2,2,0,2,1,3,0
+02/Dec/2016,19:45,Sale,3,0,Exeter,21,0,AJ Bell Stadium,Wayne Barnes,24,A,N,19,Fri,Dec,2016,2016-17,0,0,1,0,3,3,0,0
+02/Dec/2016,19:45,Exeter,21,0,Sale,3,0,AJ Bell Stadium,Wayne Barnes,24,A,N,19,Fri,Dec,2016,2016-17,3,3,0,0,0,0,1,0
+03/Dec/2016,12:15,Bath,14,0,Saracens,11,1,Recreation Ground,Greg Garner,25,H,N,12,Sat,Dec,2016,2016-17,1,0,3,0,1,0,1,1
+03/Dec/2016,12:15,Saracens,11,1,Bath,14,0,Recreation Ground,Greg Garner,25,H,N,12,Sat,Dec,2016,2016-17,1,0,1,1,1,0,3,0
+03/Dec/2016,16:30,Gloucester,26,1,Bristol,18,0,Kingsholm,Matthew Carley,44,H,N,16,Sat,Dec,2016,2016-17,4,3,0,0,2,1,2,0
+03/Dec/2016,16:30,Bristol,18,0,Gloucester,26,1,Kingsholm,Matthew Carley,44,H,N,16,Sat,Dec,2016,2016-17,2,1,2,0,4,3,0,0
+03/Dec/2016,17:00,Leicester,19,0,Northampton,11,0,Welford Road,JP Doyle,30,H,N,17,Sat,Dec,2016,2016-17,1,1,4,0,1,0,2,0
+03/Dec/2016,17:00,Northampton,11,0,Leicester,19,0,Welford Road,JP Doyle,30,H,N,17,Sat,Dec,2016,2016-17,1,0,2,0,1,1,4,0
+04/Dec/2016,15:00,Newcastle,38,1,Harlequins,32,2,Kingston Park,Ian Tempest,70,H,N,15,Sun,Dec,2016,2016-17,6,4,0,0,4,3,2,0
+04/Dec/2016,15:00,Harlequins,32,2,Newcastle,38,1,Kingston Park,Ian Tempest,70,H,N,15,Sun,Dec,2016,2016-17,4,3,2,0,6,4,0,0
+04/Dec/2016,15:00,Worcester,12,0,Wasps,26,0,Sixways,Craig Maxwell-Keys,38,A,N,15,Sun,Dec,2016,2016-17,0,0,4,0,2,2,4,0
+04/Dec/2016,15:00,Wasps,26,0,Worcester,12,0,Sixways,Craig Maxwell-Keys,38,A,N,15,Sun,Dec,2016,2016-17,2,2,4,0,0,0,4,0
+23/Dec/2016,19:45,Northampton,24,0,Sale,5,0,Franklin's Gardens,Greg Garner,29,H,N,19,Fri,Dec,2016,2016-17,3,3,1,0,1,0,0,0
+23/Dec/2016,19:45,Sale,5,0,Northampton,24,0,Franklin's Gardens,Greg Garner,29,H,N,19,Fri,Dec,2016,2016-17,1,0,0,0,3,3,1,0
+24/Dec/2016,13:30,Saracens,21,0,Newcastle,6,0,Allianz Park,Matthew Carley,27,H,N,13,Sat,Dec,2016,2016-17,2,1,3,0,0,0,2,0
+24/Dec/2016,13:30,Newcastle,6,0,Saracens,21,0,Allianz Park,Matthew Carley,27,H,N,13,Sat,Dec,2016,2016-17,0,0,2,0,2,1,3,0
+24/Dec/2016,14:00,Wasps,40,1,Bath,26,1,Ricoh Arena,Luke Pearce,66,H,N,14,Sat,Dec,2016,2016-17,4,4,4,0,4,3,0,0
+24/Dec/2016,14:00,Bath,26,1,Wasps,40,1,Ricoh Arena,Luke Pearce,66,H,N,14,Sat,Dec,2016,2016-17,4,3,0,0,4,4,4,0
+24/Dec/2016,15:00,Exeter,31,1,Leicester,10,0,Sandy Park,Tom Foley,41,H,N,15,Sat,Dec,2016,2016-17,4,4,1,0,2,0,0,0
+24/Dec/2016,15:00,Leicester,10,0,Exeter,31,1,Sandy Park,Tom Foley,41,H,N,15,Sat,Dec,2016,2016-17,2,0,0,0,4,4,1,0
+26/Dec/2016,15:00,Bristol,28,0,Worcester,20,0,Ashton Gate,Wayne Barnes,48,H,N,15,Mon,Dec,2016,2016-17,3,2,3,0,2,2,2,0
+26/Dec/2016,15:00,Worcester,20,0,Bristol,28,0,Ashton Gate,Wayne Barnes,48,H,N,15,Mon,Dec,2016,2016-17,2,2,2,0,3,2,3,0
+27/Dec/2016,16:00,Harlequins,28,0,Gloucester,24,1,Twickenham Stadium,JP Doyle,52,H,N,16,Tue,Dec,2016,2016-17,3,2,3,0,3,3,1,0
+27/Dec/2016,16:00,Gloucester,24,1,Harlequins,28,0,Twickenham Stadium,JP Doyle,52,H,N,16,Tue,Dec,2016,2016-17,3,3,1,0,3,2,3,0
+30/Dec/2016,19:45,Newcastle,30,2,Wasps,34,1,Kingston Park,Tom Foley,64,A,N,19,Fri,Dec,2016,2016-17,4,2,2,0,4,4,2,0
+30/Dec/2016,19:45,Wasps,34,1,Newcastle,30,2,Kingston Park,Tom Foley,64,A,N,19,Fri,Dec,2016,2016-17,4,4,2,0,4,2,2,0
+31/Dec/2016,15:00,Bath,11,1,Exeter,17,0,Recreation Ground,Craig Maxwell-Keys,28,A,N,15,Sat,Dec,2016,2016-17,1,0,2,0,2,2,1,0
+31/Dec/2016,15:00,Exeter,17,0,Bath,11,1,Recreation Ground,Craig Maxwell-Keys,28,A,N,15,Sat,Dec,2016,2016-17,2,2,1,0,1,0,2,0
+01/Jan/2017,14:30,Sale,23,1,Bristol,24,0,AJ Bell Stadium,Ian Tempest,47,A,N,14,Sun,Jan,2017,2016-17,3,1,2,0,3,3,1,0
+01/Jan/2017,14:30,Bristol,24,0,Sale,23,1,AJ Bell Stadium,Ian Tempest,47,A,N,14,Sun,Jan,2017,2016-17,3,3,1,0,3,1,2,0
+01/Jan/2017,15:00,Gloucester,12,1,Northampton,13,0,Kingsholm,Matthew Carley,25,A,N,15,Sun,Jan,2017,2016-17,0,0,4,0,1,1,2,0
+01/Jan/2017,15:00,Northampton,13,0,Gloucester,12,1,Kingsholm,Matthew Carley,25,A,N,15,Sun,Jan,2017,2016-17,1,1,2,0,0,0,4,0
+01/Jan/2017,15:00,Leicester,12,1,Saracens,16,0,Welford Road,JP Doyle,28,A,N,15,Sun,Jan,2017,2016-17,0,0,4,0,1,1,3,0
+01/Jan/2017,15:00,Saracens,16,0,Leicester,12,1,Welford Road,JP Doyle,28,A,N,15,Sun,Jan,2017,2016-17,1,1,3,0,0,0,4,0
+01/Jan/2017,15:00,Worcester,24,0,Harlequins,17,1,Sixways,Luke Pearce,41,H,N,15,Sun,Jan,2017,2016-17,2,1,4,0,2,2,1,0
+01/Jan/2017,15:00,Harlequins,17,1,Worcester,24,0,Sixways,Luke Pearce,41,H,N,15,Sun,Jan,2017,2016-17,2,2,1,0,2,1,4,0
+06/Jan/2017,19:45,Newcastle,24,0,Bath,22,1,Kingston Park,Greg Garner,46,H,N,19,Fri,Jan,2017,2016-17,3,3,1,0,3,2,1,0
+06/Jan/2017,19:45,Bath,22,1,Newcastle,24,0,Kingston Park,Greg Garner,46,H,N,19,Fri,Jan,2017,2016-17,3,2,1,0,3,3,1,0
+07/Jan/2017,15:00,Saracens,13,0,Exeter,13,0,Allianz Park,Ian Tempest,26,D,N,15,Sat,Jan,2017,2016-17,1,1,2,0,1,1,2,0
+07/Jan/2017,15:00,Exeter,13,0,Saracens,13,0,Allianz Park,Ian Tempest,26,D,N,15,Sat,Jan,2017,2016-17,1,1,2,0,1,1,2,0
+07/Jan/2017,15:00,Northampton,32,1,Bristol,26,1,Franklin's Gardens,Andrew Jackson,58,H,N,15,Sat,Jan,2017,2016-17,4,3,1,1,2,2,4,0
+07/Jan/2017,15:00,Bristol,26,1,Northampton,32,1,Franklin's Gardens,Andrew Jackson,58,H,N,15,Sat,Jan,2017,2016-17,2,2,4,0,4,3,1,1
+07/Jan/2017,15:00,Harlequins,29,0,Sale,26,1,Twickenham Stoop,JP Doyle,55,H,N,15,Sat,Jan,2017,2016-17,2,2,5,0,3,1,3,0
+07/Jan/2017,15:00,Sale,26,1,Harlequins,29,0,Twickenham Stoop,JP Doyle,55,H,N,15,Sat,Jan,2017,2016-17,3,1,3,0,2,2,5,0
+07/Jan/2017,15:00,Gloucester,55,1,Worcester,19,0,Kingsholm,Wayne Barnes,74,H,N,15,Sat,Jan,2017,2016-17,7,7,2,0,3,2,0,0
+07/Jan/2017,15:00,Worcester,19,0,Gloucester,55,1,Kingsholm,Wayne Barnes,74,H,N,15,Sat,Jan,2017,2016-17,3,2,0,0,7,7,2,0
+08/Jan/2017,15:00,Wasps,22,0,Leicester,16,1,Ricoh Arena,Craig Maxwell-Keys,38,H,N,15,Sun,Jan,2017,2016-17,3,2,1,0,1,1,3,0
+08/Jan/2017,15:00,Leicester,16,1,Wasps,22,0,Ricoh Arena,Craig Maxwell-Keys,38,H,N,15,Sun,Jan,2017,2016-17,1,1,3,0,3,2,1,0
+10/Feb/2017,19:45,Bath,32,1,Northampton,30,1,Recreation Ground,Wayne Barnes,62,H,N,19,Fri,Feb,2017,2016-17,4,3,2,0,3,3,3,0
+10/Feb/2017,19:45,Northampton,30,1,Bath,32,1,Recreation Ground,Wayne Barnes,62,H,N,19,Fri,Feb,2017,2016-17,3,3,3,0,4,3,2,0
+10/Feb/2017,19:45,Bristol,8,0,Harlequins,42,1,Ashton Gate,Matthew Carley,50,A,N,19,Fri,Feb,2017,2016-17,1,0,1,0,5,4,3,0
+10/Feb/2017,19:45,Harlequins,42,1,Bristol,8,0,Ashton Gate,Matthew Carley,50,A,N,19,Fri,Feb,2017,2016-17,5,4,3,0,1,0,1,0
+10/Feb/2017,20:15,Sale,26,0,Newcastle,24,2,AJ Bell Stadium,Craig Maxwell-Keys,50,H,N,20,Fri,Feb,2017,2016-17,3,1,3,0,4,2,0,0
+10/Feb/2017,20:15,Newcastle,24,2,Sale,26,0,AJ Bell Stadium,Craig Maxwell-Keys,50,H,N,20,Fri,Feb,2017,2016-17,4,2,0,0,3,1,3,0
+11/Feb/2017,15:00,Leicester,34,1,Gloucester,9,0,Welford Road,Ian Tempest,43,H,N,15,Sat,Feb,2017,2016-17,4,4,2,0,0,0,3,0
+11/Feb/2017,15:00,Gloucester,9,0,Leicester,34,1,Welford Road,Ian Tempest,43,H,N,15,Sat,Feb,2017,2016-17,0,0,3,0,4,4,2,0
+11/Feb/2017,15:00,Worcester,24,0,Saracens,18,1,Sixways,Tom Foley,42,H,N,15,Sat,Feb,2017,2016-17,0,0,8,0,2,1,2,0
+11/Feb/2017,15:00,Saracens,18,1,Worcester,24,0,Sixways,Tom Foley,42,H,N,15,Sat,Feb,2017,2016-17,2,1,2,0,0,0,8,0
+12/Feb/2017,13:00,Exeter,35,1,Wasps,35,1,Sandy Park,Greg Garner,70,D,N,13,Sun,Feb,2017,2016-17,5,5,0,0,5,5,0,0
+12/Feb/2017,13:00,Wasps,35,1,Exeter,35,1,Sandy Park,Greg Garner,70,D,N,13,Sun,Feb,2017,2016-17,5,5,0,0,5,5,0,0
+17/Feb/2017,19:45,Gloucester,31,0,Saracens,23,0,Kingsholm,Wayne Barnes,54,H,N,19,Fri,Feb,2017,2016-17,3,2,4,0,2,2,3,0
+17/Feb/2017,19:45,Saracens,23,0,Gloucester,31,0,Kingsholm,Wayne Barnes,54,H,N,19,Fri,Feb,2017,2016-17,2,2,3,0,3,2,4,0
+18/Feb/2017,15:00,Bath,22,0,Harlequins,12,0,Recreation Ground,Craig Maxwell-Keys,34,H,N,15,Sat,Feb,2017,2016-17,1,1,5,0,2,1,0,0
+18/Feb/2017,15:00,Harlequins,12,0,Bath,22,0,Recreation Ground,Craig Maxwell-Keys,34,H,N,15,Sat,Feb,2017,2016-17,2,1,0,0,1,1,5,0
+18/Feb/2017,15:00,Leicester,50,1,Bristol,17,0,Welford Road,Tom Foley,67,H,N,15,Sat,Feb,2017,2016-17,8,5,0,0,2,2,1,0
+18/Feb/2017,15:00,Bristol,17,0,Leicester,50,1,Welford Road,Tom Foley,67,H,N,15,Sat,Feb,2017,2016-17,2,2,1,0,8,5,0,0
+18/Feb/2017,15:00,Worcester,32,1,Exeter,48,1,Sixways,JP Doyle,80,A,N,15,Sat,Feb,2017,2016-17,4,3,2,0,7,5,1,0
+18/Feb/2017,15:00,Exeter,48,1,Worcester,32,1,Sixways,JP Doyle,80,A,N,15,Sat,Feb,2017,2016-17,7,5,1,0,4,3,2,0
+19/Feb/2017,15:00,Newcastle,46,1,Northampton,31,1,Kingston Park,Greg Garner,77,H,N,15,Sun,Feb,2017,2016-17,7,4,1,0,4,4,1,0
+19/Feb/2017,15:00,Northampton,31,1,Newcastle,46,1,Kingston Park,Greg Garner,77,H,N,15,Sun,Feb,2017,2016-17,4,4,1,0,7,4,1,0
+19/Feb/2017,15:00,Sale,34,1,Wasps,28,1,AJ Bell Stadium,Matthew Carley,62,H,N,15,Sun,Feb,2017,2016-17,4,4,2,0,3,2,3,0
+19/Feb/2017,15:00,Wasps,28,1,Sale,34,1,AJ Bell Stadium,Matthew Carley,62,H,N,15,Sun,Feb,2017,2016-17,3,2,3,0,4,4,2,0
+24/Feb/2017,19:45,Harlequins,18,0,Leicester,27,0,Twickenham Stoop,Dean Richards,45,A,N,19,Fri,Feb,2017,2016-17,2,1,2,0,3,3,2,0
+24/Feb/2017,19:45,Leicester,27,0,Harlequins,18,0,Twickenham Stoop,Dean Richards,45,A,N,19,Fri,Feb,2017,2016-17,3,3,2,0,2,1,2,0
+25/Feb/2017,14:45,Saracens,29,0,Sale,18,0,Allianz Park,Tim Wigglesworth,47,H,N,14,Sat,Feb,2017,2016-17,3,1,4,0,2,1,2,0
+25/Feb/2017,14:45,Sale,18,0,Saracens,29,0,Allianz Park,Tim Wigglesworth,47,H,N,14,Sat,Feb,2017,2016-17,2,1,2,0,3,1,4,0
+25/Feb/2017,15:00,Exeter,36,1,Newcastle,14,0,Sandy Park,Ian Tempest,50,H,N,15,Sat,Feb,2017,2016-17,5,4,1,0,2,2,0,0
+25/Feb/2017,15:00,Newcastle,14,0,Exeter,36,1,Sandy Park,Ian Tempest,50,H,N,15,Sat,Feb,2017,2016-17,2,2,0,0,5,4,1,0
+25/Feb/2017,15:00,Northampton,24,0,Worcester,14,0,Franklin's Gardens,Craig Maxwell-Keys,38,H,N,15,Sat,Feb,2017,2016-17,3,3,1,0,2,2,0,0
+25/Feb/2017,15:00,Worcester,14,0,Northampton,24,0,Franklin's Gardens,Craig Maxwell-Keys,38,H,N,15,Sat,Feb,2017,2016-17,2,2,0,0,3,3,1,0
+26/Feb/2017,13:00,Bristol,12,0,Bath,11,1,Ashton Gate,Greg Garner,23,H,N,13,Sun,Feb,2017,2016-17,0,0,3,1,1,0,2,0
+26/Feb/2017,13:00,Bath,11,1,Bristol,12,0,Ashton Gate,Greg Garner,23,H,N,13,Sun,Feb,2017,2016-17,1,0,2,0,0,0,3,1
+26/Feb/2017,13:00,Wasps,35,1,Gloucester,22,0,Ricoh Arena,Andrew Jackson,57,H,N,13,Sun,Feb,2017,2016-17,5,2,2,0,3,2,1,0
+26/Feb/2017,13:00,Gloucester,22,0,Wasps,35,1,Ricoh Arena,Andrew Jackson,57,H,N,13,Sun,Feb,2017,2016-17,3,2,1,0,5,2,2,0
+03/Mar/2017,19:45,Leicester,15,0,Exeter,34,1,Welford Road,Matthew Carley,49,A,N,19,Fri,Mar,2017,2016-17,2,1,1,0,4,4,2,0
+03/Mar/2017,19:45,Exeter,34,1,Leicester,15,0,Welford Road,Matthew Carley,49,A,N,19,Fri,Mar,2017,2016-17,4,4,2,0,2,1,1,0
+03/Mar/2017,20:15,Sale,12,0,Northampton,32,1,AJ Bell Stadium,Tom Foley,44,A,N,20,Fri,Mar,2017,2016-17,2,1,0,0,4,3,2,0
+03/Mar/2017,20:15,Northampton,32,1,Sale,12,0,AJ Bell Stadium,Tom Foley,44,A,N,20,Fri,Mar,2017,2016-17,4,3,2,0,2,1,0,0
+04/Mar/2017,15:00,Bath,3,0,Wasps,24,0,Recreation Ground,JP Doyle,27,A,N,15,Sat,Mar,2017,2016-17,0,0,1,0,3,3,1,0
+04/Mar/2017,15:00,Wasps,24,0,Bath,3,0,Recreation Ground,JP Doyle,27,A,N,15,Sat,Mar,2017,2016-17,3,3,1,0,0,0,1,0
+04/Mar/2017,15:00,Gloucester,27,1,Harlequins,30,1,Kingsholm,Greg Garner,57,A,N,15,Sat,Mar,2017,2016-17,3,3,2,0,4,2,2,0
+04/Mar/2017,15:00,Harlequins,30,1,Gloucester,27,1,Kingsholm,Greg Garner,57,A,N,15,Sat,Mar,2017,2016-17,4,2,2,0,3,3,2,0
+05/Mar/2017,14:00,Newcastle,27,1,Saracens,35,1,Kingston Park,Craig Maxwell-Keys,62,A,N,14,Sun,Mar,2017,2016-17,3,3,2,0,5,2,2,0
+05/Mar/2017,14:00,Saracens,35,1,Newcastle,27,1,Kingston Park,Craig Maxwell-Keys,62,A,N,14,Sun,Mar,2017,2016-17,5,2,2,0,3,3,2,0
+05/Mar/2017,15:00,Worcester,41,1,Bristol,24,0,Sixways,Wayne Barnes,65,H,N,15,Sun,Mar,2017,2016-17,6,4,1,0,3,3,1,0
+05/Mar/2017,15:00,Bristol,24,0,Worcester,41,1,Sixways,Wayne Barnes,65,H,N,15,Sun,Mar,2017,2016-17,3,3,1,0,6,4,1,0
+24/Mar/2017,19:45,Bristol,14,0,Gloucester,32,1,Ashton Gate,JP Doyle,46,A,N,19,Fri,Mar,2017,2016-17,1,0,3,0,4,3,2,0
+24/Mar/2017,19:45,Gloucester,32,1,Bristol,14,0,Ashton Gate,JP Doyle,46,A,N,19,Fri,Mar,2017,2016-17,4,3,2,0,1,0,3,0
+25/Mar/2017,15:00,Exeter,30,1,Sale,25,1,Sandy Park,Craig Maxwell-Keys,55,H,N,15,Sat,Mar,2017,2016-17,4,2,2,0,1,1,6,0
+25/Mar/2017,15:00,Sale,25,1,Exeter,30,1,Sandy Park,Craig Maxwell-Keys,55,H,N,15,Sat,Mar,2017,2016-17,1,1,6,0,4,2,2,0
+25/Mar/2017,15:00,Harlequins,53,1,Newcastle,17,0,Twickenham Stoop,Tom Foley,70,H,N,15,Sat,Mar,2017,2016-17,7,6,2,0,2,2,1,0
+25/Mar/2017,15:00,Newcastle,17,0,Harlequins,53,1,Twickenham Stoop,Tom Foley,70,H,N,15,Sat,Mar,2017,2016-17,2,2,1,0,7,6,2,0
+25/Mar/2017,15:00,Northampton,31,1,Leicester,36,0,Franklin's Gardens,Greg Garner,67,A,N,15,Sat,Mar,2017,2016-17,3,2,4,0,3,3,5,0
+25/Mar/2017,15:00,Leicester,36,0,Northampton,31,1,Franklin's Gardens,Greg Garner,67,A,N,15,Sat,Mar,2017,2016-17,3,3,5,0,3,2,4,0
+26/Mar/2017,14:30,Wasps,40,1,Worcester,33,2,Ricoh Arena,Luke Pearce,73,H,N,14,Sun,Mar,2017,2016-17,6,5,0,0,5,4,0,0
+26/Mar/2017,14:30,Worcester,33,2,Wasps,40,1,Ricoh Arena,Luke Pearce,73,H,N,14,Sun,Mar,2017,2016-17,5,4,0,0,6,5,0,0
+26/Mar/2017,15:00,Saracens,53,1,Bath,10,0,Allianz Park,Wayne Barnes,63,H,N,15,Sun,Mar,2017,2016-17,8,5,1,0,1,1,1,0
+26/Mar/2017,15:00,Bath,10,0,Saracens,53,1,Allianz Park,Wayne Barnes,63,H,N,15,Sun,Mar,2017,2016-17,1,1,1,0,8,5,1,0
+07/Apr/2017,19:45,Sale,36,1,Worcester,26,1,AJ Bell Stadium,Matthew Carley,62,H,N,19,Fri,Apr,2017,2016-17,5,4,1,0,4,3,0,0
+07/Apr/2017,19:45,Worcester,26,1,Sale,36,1,AJ Bell Stadium,Matthew Carley,62,H,N,19,Fri,Apr,2017,2016-17,4,3,0,0,5,4,1,0
+07/Apr/2017,20:00,Newcastle,16,0,Gloucester,14,1,Kingston Park,Luke Pearce,30,H,N,20,Fri,Apr,2017,2016-17,1,1,3,0,2,2,0,0
+07/Apr/2017,20:00,Gloucester,14,1,Newcastle,16,0,Kingston Park,Luke Pearce,30,H,N,20,Fri,Apr,2017,2016-17,2,2,0,0,1,1,3,0
+08/Apr/2017,14:00,Bath,27,0,Leicester,21,1,Twickenham Stadium,JP Doyle,48,H,N,14,Sat,Apr,2017,2016-17,3,3,2,0,2,1,3,0
+08/Apr/2017,14:00,Leicester,21,1,Bath,27,0,Twickenham Stadium,JP Doyle,48,H,N,14,Sat,Apr,2017,2016-17,2,1,3,0,3,3,2,0
+08/Apr/2017,15:00,Exeter,38,1,Bristol,34,2,Sandy Park,Tom Foley,72,H,N,15,Sat,Apr,2017,2016-17,5,5,1,0,4,4,2,0
+08/Apr/2017,15:00,Bristol,34,2,Exeter,38,1,Sandy Park,Tom Foley,72,H,N,15,Sat,Apr,2017,2016-17,4,4,2,0,5,5,1,0
+08/Apr/2017,16:30,Saracens,40,1,Harlequins,19,0,Wembley Stadium,Ian Tempest,59,H,N,16,Sat,Apr,2017,2016-17,4,4,4,0,1,1,4,0
+08/Apr/2017,16:30,Harlequins,19,0,Saracens,40,1,Wembley Stadium,Ian Tempest,59,H,N,16,Sat,Apr,2017,2016-17,1,1,4,0,4,4,4,0
+09/Apr/2017,14:30,Wasps,32,1,Northampton,30,2,Ricoh Arena,Craig Maxwell-Keys,62,H,N,14,Sun,Apr,2017,2016-17,4,3,2,0,5,1,1,0
+09/Apr/2017,14:30,Northampton,30,2,Wasps,32,1,Ricoh Arena,Craig Maxwell-Keys,62,H,N,14,Sun,Apr,2017,2016-17,5,1,1,0,4,3,2,0
+14/Apr/2017,19:45,Harlequins,26,0,Exeter,39,1,Twickenham Stoop,Wayne Barnes,65,A,N,19,Fri,Apr,2017,2016-17,3,1,3,0,5,4,2,0
+14/Apr/2017,19:45,Exeter,39,1,Harlequins,26,0,Twickenham Stoop,Wayne Barnes,65,A,N,19,Fri,Apr,2017,2016-17,5,4,2,0,3,1,3,0
+15/Apr/2017,15:00,Gloucester,39,1,Sale,30,1,Kingsholm,Tom Foley,69,H,N,15,Sat,Apr,2017,2016-17,5,4,2,0,4,2,2,0
+15/Apr/2017,15:00,Sale,30,1,Gloucester,39,1,Kingsholm,Tom Foley,69,H,N,15,Sat,Apr,2017,2016-17,4,2,2,0,5,4,2,0
+15/Apr/2017,15:00,Leicester,30,1,Newcastle,3,0,Welford Road,Ian Tempest,33,H,N,15,Sat,Apr,2017,2016-17,4,2,2,0,0,0,1,0
+15/Apr/2017,15:00,Newcastle,3,0,Leicester,30,1,Welford Road,Ian Tempest,33,H,N,15,Sat,Apr,2017,2016-17,0,0,1,0,4,2,2,0
+15/Apr/2017,15:00,Worcester,25,0,Bath,19,1,Sixways,Luke Pearce,44,H,N,15,Sat,Apr,2017,2016-17,3,2,2,0,1,1,4,0
+15/Apr/2017,15:00,Bath,19,1,Worcester,25,0,Sixways,Luke Pearce,44,H,N,15,Sat,Apr,2017,2016-17,1,1,4,0,3,2,2,0
+16/Apr/2017,15:00,Bristol,21,0,Wasps,36,1,Ashton Gate,Greg Garner,57,A,N,15,Sun,Apr,2017,2016-17,3,3,0,0,6,3,0,0
+16/Apr/2017,15:00,Wasps,36,1,Bristol,21,0,Ashton Gate,Greg Garner,57,A,N,15,Sun,Apr,2017,2016-17,6,3,0,0,3,3,0,0
+16/Apr/2017,15:00,Northampton,25,1,Saracens,27,0,Stadium mk,Matthew Carley,52,A,N,15,Sun,Apr,2017,2016-17,3,2,2,0,2,1,5,0
+16/Apr/2017,15:00,Saracens,27,0,Northampton,25,1,Stadium mk,Matthew Carley,52,A,N,15,Sun,Apr,2017,2016-17,2,1,5,0,3,2,2,0
+28/Apr/2017,19:45,Harlequins,32,0,Wasps,13,0,Twickenham Stoop,Wayne Barnes,45,H,N,19,Fri,Apr,2017,2016-17,2,2,6,0,1,1,2,0
+28/Apr/2017,19:45,Wasps,13,0,Harlequins,32,0,Twickenham Stoop,Wayne Barnes,45,H,N,19,Fri,Apr,2017,2016-17,1,1,2,0,2,2,6,0
+28/Apr/2017,20:00,Newcastle,16,0,Worcester,14,1,Kingston Park,Greg Garner,30,H,N,20,Fri,Apr,2017,2016-17,1,1,3,0,2,2,0,0
+28/Apr/2017,20:00,Worcester,14,1,Newcastle,16,0,Kingston Park,Greg Garner,30,H,N,20,Fri,Apr,2017,2016-17,2,2,0,0,1,1,3,0
+29/Apr/2017,15:00,Exeter,36,1,Northampton,12,0,Sandy Park,JP Doyle,48,H,N,15,Sat,Apr,2017,2016-17,6,3,0,0,2,1,0,0
+29/Apr/2017,15:00,Northampton,12,0,Exeter,36,1,Sandy Park,JP Doyle,48,H,N,15,Sat,Apr,2017,2016-17,2,1,0,0,6,3,0,0
+29/Apr/2017,15:00,Leicester,41,1,Sale,18,0,Welford Road,Craig Maxwell-Keys,59,H,N,15,Sat,Apr,2017,2016-17,5,5,2,0,2,1,2,0
+29/Apr/2017,15:00,Sale,18,0,Leicester,41,1,Welford Road,Craig Maxwell-Keys,59,H,N,15,Sat,Apr,2017,2016-17,2,1,2,0,5,5,2,0
+29/Apr/2017,15:00,Saracens,27,0,Bristol,9,0,Allianz Park,Andrew Jackson,36,H,N,15,Sat,Apr,2017,2016-17,4,2,1,0,0,0,3,0
+29/Apr/2017,15:00,Bristol,9,0,Saracens,27,0,Allianz Park,Andrew Jackson,36,H,N,15,Sat,Apr,2017,2016-17,0,0,3,0,4,2,1,0
+30/Apr/2017,15:00,Bath,44,1,Gloucester,20,0,Recreation Ground,Matthew Carley,64,H,N,15,Sun,Apr,2017,2016-17,6,4,2,0,3,1,1,0
+30/Apr/2017,15:00,Gloucester,20,0,Bath,44,1,Recreation Ground,Matthew Carley,64,H,N,15,Sun,Apr,2017,2016-17,3,1,1,0,6,4,2,0
+06/May/2017,16:00,Bristol,27,1,Newcastle,39,1,Ashton Gate,Luke Pearce,66,A,N,16,Sat,May,2017,2016-17,4,2,1,0,5,4,2,0
+06/May/2017,16:00,Newcastle,39,1,Bristol,27,1,Ashton Gate,Luke Pearce,66,A,N,16,Sat,May,2017,2016-17,5,4,2,0,4,2,1,0
+06/May/2017,16:00,Gloucester,20,0,Exeter,34,1,Kingsholm,Ian Tempest,54,A,N,16,Sat,May,2017,2016-17,3,1,1,0,4,4,2,0
+06/May/2017,16:00,Exeter,34,1,Gloucester,20,0,Kingsholm,Ian Tempest,54,A,N,16,Sat,May,2017,2016-17,4,4,2,0,3,1,1,0
+06/May/2017,16:00,Northampton,22,0,Harlequins,20,1,Franklin's Gardens,JP Doyle,42,H,N,16,Sat,May,2017,2016-17,3,2,1,0,2,2,2,0
+06/May/2017,16:00,Harlequins,20,1,Northampton,22,0,Franklin's Gardens,JP Doyle,42,H,N,16,Sat,May,2017,2016-17,2,2,2,0,3,2,1,0
+06/May/2017,16:00,Sale,27,0,Bath,24,1,AJ Bell Stadium,Greg Garner,51,H,N,16,Sat,May,2017,2016-17,3,3,2,0,3,3,1,0
+06/May/2017,16:00,Bath,24,1,Sale,27,0,AJ Bell Stadium,Greg Garner,51,H,N,16,Sat,May,2017,2016-17,3,3,1,0,3,3,2,0
+06/May/2017,16:00,Wasps,35,1,Saracens,15,0,Ricoh Arena,Wayne Barnes,50,H,N,16,Sat,May,2017,2016-17,5,2,2,0,2,1,1,0
+06/May/2017,16:00,Saracens,15,0,Wasps,35,1,Ricoh Arena,Wayne Barnes,50,H,N,16,Sat,May,2017,2016-17,2,1,1,0,5,2,2,0
+06/May/2017,16:00,Worcester,23,1,Leicester,28,0,Sixways,Tom Foley,51,A,N,16,Sat,May,2017,2016-17,3,1,2,0,1,1,6,1
+06/May/2017,16:00,Leicester,28,0,Worcester,23,1,Sixways,Tom Foley,51,A,N,16,Sat,May,2017,2016-17,1,1,6,1,3,1,2,0
+20/May/2017,14:30,Exeter,18,0,Saracens,16,0,Sandy Park,Wayne Barnes,34,H,N,14,Sat,May,2017,2016-17,2,1,2,0,2,0,2,0
+20/May/2017,14:30,Saracens,16,0,Exeter,18,0,Sandy Park,Wayne Barnes,34,H,N,14,Sat,May,2017,2016-17,2,0,2,0,2,1,2,0
+20/May/2017,17:15,Wasps,21,0,Leicester,20,0,Ricoh Arena,Matthew Carley,41,H,N,17,Sat,May,2017,2016-17,2,1,3,0,2,2,2,0
+20/May/2017,17:15,Leicester,20,0,Wasps,21,0,Ricoh Arena,Matthew Carley,41,H,N,17,Sat,May,2017,2016-17,2,2,2,0,2,1,3,0
+27/May/2017,14:30,Wasps,20,0,Exeter,23,0,Twickenham Stadium,JP Doyle,43,A,Y,14,Sat,May,2017,2016-17,2,2,2,0,2,2,3,0
+27/May/2017,14:30,Exeter,23,0,Wasps,20,0,Twickenham Stadium,JP Doyle,43,A,Y,14,Sat,May,2017,2016-17,2,2,3,0,2,2,2,0

@@ -1,5 +1,5 @@
 import re
-from srs.premiership.wikipedia.constants import OriginalColumns
+from srs.premiership.wikipedia.constants.columns import OriginalColumns
 
 # Constant val for replacing br tags with custom string
 BR_REPLACE = "xXx"
@@ -62,7 +62,7 @@ def score_formatter(score_data):
         total_score = "N/A"
         winner = "N/A"
 
-    formatted_scores = {OriginalColumns.TEAM1_SCORE: team1_score, OriginalColumns.TEAM2_SCORE: team2_score,
-                        OriginalColumns.TOTAL_SCORE: total_score, OriginalColumns.WINNER: winner,
+    formatted_scores = {OriginalColumns.TEAM1_POINTS: team1_score, OriginalColumns.TEAM2_POINTS: team2_score,
+                        OriginalColumns.TOTAL_POINTS: total_score, OriginalColumns.WINNER: winner,
                         OriginalColumns.EXTRA_TIME: extra_time}
     return formatted_scores

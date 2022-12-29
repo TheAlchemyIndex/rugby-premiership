@@ -1,17 +1,20 @@
 import re
+from srs.premiership.wikipedia.constants.matchData import Teams
 
 
 def team_name_formatter(team_name_data):
     """Takes team information and reformats it.
 
-    :param team_name_data: Team name information about a match
-    :return: A reformatted version of the team name
+    :param team_name_data: Team name information from a match
+    :return: A list of the reformatted version of the team name and the number of bonus points they scored
     """
     # Removes any brackets and characters in between if found in the date
     formatted_team_name = re.sub("\((.*?)\)", "", team_name_data, flags=re.DOTALL).strip()
 
+    # Sets number of bonus points as 0 as default
     bps = 0
 
+    # Checks if bonus point data was included in the team name
     try:
         match = re.search(r'\(.*?\)', team_name_data)
         if "BP" in match.group():
@@ -21,27 +24,28 @@ def team_name_formatter(team_name_data):
     except AttributeError:
         bps = 0
 
+    # Reformats team names
     if formatted_team_name == "Bath Rugby":
-        return ["Bath", bps]
+        return [Teams.BATH, bps]
     elif formatted_team_name == "Bristol Bears":
-        return ["Bristol", bps]
+        return [Teams.BRISTOL, bps]
     elif formatted_team_name == "Exeter Chiefs":
-        return ["Exeter", bps]
+        return [Teams.EXETER, bps]
     elif formatted_team_name == "Leeds Carnegie":
-        return ["Leeds", bps]
+        return [Teams.LEEDS, bps]
     elif formatted_team_name == "Leicester Tigers":
-        return ["Leicester", bps]
+        return [Teams.LEICESTER, bps]
     elif formatted_team_name == "Gloucester Rugby":
-        return ["Gloucester", bps]
+        return [Teams.GLOUCESTER, bps]
     elif formatted_team_name == "Newcastle Falcons":
-        return ["Newcastle", bps]
+        return [Teams.NEWCASTLE, bps]
     elif formatted_team_name == "Northampton Saints":
-        return ["Northampton", bps]
+        return [Teams.NORTHAMPTON, bps]
     elif formatted_team_name == "Sale Sharks":
-        return ["Sale", bps]
+        return [Teams.SALE, bps]
     elif formatted_team_name == "London Wasps":
-        return ["Wasps", bps]
+        return [Teams.WASPS, bps]
     elif formatted_team_name == "Worcester Warriors":
-        return ["Worcester", bps]
+        return [Teams.WORCESTER, bps]
     else:
         return [formatted_team_name, bps]

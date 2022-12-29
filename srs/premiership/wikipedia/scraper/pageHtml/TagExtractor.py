@@ -12,9 +12,6 @@ def tag_extractor(divs):
             table_tds = table_tag.find_all("td")
             for td in table_tds:
                 # Ignoring text that is not required
-                if (td.text != "") & (td.text.find("Report") == -1) & (td.text.find("Try") == -1) \
-                        & (td.text.find("Pen") == -1) & (td.text.find("Drop") == -1) \
-                        & (td.text.find("Con") == -1) & (td.text.find("[1]") == -1):
+                if (td.text != "") & (td.text.find("Report") == -1) & (td.text.find("[1]") == -1):
                     match_data.append(td.text)
-
     return match_data

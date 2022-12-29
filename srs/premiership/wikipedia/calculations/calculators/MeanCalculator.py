@@ -1,8 +1,8 @@
-from srs.premiership.wikipedia.constants import OriginalColumns
+from srs.premiership.wikipedia.constants.columns import OriginalColumns
 
 
 def calc_rolling_mean(df, cols, new_cols, count):
-    """Calculate the mean of the values in cols, using count as the number of rows for the rolling amount.
+    """Calculate rolling mean of the values in cols, using count as the number of rows for the rolling amount.
 
     :param df: The dataframe the calculation will be performed on
     :param cols: The columns of values that the mean will be calculated from

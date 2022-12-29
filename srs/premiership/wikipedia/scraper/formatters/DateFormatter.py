@@ -1,6 +1,6 @@
 import datetime
 import re
-from srs.premiership.wikipedia.constants import OriginalColumns
+from srs.premiership.wikipedia.constants.columns import OriginalColumns
 
 # Constant val for replacing br tags with custom string
 BR_REPLACE = "xXx"
@@ -17,15 +17,14 @@ def date_formatter(date_data, url):
     date_data = re.sub("\[(.*?)\]", "", date_data, flags=re.DOTALL).strip()
     date_split = date_data.split(BR_REPLACE)
 
-    # Some dates in 2020 are missing the year value, so this is appended if found using try except
+    # Some dates in 2021 are missing the year value, so this is appended if found
     try:
         date = datetime.datetime.strptime(date_split[0], '%d %B %Y').strftime('%d/%b/%Y')
     except ValueError:
-        date = datetime.datetime.strptime(date_split[0], '%d %B').strftime('%d/%b/') + "2020"
-
-    time = date_split[1].replace(".", ":")
+        date = datetime.datetime.strptime(date_split[0], '%d %B').strftime('%d/%b/') + "2021"
 
     # Reformats the time
+    time = date_split[1].replace(".", ":")
     if date_split[1].find("pm") != -1:
         time = datetime.datetime.strptime(time, '%I:%M%p').strftime('%H:%M')
 

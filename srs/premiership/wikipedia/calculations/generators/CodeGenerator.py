@@ -1,5 +1,4 @@
-from srs.premiership.wikipedia.constants import OriginalColumns
-from srs.premiership.wikipedia.constants import CalculatedColumns
+from srs.premiership.wikipedia.constants.columns import CalculatedColumns, OriginalColumns
 
 
 def generate_category_codes(df):
@@ -17,5 +16,4 @@ def generate_category_codes(df):
     df[CalculatedColumns.REFEREE_CODE] = df[OriginalColumns.REFEREE].astype("category").cat.codes
     df[CalculatedColumns.SEASON_CODE] = df[OriginalColumns.SEASON].astype("category").cat.codes
     df[CalculatedColumns.TARGET_CODE] = (df[OriginalColumns.WINNER] == "H").astype("int")
-
     return df

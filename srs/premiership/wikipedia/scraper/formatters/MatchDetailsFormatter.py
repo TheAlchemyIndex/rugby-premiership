@@ -1,5 +1,6 @@
 from re import search
-from srs.premiership.wikipedia.constants import OriginalColumns
+from srs.premiership.wikipedia.constants.columns import OriginalColumns
+from srs.premiership.wikipedia.constants.matchData import Venues
 
 # Constant val for replacing br tags with custom string
 BR_REPLACE = "xXx"
@@ -8,7 +9,7 @@ BR_REPLACE = "xXx"
 HARLEQUINS_STADIUM = ["Twickenham Stoop, London", "The Twickenham Stoop", "The Stoop"]
 LEICESTER_STADIUM = ["Mattioli Welford Road", "Mattioli Woods Welford Road", "Welford Road, Leicester"]
 NORTHAMPTON_STADIUM = ["cinch Stadium at Franklin's Gardens", "Frankin's Gardens", "Franklin’s Gardens"]
-TWICKENHAM_STADIUM = ["Twickenham, London", "Twickenham"]
+TWICKENHAM = ["Twickenham, London", "Twickenham"]
 
 
 def match_details_formatter(match_details_data):
@@ -38,24 +39,24 @@ def venue_formatter(venue):
     :return: The formatted string for the venue
     """
     if venue in HARLEQUINS_STADIUM:
-        return "Twickenham Stoop"
+        return Venues.TWICKENHAM_STOOP
     elif venue in NORTHAMPTON_STADIUM:
-        return "Franklin's Gardens"
+        return Venues.FRANKLINS_GARDENS
     elif venue in LEICESTER_STADIUM:
-        return "Welford Road"
-    elif venue in TWICKENHAM_STADIUM:
-        return "Twickenham Stadium"
+        return Venues.WELFORD_ROAD
+    elif venue in TWICKENHAM:
+        return Venues.TWICKENHAM_STADIUM
     elif venue == "Kingsholm Stadium":
-        return "Kingsholm"
+        return Venues.KINGSHOLM
     elif venue == "Reebok Stadium, Horwich":
-        return "Reebok Stadium"
+        return Venues.REEBOK_STADIUM
     elif venue == "Sixways Stadium":
-        return "Sixways"
+        return Venues.SIXWAYS
     elif venue == "Stadium mk, Milton Keynes":
-        return "Stadium mk"
+        return Venues.STADIUM_MK
     elif venue == "Talen Energy Stadium, Philadelphia":
-        return "Talen Energy Stadium"
+        return Venues.TALEN_ENERGY_STADIUM
     elif venue == "The Rec":
-        return "The Recreation Ground"
+        return Venues.THE_RECREATION_GROUND
     else:
         return venue
