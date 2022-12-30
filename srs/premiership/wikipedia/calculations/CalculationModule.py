@@ -1,6 +1,7 @@
 import pandas as pd
 
 from srs.premiership.wikipedia.calculations.calculators.MeanCalculator import calc_rolling_mean
+from srs.premiership.wikipedia.calculations.filters.ColumnDropper import drop_columns
 from srs.premiership.wikipedia.calculations.filters.ScoreFilter import filter_results
 from srs.premiership.wikipedia.calculations.generators.CodeGenerator import generate_category_codes
 from srs.premiership.wikipedia.constants.columns import CalculatedColumns, OriginalColumns
@@ -72,10 +73,13 @@ def create_calculated_columns(first_season_start, first_season_end, last_season_
         # Generates numeric codes for key columns that contain strings
         df_codes = generate_category_codes(df_calc_last_5_scoring)
 
+        # Drops non-required columns
+        df_dropped_columns = drop_columns(df_codes)
+
         # Sorts by date in ascending order
-        df_codes.sort_values(by='date', inplace=True)
+        df_dropped_columns.sort_values(by='date', inplace=True)
 
         # Writes season data to csv and increments first_season_end
-        df_codes.to_csv("wikipedia/data/calculatedData/Calculated - " + str(first_season_start) + "-"
+        df_dropped_columns.to_csv("wikipedia/data/calculatedData/Calculated - " + str(first_season_start) + "-"
                         + str(last_season_end) + ".csv")
         first_season_end += 1

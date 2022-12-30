@@ -9,7 +9,7 @@ def score_formatter(score_data):
     """Takes score information, reformats it and returns it in a key: value dictionary format.
 
     :param score_data: Score information about a match
-    :return: A key: value dictionary containing the team1_score, team2_score, total_score, winner and extra
+    :return: A key: value dictionary containing the team1_score, team2_score, total_score, result and extra
     time status of a match
     """
     # Removes any brackets and characters in between if found in the date
@@ -17,7 +17,8 @@ def score_formatter(score_data):
 
     team1_score = ""
     team2_score = ""
-    winner = ""
+    result = ""
+    result_flipped = ""
 
     if "Cancelled" in score_data:
         team1_score = "Cancelled"
@@ -53,16 +54,20 @@ def score_formatter(score_data):
     try:
         total_score = int(team1_score) + int(team2_score)
         if int(team1_score) > int(team2_score):
-            winner = "H"
+            result = "W"
+            result_flipped = "L"
         elif int(team1_score) < int(team2_score):
-            winner = "A"
+            result = "L"
+            result_flipped = "W"
         elif int(team1_score) == int(team2_score):
-            winner = "D"
+            result = "D"
+            result_flipped = "D"
     except ValueError:
         total_score = "N/A"
-        winner = "N/A"
+        result = "N/A"
+        result_flipped = "N/A"
 
     formatted_scores = {OriginalColumns.TEAM1_POINTS: team1_score, OriginalColumns.TEAM2_POINTS: team2_score,
-                        OriginalColumns.TOTAL_POINTS: total_score, OriginalColumns.WINNER: winner,
+                        OriginalColumns.TOTAL_POINTS: total_score, OriginalColumns.RESULT: [result, result_flipped],
                         OriginalColumns.EXTRA_TIME: extra_time}
     return formatted_scores

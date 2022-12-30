@@ -34,7 +34,8 @@ def scrape_results(url):
         team1_points = score[OriginalColumns.TEAM1_POINTS]
         team2_points = score[OriginalColumns.TEAM2_POINTS]
         total_points = score[OriginalColumns.TOTAL_POINTS]
-        winner = score[OriginalColumns.WINNER]
+        result = score[OriginalColumns.RESULT][0]
+        result_flipped = score[OriginalColumns.RESULT][1]
         extra_time = score[OriginalColumns.EXTRA_TIME]
 
         # Extracts scoring data
@@ -145,7 +146,7 @@ def scrape_results(url):
                       OriginalColumns.VENUE: venue,
                       OriginalColumns.REFEREE: referee,
                       OriginalColumns.TOTAL_POINTS: total_points,
-                      OriginalColumns.WINNER: winner,
+                      OriginalColumns.RESULT: result,
                       OriginalColumns.EXTRA_TIME: extra_time,
                       OriginalColumns.HOUR: hour,
                       OriginalColumns.DAY: day,
@@ -171,7 +172,7 @@ def scrape_results(url):
                                OriginalColumns.VENUE: venue,
                                OriginalColumns.REFEREE: referee,
                                OriginalColumns.TOTAL_POINTS: total_points,
-                               OriginalColumns.WINNER: winner,
+                               OriginalColumns.RESULT: result_flipped,
                                OriginalColumns.EXTRA_TIME: extra_time,
                                OriginalColumns.HOUR: hour,
                                OriginalColumns.DAY: day,
