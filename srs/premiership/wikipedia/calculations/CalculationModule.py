@@ -1,9 +1,11 @@
+import numpy as np
 import pandas as pd
 
 from srs.premiership.wikipedia.calculations.calculators.MeanCalculator import calc_rolling_mean
 from srs.premiership.wikipedia.calculations.filters.ColumnDropper import drop_columns
 from srs.premiership.wikipedia.calculations.filters.ScoreFilter import filter_results
 from srs.premiership.wikipedia.calculations.generators.CodeGenerator import generate_category_codes
+from srs.premiership.wikipedia.calculations.generators.WonLastGenerator import generate_won_last
 from srs.premiership.wikipedia.constants.columns import CalculatedColumns, OriginalColumns
 
 
@@ -73,8 +75,19 @@ def create_calculated_columns(first_season_start, first_season_end, last_season_
         # Generates numeric codes for key columns that contain strings
         df_codes = generate_category_codes(df_calc_last_5_scoring)
 
+        # Creates column to show if team1 won their last game or not
+        df_won_last_team1 = df_codes.groupby(OriginalColumns.TEAM1_NAME) \
+            .apply(lambda x: generate_won_last(x, CalculatedColumns.TARGET_CODE, "wonLastTeam1"))
+        df_won_last_team1 = df_won_last_team1.droplevel(OriginalColumns.TEAM1_NAME)
+
+        # Creates column to show if team2 won their last game or not
+        df_won_last_team2 = df_won_last_team1.groupby(OriginalColumns.TEAM2_NAME) \
+            .apply(lambda x: generate_won_last(x, CalculatedColumns.TARGET_CODE, "wonLastTeam2"))
+        df_won_last_team2 = df_won_last_team2.droplevel(OriginalColumns.TEAM2_NAME)
+        df_won_last_team2["wonLastTeam2"] = np.where(df_won_last_team2["wonLastTeam2"] == 1, 0, 1)
+
         # Drops non-required columns
-        df_dropped_columns = drop_columns(df_codes)
+        df_dropped_columns = drop_columns(df_won_last_team2)
 
         # Sorts by date in ascending order
         df_dropped_columns.sort_values(by='date', inplace=True)
