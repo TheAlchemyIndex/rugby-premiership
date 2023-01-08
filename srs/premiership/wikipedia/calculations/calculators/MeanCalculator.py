@@ -13,5 +13,4 @@ def calc_rolling_mean(df, cols, new_cols, count):
     sorted_df = df.sort_values(OriginalColumns.DATE)
     rolling_mean = sorted_df[cols].rolling(count, closed="left").mean()
     sorted_df[new_cols] = rolling_mean
-    new_df = sorted_df.dropna(subset=new_cols)
-    return new_df
+    return sorted_df
