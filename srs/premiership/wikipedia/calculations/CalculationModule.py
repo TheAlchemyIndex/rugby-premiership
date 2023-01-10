@@ -96,7 +96,8 @@ def create_calculated_columns(first_season_start, first_season_end, last_season_
         # Calculates rolling mean of tries, cons, pens and dgs scored in the last 5 matches for and against each team
         df_calc_last_5_scoring_team1 = df_calc_last_5_bps_team2.groupby(OriginalColumns.TEAM1_NAME, group_keys=False) \
             .apply(lambda x: calc_rolling_mean(x, last_5_scoring_cols_team1, last_5_scoring_new_cols_team1, 5))
-        df_calc_last_5_scoring_team2 = df_calc_last_5_scoring_team1.groupby(OriginalColumns.TEAM2_NAME, group_keys=False) \
+        df_calc_last_5_scoring_team2 = df_calc_last_5_scoring_team1.groupby(OriginalColumns.TEAM2_NAME,
+                                                                            group_keys=False) \
             .apply(lambda x: calc_rolling_mean(x, last_5_scoring_cols_team2, last_5_scoring_new_cols_team2, 5))
 
         # Generates numeric codes for key columns that contain strings
@@ -112,14 +113,32 @@ def create_calculated_columns(first_season_start, first_season_end, last_season_
         df_won_last_team2[CalculatedColumns.WON_LAST_TEAM2] = np \
             .where(df_won_last_team2[CalculatedColumns.WON_LAST_TEAM2] == 1, 0, 1)
 
-        # Drops non-required columns
+        # Drops non-required columns and empty rows
         df_dropped_columns = drop_columns(df_won_last_team2)
         df_dropped_columns = df_dropped_columns.dropna()
 
+        # Creates dataframe of teams previous table positions
+        standings_file_path = r"wikipedia/data/standings/Standings - " + str(first_season_start) + "-" \
+                              + str(last_season_end) + ".csv"
+        df_standings = pd.read_csv(standings_file_path)
+
+        # Merges standings dataframe with calculated columns dataframe
+        df_standings_merged_team1 = pd.merge(df_dropped_columns, df_standings, how="left",
+                                             left_on=['season', 'team1Name'],
+                                             right_on=['season', 'teamName'])
+        df_standings_merged_team2 = pd.merge(df_standings_merged_team1, df_standings, how="left",
+                                             left_on=['season', 'team2Name'],
+                                             right_on=['season', 'teamName'])
+
+        # Drop and rename columns merged from df_standings
+        df_standings_merged_team2.drop(['teamName_x', 'teamName_y'], inplace=True, axis=1)
+        df_standings_merged_team2.rename(columns={'lastSeasonStanding_x': 'team1LastSeasonStanding'}, inplace=True)
+        df_standings_merged_team2.rename(columns={'lastSeasonStanding_y': 'team2LastSeasonStanding'}, inplace=True)
+
         # Sorts by date in ascending order
-        df_dropped_columns.sort_values(by='date', inplace=True)
+        df_standings_merged_team2.sort_values(by='date', inplace=True)
 
         # Writes season data to csv and increments first_season_end
-        df_dropped_columns.to_csv("wikipedia/data/calculatedData/Calculated - " + str(first_season_start) + "-"
-                                  + str(last_season_end) + ".csv")
+        df_standings_merged_team2.to_csv("wikipedia/data/calculatedData/Calculated - " + str(first_season_start) + "-"
+                                         + str(last_season_end) + ".csv")
         first_season_end += 1

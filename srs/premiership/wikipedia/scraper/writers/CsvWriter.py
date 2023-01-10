@@ -19,3 +19,4 @@ def write_to_csv(match_data, file_name, field_names, write_type):
         else:
             writer = csv.DictWriter(f, fieldnames=field_names)
             writer.writerows(match_data)
+

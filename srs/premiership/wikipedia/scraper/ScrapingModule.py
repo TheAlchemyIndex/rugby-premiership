@@ -1,4 +1,5 @@
-from srs.premiership.wikipedia.scraper.writers.FileWriter import write_to_individual_files, write_to_single_file
+from srs.premiership.wikipedia.scraper.writers.FileWriter import write_to_individual_files,\
+    write_to_single_file, write_recent_results
 
 
 def write(write_type, first_season_start, first_season_end, last_season_end):
@@ -20,5 +21,8 @@ def write(write_type, first_season_start, first_season_end, last_season_end):
         write_to_individual_files(first_season_start, first_season_end, last_season_end)
         # Creates single file
         write_to_single_file(first_season_start, first_season_end, last_season_end)
+    elif write_type == "recent":
+        # Writes only recent season data to file of previous seasons
+        write_recent_results(first_season_start, last_season_end - 1, "20" + str(last_season_end - 1), last_season_end)
     else:
         print("No write type selected")

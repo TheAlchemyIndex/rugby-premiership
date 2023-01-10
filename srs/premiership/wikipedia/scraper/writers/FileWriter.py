@@ -1,3 +1,4 @@
+import shutil
 from srs.premiership.wikipedia.constants import Urls
 from srs.premiership.wikipedia.constants.columns import OriginalColumns
 from srs.premiership.wikipedia.constants import Directories
@@ -81,3 +82,28 @@ def write_to_single_file(first_season_start, first_season_end, last_season_end):
             write_to_csv(scrape_results(url), file_name, FIELD_NAMES, "a")
             first_season_start = first_season_start + 1
             first_season_end = first_season_end + 1
+
+
+def write_recent_results(first_season_start, last_season_end, recent_season_start, recent_season_end):
+    """Writes match data for current season and appends to file for previous seasons.
+
+    :param first_season_start: The starting 4 numbers of the first season of data to be appended to (e.g., 2010)
+    :param last_season_end: The last 2 numbers of the last season of data to be appended to (e.g., 22)
+    :param recent_season_start: The first 2 numbers of the current season to be scrapped and appended to previous
+                                seasons data (e.g., 22)
+    :param recent_season_end: The last 2 numbers of the current season to be scrapped and appended to previous
+                                seasons data (e.g., 23)
+    """
+    # File name of previous season data to be appended to
+    old_file_name = Directories.GROUPED + Directories.FILE_NAME_ALL_SEASONS_START + str(first_season_start) \
+                    + "-" + str(last_season_end) + ".csv"
+    # New file name for previous season data and current season data
+    new_file_name = Directories.GROUPED + Directories.FILE_NAME_ALL_SEASONS_START + str(first_season_start) \
+                    + "-" + str(recent_season_end) + ".csv"
+    # Creates copy of old_file_name and renames as new_file_name, so current season data can be appended to it
+    shutil.copy(old_file_name, new_file_name)
+
+    url = Urls.PREMIERSHIP_URL_START + str(recent_season_start) + "-" + str(recent_season_end) \
+          + Urls.PREMIERSHIP_URL_END
+
+    write_to_csv(scrape_results(url), new_file_name, FIELD_NAMES, "a")
