@@ -1,0 +1,271 @@
+﻿date,time,team1Name,team1Points,team2Name,team2Points,venue,referee,totalPoints,result,extraTime,hour,day,month,year,season,team1Bps,team2Bps,team1Tries,team1Conversions,team1Penalties,team1DropGoals,team2Tries,team2Conversions,team2Penalties,team2DropGoals
+31/Aug/2018,19:45,Bristol,17,Bath,10,Ashton Gate,JP Doyle,27,W,N,19,Fri,Aug,2018,2018-19,0,1,1,0,4,0,1,1,1,0
+31/Aug/2018,19:45,Bath,10,Bristol,17,Ashton Gate,JP Doyle,27,L,N,19,Fri,Aug,2018,2018-19,1,0,1,1,1,0,1,0,4,0
+01/Sep/2018,14:00,Gloucester,27,Northampton,16,Kingsholm,Matthew Carley,43,W,N,14,Sat,Sep,2018,2018-19,0,0,2,1,5,0,2,0,2,0
+01/Sep/2018,14:00,Northampton,16,Gloucester,27,Kingsholm,Matthew Carley,43,L,N,14,Sat,Sep,2018,2018-19,0,0,2,0,2,0,2,1,5,0
+01/Sep/2018,15:00,Harlequins,51,Sale,23,Twickenham Stoop,Craig Maxwell-Keys,74,W,N,15,Sat,Sep,2018,2018-19,1,0,6,6,3,0,2,2,3,0
+01/Sep/2018,15:00,Sale,23,Harlequins,51,Twickenham Stoop,Craig Maxwell-Keys,74,L,N,15,Sat,Sep,2018,2018-19,0,1,2,2,3,0,6,6,3,0
+01/Sep/2018,15:00,Worcester,20,Wasps,21,Sixways,Karl Dickson,41,L,N,15,Sat,Sep,2018,2018-19,1,0,2,2,2,0,2,1,3,0
+01/Sep/2018,15:00,Wasps,21,Worcester,20,Sixways,Karl Dickson,41,W,N,15,Sat,Sep,2018,2018-19,0,1,2,1,3,0,2,2,2,0
+01/Sep/2018,16:30,Exeter,40,Leicester,6,Sandy Park,Wayne Barnes,46,W,N,16,Sat,Sep,2018,2018-19,1,0,6,5,0,0,0,0,2,0
+01/Sep/2018,16:30,Leicester,6,Exeter,40,Sandy Park,Wayne Barnes,46,L,N,16,Sat,Sep,2018,2018-19,0,1,0,0,2,0,6,5,0,0
+02/Sep/2018,15:00,Newcastle,21,Saracens,32,Kingston Park,Ian Tempest,53,L,N,15,Sun,Sep,2018,2018-19,0,1,2,1,3,0,4,3,2,0
+02/Sep/2018,15:00,Saracens,32,Newcastle,21,Kingston Park,Ian Tempest,53,W,N,15,Sun,Sep,2018,2018-19,1,0,4,3,2,0,2,1,3,0
+07/Sep/2018,19:45,Northampton,25,Harlequins,18,Franklin's Gardens,Tom Foley,43,W,N,19,Fri,Sep,2018,2018-19,0,1,1,1,6,0,2,1,2,0
+07/Sep/2018,19:45,Harlequins,18,Northampton,25,Franklin's Gardens,Tom Foley,43,L,N,19,Fri,Sep,2018,2018-19,1,0,2,1,2,0,1,1,6,0
+08/Sep/2018,14:00,Wasps,31,Exeter,42,Ricoh Arena,Christophe Ridley,73,L,N,14,Sat,Sep,2018,2018-19,1,1,4,4,1,0,6,6,0,0
+08/Sep/2018,14:00,Exeter,42,Wasps,31,Ricoh Arena,Christophe Ridley,73,W,N,14,Sat,Sep,2018,2018-19,1,1,6,6,0,0,4,4,1,0
+08/Sep/2018,15:00,Leicester,49,Newcastle,33,Welford Road,Matthew Carley,82,W,N,15,Sat,Sep,2018,2018-19,1,1,5,3,6,0,5,4,0,0
+08/Sep/2018,15:00,Newcastle,33,Leicester,49,Welford Road,Matthew Carley,82,L,N,15,Sat,Sep,2018,2018-19,1,1,5,4,0,0,5,3,6,0
+08/Sep/2018,15:00,Saracens,44,Bristol,23,Allianz Park,Andrew Jackson,67,W,N,15,Sat,Sep,2018,2018-19,1,0,6,4,2,0,3,1,2,0
+08/Sep/2018,15:00,Bristol,23,Saracens,44,Allianz Park,Andrew Jackson,67,L,N,15,Sat,Sep,2018,2018-19,0,1,3,1,2,0,6,4,2,0
+08/Sep/2018,16:30,Bath,31,Gloucester,31,Recreation Ground,Luke Pearce,62,D,N,16,Sat,Sep,2018,2018-19,1,1,4,4,1,0,4,4,1,0
+08/Sep/2018,16:30,Gloucester,31,Bath,31,Recreation Ground,Luke Pearce,62,D,N,16,Sat,Sep,2018,2018-19,1,1,4,4,1,0,4,4,1,0
+09/Sep/2018,15:00,Sale,21,Worcester,15,AJ Bell Stadium,JP Doyle,36,W,N,15,Sun,Sep,2018,2018-19,0,1,2,1,3,0,2,1,1,0
+09/Sep/2018,15:00,Worcester,15,Sale,21,AJ Bell Stadium,JP Doyle,36,L,N,15,Sun,Sep,2018,2018-19,1,0,2,1,1,0,2,1,3,0
+14/Sep/2018,19:45,Gloucester,35,Bristol,13,Kingsholm,Tom Foley,48,W,N,19,Fri,Sep,2018,2018-19,1,0,5,2,2,0,1,1,2,0
+14/Sep/2018,19:45,Bristol,13,Gloucester,35,Kingsholm,Tom Foley,48,L,N,19,Fri,Sep,2018,2018-19,0,1,1,1,2,0,5,2,2,0
+15/Sep/2018,15:00,Exeter,35,Sale,18,Sandy Park,Karl Dickson,53,W,N,15,Sat,Sep,2018,2018-19,1,0,5,5,0,0,2,1,2,0
+15/Sep/2018,15:00,Sale,18,Exeter,35,Sandy Park,Karl Dickson,53,L,N,15,Sat,Sep,2018,2018-19,0,1,2,1,2,0,5,5,0,0
+15/Sep/2018,15:00,Harlequins,32,Bath,37,Twickenham Stoop,Matthew Carley,69,L,N,15,Sat,Sep,2018,2018-19,2,1,4,3,2,0,5,3,1,1
+15/Sep/2018,15:00,Bath,37,Harlequins,32,Twickenham Stoop,Matthew Carley,69,W,N,15,Sat,Sep,2018,2018-19,1,2,5,3,1,1,4,3,2,0
+15/Sep/2018,15:00,Northampton,27,Saracens,38,Franklin's Gardens,JP Doyle,65,L,N,15,Sat,Sep,2018,2018-19,0,1,3,3,2,0,5,2,3,0
+15/Sep/2018,15:00,Saracens,38,Northampton,27,Franklin's Gardens,JP Doyle,65,W,N,15,Sat,Sep,2018,2018-19,1,0,5,2,3,0,3,3,2,0
+15/Sep/2018,15:00,Worcester,20,Newcastle,23,Sixways,Wayne Barnes,43,L,N,15,Sat,Sep,2018,2018-19,1,0,2,1,2,0,2,2,3,0
+15/Sep/2018,15:00,Newcastle,23,Worcester,20,Sixways,Wayne Barnes,43,W,N,15,Sat,Sep,2018,2018-19,0,1,2,2,3,0,2,1,2,0
+16/Sep/2018,15:00,Wasps,41,Leicester,35,Ricoh Arena,Ian Tempest,76,W,N,15,Sun,Sep,2018,2018-19,1,2,4,3,5,0,4,3,3,0
+16/Sep/2018,15:00,Leicester,35,Wasps,41,Ricoh Arena,Ian Tempest,76,L,N,15,Sun,Sep,2018,2018-19,2,1,4,3,3,0,4,3,5,0
+21/Sep/2018,19:45,Newcastle,17,Exeter,24,Kingston Park,Andrew Jackson,41,L,N,19,Fri,Sep,2018,2018-19,1,0,2,2,1,0,3,3,1,0
+21/Sep/2018,19:45,Exeter,24,Newcastle,17,Kingston Park,Andrew Jackson,41,W,N,19,Fri,Sep,2018,2018-19,0,1,3,3,1,0,2,2,1,0
+22/Sep/2018,15:00,Sale,13,Wasps,31,AJ Bell Stadium,Wayne Barnes,44,L,N,15,Sat,Sep,2018,2018-19,0,1,1,1,2,0,4,4,1,0
+22/Sep/2018,15:00,Wasps,31,Sale,13,AJ Bell Stadium,Wayne Barnes,44,W,N,15,Sat,Sep,2018,2018-19,1,0,4,4,1,0,1,1,2,0
+22/Sep/2018,15:00,Bristol,20,Harlequins,13,Ashton Gate,Ian Tempest,33,W,N,15,Sat,Sep,2018,2018-19,0,1,1,0,5,0,1,1,2,0
+22/Sep/2018,15:00,Harlequins,13,Bristol,20,Ashton Gate,Ian Tempest,33,L,N,15,Sat,Sep,2018,2018-19,1,0,1,1,2,0,1,0,5,0
+22/Sep/2018,15:00,Bath,17,Northampton,15,Recreation Ground,Karl Dickson,32,W,N,15,Sat,Sep,2018,2018-19,0,1,2,2,1,0,2,1,1,0
+22/Sep/2018,15:00,Northampton,15,Bath,17,Recreation Ground,Karl Dickson,32,L,N,15,Sat,Sep,2018,2018-19,1,0,2,1,1,0,2,2,1,0
+23/Sep/2018,15:00,Leicester,37,Worcester,44,Welford Road,Luke Pearce,81,L,N,15,Sun,Sep,2018,2018-19,2,1,5,3,2,0,6,4,2,0
+23/Sep/2018,15:00,Worcester,44,Leicester,37,Welford Road,Luke Pearce,81,W,N,15,Sun,Sep,2018,2018-19,1,2,6,4,2,0,5,3,2,0
+23/Sep/2018,15:00,Saracens,38,Gloucester,15,Allianz Park,Christophe Ridley,53,W,N,15,Sun,Sep,2018,2018-19,1,0,5,5,1,0,2,1,1,0
+23/Sep/2018,15:00,Gloucester,15,Saracens,38,Allianz Park,Christophe Ridley,53,L,N,15,Sun,Sep,2018,2018-19,0,1,2,1,1,0,5,5,1,0
+28/Sep/2018,19:45,Newcastle,22,Wasps,23,Kingston Park,Karl Dickson,45,L,N,19,Fri,Sep,2018,2018-19,1,0,3,2,1,0,3,1,2,0
+28/Sep/2018,19:45,Wasps,23,Newcastle,22,Kingston Park,Karl Dickson,45,W,N,19,Fri,Sep,2018,2018-19,0,1,3,1,2,0,3,2,1,0
+29/Sep/2018,15:00,Bristol,40,Northampton,45,Ashton Gate,Luke Pearce,85,L,N,15,Sat,Sep,2018,2018-19,2,1,5,3,3,0,6,6,1,0
+29/Sep/2018,15:00,Northampton,45,Bristol,40,Ashton Gate,Luke Pearce,85,W,N,15,Sat,Sep,2018,2018-19,1,2,6,6,1,0,5,3,3,0
+29/Sep/2018,15:00,Exeter,28,Worcester,11,Sandy Park,Ian Tempest,39,W,N,15,Sat,Sep,2018,2018-19,1,0,4,4,0,0,1,0,2,0
+29/Sep/2018,15:00,Worcester,11,Exeter,28,Sandy Park,Ian Tempest,39,L,N,15,Sat,Sep,2018,2018-19,0,1,1,0,2,0,4,4,0,0
+29/Sep/2018,15:00,Gloucester,25,Harlequins,27,Kingsholm,JP Doyle,52,L,N,15,Sat,Sep,2018,2018-19,1,0,3,2,2,0,2,1,5,0
+29/Sep/2018,15:00,Harlequins,27,Gloucester,25,Kingsholm,JP Doyle,52,W,N,15,Sat,Sep,2018,2018-19,0,1,2,1,5,0,3,2,2,0
+29/Sep/2018,15:00,Saracens,50,Bath,27,Allianz Park,Tom Foley,77,W,N,15,Sat,Sep,2018,2018-19,1,0,8,5,0,0,3,3,2,0
+29/Sep/2018,15:00,Bath,27,Saracens,50,Allianz Park,Tom Foley,77,L,N,15,Sat,Sep,2018,2018-19,0,1,3,3,2,0,8,5,0,0
+30/Sep/2018,15:00,Leicester,19,Sale,15,Welford Road,Craig Maxwell-Keys,34,W,N,15,Sun,Sep,2018,2018-19,0,1,1,1,4,0,3,0,0,0
+30/Sep/2018,15:00,Sale,15,Leicester,19,Welford Road,Craig Maxwell-Keys,34,L,N,15,Sun,Sep,2018,2018-19,1,0,3,0,0,0,1,1,4,0
+05/Oct/2018,19:45,Bath,24,Exeter,39,Recreation Ground,Christophe Ridley,63,L,N,19,Fri,Oct,2018,2018-19,0,1,2,1,4,0,5,4,2,0
+05/Oct/2018,19:45,Exeter,39,Bath,24,Recreation Ground,Christophe Ridley,63,W,N,19,Fri,Oct,2018,2018-19,1,0,5,4,2,0,2,1,4,0
+06/Oct/2018,15:00,Northampton,15,Leicester,23,Twickenham Stadium,JP Doyle,38,L,N,15,Sat,Oct,2018,2018-19,0,0,3,0,0,0,2,2,3,0
+06/Oct/2018,15:00,Leicester,23,Northampton,15,Twickenham Stadium,JP Doyle,38,W,N,15,Sat,Oct,2018,2018-19,0,0,2,2,3,0,3,0,0,0
+06/Oct/2018,15:00,Sale,20,Newcastle,7,AJ Bell Stadium,Tom Foley,27,W,N,15,Sat,Oct,2018,2018-19,0,0,3,1,1,0,1,1,0,0
+06/Oct/2018,15:00,Newcastle,7,Sale,20,AJ Bell Stadium,Tom Foley,27,L,N,15,Sat,Oct,2018,2018-19,0,0,1,1,0,0,3,1,1,0
+06/Oct/2018,15:00,Wasps,21,Gloucester,35,Ricoh Arena,Craig Maxwell-Keys,56,L,N,15,Sat,Oct,2018,2018-19,0,1,3,3,0,0,4,3,3,0
+06/Oct/2018,15:00,Gloucester,35,Wasps,21,Ricoh Arena,Craig Maxwell-Keys,56,W,N,15,Sat,Oct,2018,2018-19,1,0,4,3,3,0,3,3,0,0
+06/Oct/2018,19:30,Harlequins,20,Saracens,25,Twickenham Stoop,Luke Pearce,45,L,N,19,Sat,Oct,2018,2018-19,1,0,2,2,2,0,1,1,6,0
+06/Oct/2018,19:30,Saracens,25,Harlequins,20,Twickenham Stoop,Luke Pearce,45,W,N,19,Sat,Oct,2018,2018-19,0,1,1,1,6,0,2,2,2,0
+07/Oct/2018,15:00,Worcester,52,Bristol,7,Sixways,Wayne Barnes,59,W,N,15,Sun,Oct,2018,2018-19,1,0,7,6,1,0,1,1,0,0
+07/Oct/2018,15:00,Bristol,7,Worcester,52,Sixways,Wayne Barnes,59,L,N,15,Sun,Oct,2018,2018-19,0,1,1,1,0,0,7,6,1,0
+16/Nov/2018,19:45,Gloucester,36,Leicester,13,Kingsholm,Ian Tempest,49,W,N,19,Fri,Nov,2018,2018-19,1,0,5,4,1,0,1,1,2,0
+16/Nov/2018,19:45,Leicester,13,Gloucester,36,Kingsholm,Ian Tempest,49,L,N,19,Fri,Nov,2018,2018-19,0,1,1,1,2,0,5,4,1,0
+16/Nov/2018,19:45,Harlequins,20,Newcastle,7,Twickenham Stoop,JP Doyle,27,W,N,19,Fri,Nov,2018,2018-19,0,0,2,2,2,0,1,1,0,0
+16/Nov/2018,19:45,Newcastle,7,Harlequins,20,Twickenham Stoop,JP Doyle,27,L,N,19,Fri,Nov,2018,2018-19,0,0,1,1,0,0,2,2,2,0
+17/Nov/2018,12:45,Bath,28,Worcester,13,Recreation Ground,Christophe Ridley,41,W,N,12,Sat,Nov,2018,2018-19,0,0,3,2,3,0,1,1,2,0
+17/Nov/2018,12:45,Worcester,13,Bath,28,Recreation Ground,Christophe Ridley,41,L,N,12,Sat,Nov,2018,2018-19,0,0,1,1,2,0,3,2,3,0
+17/Nov/2018,13:00,Northampton,36,Wasps,17,Franklin's Gardens,Matthew O’Grady,53,W,N,13,Sat,Nov,2018,2018-19,1,0,5,1,3,0,2,2,1,0
+17/Nov/2018,13:00,Wasps,17,Northampton,36,Franklin's Gardens,Matthew O’Grady,53,L,N,13,Sat,Nov,2018,2018-19,0,1,2,2,1,0,5,1,3,0
+17/Nov/2018,13:00,Saracens,31,Sale,25,Allianz Park,Andrew Jackson,56,W,N,13,Sat,Nov,2018,2018-19,1,1,4,4,1,0,1,1,6,0
+17/Nov/2018,13:00,Sale,25,Saracens,31,Allianz Park,Andrew Jackson,56,L,N,13,Sat,Nov,2018,2018-19,1,1,1,1,6,0,4,4,1,0
+18/Nov/2018,15:00,Bristol,29,Exeter,31,Ashton Gate,Greg Macdonald,60,L,N,15,Sun,Nov,2018,2018-19,1,1,2,2,5,0,5,2,0,0
+18/Nov/2018,15:00,Exeter,31,Bristol,29,Ashton Gate,Greg Macdonald,60,W,N,15,Sun,Nov,2018,2018-19,1,1,5,2,0,0,2,2,5,0
+23/Nov/2018,19:45,Newcastle,16,Bath,8,Kingston Park,Christophe Ridley,24,W,N,19,Fri,Nov,2018,2018-19,0,0,1,1,3,0,1,0,1,0
+23/Nov/2018,19:45,Bath,8,Newcastle,16,Kingston Park,Christophe Ridley,24,L,N,19,Fri,Nov,2018,2018-19,0,0,1,0,1,0,1,1,3,0
+23/Nov/2018,19:45,Worcester,20,Harlequins,13,Sixways,Andrew Jackson,33,W,N,19,Fri,Nov,2018,2018-19,0,1,2,2,2,0,1,1,2,0
+23/Nov/2018,19:45,Harlequins,13,Worcester,20,Sixways,Andrew Jackson,33,L,N,19,Fri,Nov,2018,2018-19,1,0,1,1,2,0,2,2,2,0
+24/Nov/2018,13:00,Exeter,23,Gloucester,6,Sandy Park,Matthew O'Grady,29,W,N,13,Sat,Nov,2018,2018-19,0,0,2,2,3,0,0,0,2,0
+24/Nov/2018,13:00,Gloucester,6,Exeter,23,Sandy Park,Matthew O'Grady,29,L,N,13,Sat,Nov,2018,2018-19,0,0,0,0,2,0,2,2,3,0
+24/Nov/2018,13:00,Sale,18,Northampton,13,AJ Bell Stadium,JP Doyle,31,W,N,13,Sat,Nov,2018,2018-19,0,1,2,1,2,0,2,0,1,0
+24/Nov/2018,13:00,Northampton,13,Sale,18,AJ Bell Stadium,JP Doyle,31,L,N,13,Sat,Nov,2018,2018-19,1,0,2,0,1,0,2,1,2,0
+24/Nov/2018,13:00,Wasps,32,Bristol,28,Ricoh Arena,Craig Maxwell-Keys,60,W,N,13,Sat,Nov,2018,2018-19,1,2,4,3,2,0,4,4,0,0
+24/Nov/2018,13:00,Bristol,28,Wasps,32,Ricoh Arena,Craig Maxwell-Keys,60,L,N,13,Sat,Nov,2018,2018-19,2,1,4,4,0,0,4,3,2,0
+25/Nov/2018,15:00,Leicester,22,Saracens,27,Welford Road,Karl Dickson,49,L,N,15,Sun,Nov,2018,2018-19,1,0,3,2,1,0,3,3,2,0
+25/Nov/2018,15:00,Saracens,27,Leicester,22,Welford Road,Karl Dickson,49,W,N,15,Sun,Nov,2018,2018-19,0,1,3,3,2,0,3,2,1,0
+30/Nov/2018,19:45,Harlequins,28,Exeter,26,Twickenham Stoop,Ian Tempest,54,W,N,19,Fri,Nov,2018,2018-19,1,2,4,1,2,0,4,3,0,0
+30/Nov/2018,19:45,Exeter,26,Harlequins,28,Twickenham Stoop,Ian Tempest,54,L,N,19,Fri,Nov,2018,2018-19,2,1,4,3,0,0,4,1,2,0
+01/Dec/2018,13:00,Bristol,41,Leicester,10,Ashton Gate,Wayne Barnes,51,W,N,13,Sat,Dec,2018,2018-19,1,0,4,3,5,0,1,1,1,0
+01/Dec/2018,13:00,Leicester,10,Bristol,41,Ashton Gate,Wayne Barnes,51,L,N,13,Sat,Dec,2018,2018-19,0,1,1,1,1,0,4,3,5,0
+01/Dec/2018,15:00,Gloucester,36,Worcester,16,Kingsholm,Thomas Foley,52,W,N,15,Sat,Dec,2018,2018-19,1,0,6,3,0,0,1,1,3,0
+01/Dec/2018,15:00,Worcester,16,Gloucester,36,Kingsholm,Thomas Foley,52,L,N,15,Sat,Dec,2018,2018-19,0,1,1,1,3,0,6,3,0,0
+01/Dec/2018,15:00,Northampton,14,Newcastle,16,Franklin's Gardens,Matthew Carley,30,L,N,15,Sat,Dec,2018,2018-19,1,0,2,2,0,0,1,1,3,0
+01/Dec/2018,15:00,Newcastle,16,Northampton,14,Franklin's Gardens,Matthew Carley,30,W,N,15,Sat,Dec,2018,2018-19,0,1,1,1,3,0,2,2,0,0
+01/Dec/2018,15:00,Saracens,29,Wasps,6,Allianz Park,JP Doyle,35,W,N,15,Sat,Dec,2018,2018-19,0,0,2,2,5,0,0,0,2,0
+01/Dec/2018,15:00,Wasps,6,Saracens,29,Allianz Park,JP Doyle,35,L,N,15,Sat,Dec,2018,2018-19,0,0,0,0,2,0,2,2,5,0
+02/Dec/2018,15:00,Bath,7,Sale,7,Recreation Ground,Luke Pearce,14,D,N,15,Sun,Dec,2018,2018-19,0,0,1,1,0,0,0,1,1,0
+02/Dec/2018,15:00,Sale,7,Bath,7,Recreation Ground,Luke Pearce,14,D,N,15,Sun,Dec,2018,2018-19,0,0,0,1,1,0,1,1,0,0
+21/Dec/2018,19:45,Worcester,6,Northampton,32,Sixways,Wayne Barnes,38,L,N,19,Fri,Dec,2018,2018-19,0,0,0,0,2,0,2,2,6,0
+21/Dec/2018,19:45,Northampton,32,Worcester,6,Sixways,Wayne Barnes,38,W,N,19,Fri,Dec,2018,2018-19,0,0,2,2,6,0,0,0,2,0
+22/Dec/2018,15:00,Leicester,35,Harlequins,24,Welford Road,Luke Pearce,59,W,N,15,Sat,Dec,2018,2018-19,1,0,4,3,3,0,2,1,4,0
+22/Dec/2018,15:00,Harlequins,24,Leicester,35,Welford Road,Luke Pearce,59,L,N,15,Sat,Dec,2018,2018-19,0,1,2,1,4,0,4,3,3,0
+22/Dec/2018,15:00,Exeter,31,Saracens,13,Sandy Park,Thomas Foley,44,W,N,15,Sat,Dec,2018,2018-19,1,0,4,3,1,0,1,1,2,0
+22/Dec/2018,15:00,Saracens,13,Exeter,31,Sandy Park,Thomas Foley,44,L,N,15,Sat,Dec,2018,2018-19,0,1,1,1,2,0,4,3,1,0
+22/Dec/2018,15:00,Sale,27,Bristol,10,AJ Bell Stadium,JP Doyle,37,W,N,15,Sat,Dec,2018,2018-19,0,0,2,1,5,0,1,1,1,0
+22/Dec/2018,15:00,Bristol,10,Sale,27,AJ Bell Stadium,JP Doyle,37,L,N,15,Sat,Dec,2018,2018-19,0,0,1,1,1,0,2,1,5,0
+23/Dec/2018,15:00,Wasps,14,Bath,24,Ricoh Arena,Matthew Carley,38,L,N,15,Sun,Dec,2018,2018-19,0,0,1,0,3,0,2,1,4,0
+23/Dec/2018,15:00,Bath,24,Wasps,14,Ricoh Arena,Matthew Carley,38,W,N,15,Sun,Dec,2018,2018-19,0,0,2,1,4,0,1,0,3,0
+23/Dec/2018,15:00,Newcastle,17,Gloucester,20,Kingston Park,Karl Dickson,37,L,N,15,Sun,Dec,2018,2018-19,1,0,1,0,4,0,2,2,2,0
+23/Dec/2018,15:00,Gloucester,20,Newcastle,17,Kingston Park,Karl Dickson,37,W,N,15,Sun,Dec,2018,2018-19,0,1,2,2,2,0,1,0,4,0
+28/Dec/2018,19:45,Northampton,31,Exeter,28,Franklin's Gardens,Ian Tempest,59,W,N,19,Fri,Dec,2018,2018-19,1,2,4,4,1,0,4,3,0,0
+28/Dec/2018,19:45,Exeter,28,Northampton,31,Franklin's Gardens,Ian Tempest,59,L,N,19,Fri,Dec,2018,2018-19,2,1,4,3,0,0,4,4,1,0
+29/Dec/2018,15:00,Gloucester,15,Sale,30,Kingsholm,Christophe Ridley,45,L,N,15,Sat,Dec,2018,2018-19,0,1,2,1,1,0,4,2,2,0
+29/Dec/2018,15:00,Sale,30,Gloucester,15,Kingsholm,Christophe Ridley,45,W,N,15,Sat,Dec,2018,2018-19,1,0,4,2,2,0,2,1,1,0
+29/Dec/2018,15:00,Saracens,25,Worcester,17,Allianz Park,Karl Dickson,42,W,N,15,Sat,Dec,2018,2018-19,0,0,3,2,2,0,2,2,1,0
+29/Dec/2018,15:00,Worcester,17,Saracens,25,Allianz Park,Karl Dickson,42,L,N,15,Sat,Dec,2018,2018-19,0,0,2,2,1,0,3,2,2,0
+29/Dec/2018,16:00,Harlequins,20,Wasps,13,Twickenham Stadium,Craig Maxwell-Keys,33,W,N,16,Sat,Dec,2018,2018-19,0,1,2,2,2,0,1,1,2,0
+29/Dec/2018,16:00,Wasps,13,Harlequins,20,Twickenham Stadium,Craig Maxwell-Keys,33,L,N,16,Sat,Dec,2018,2018-19,1,0,1,1,2,0,2,2,2,0
+30/Dec/2018,15:00,Bristol,35,Newcastle,28,Ashton Gate,Wayne Barnes,63,W,N,15,Sun,Dec,2018,2018-19,1,1,4,3,3,0,3,2,3,0
+30/Dec/2018,15:00,Newcastle,28,Bristol,35,Ashton Gate,Wayne Barnes,63,L,N,15,Sun,Dec,2018,2018-19,1,1,3,2,3,0,4,3,3,0
+30/Dec/2018,15:00,Bath,23,Leicester,16,Recreation Ground,JP Doyle,39,W,N,15,Sun,Dec,2018,2018-19,0,1,3,1,2,0,1,1,3,0
+30/Dec/2018,15:00,Leicester,16,Bath,23,Recreation Ground,JP Doyle,39,L,N,15,Sun,Dec,2018,2018-19,1,0,1,1,3,0,3,1,2,0
+04/Jan/2019,19:45,Sale,24,Saracens,18,AJ Bell Stadium,Matthew Carley,42,W,N,19,Fri,Jan,2019,2018-19,0,1,2,1,4,0,2,1,2,0
+04/Jan/2019,19:45,Saracens,18,Sale,24,AJ Bell Stadium,Matthew Carley,42,L,N,19,Fri,Jan,2019,2018-19,1,0,2,1,2,0,2,1,4,0
+05/Jan/2019,15:00,Worcester,21,Bath,19,Sixways,Ian Tempest,40,W,N,15,Sat,Jan,2019,2018-19,0,1,2,1,3,0,1,1,4,0
+05/Jan/2019,15:00,Bath,19,Worcester,21,Sixways,Ian Tempest,40,L,N,15,Sat,Jan,2019,2018-19,1,0,1,1,4,0,2,1,3,0
+05/Jan/2019,15:00,Newcastle,17,Harlequins,38,Kingston Park,Tom Foley,55,L,N,15,Sat,Jan,2019,2018-19,0,1,2,2,1,0,5,5,1,0
+05/Jan/2019,15:00,Harlequins,38,Newcastle,17,Kingston Park,Tom Foley,55,W,N,15,Sat,Jan,2019,2018-19,1,0,5,5,1,0,2,2,1,0
+05/Jan/2019,15:00,Exeter,14,Bristol,9,Sandy Park,Craig Maxwell-Keys,23,W,N,15,Sat,Jan,2019,2018-19,0,1,2,2,0,0,0,0,3,0
+05/Jan/2019,15:00,Bristol,9,Exeter,14,Sandy Park,Craig Maxwell-Keys,23,L,N,15,Sat,Jan,2019,2018-19,1,0,0,0,3,0,2,2,0,0
+05/Jan/2019,15:00,Leicester,34,Gloucester,16,Welford Road,Wayne Barnes,50,W,N,15,Sat,Jan,2019,2018-19,1,0,4,4,2,0,1,1,3,0
+05/Jan/2019,15:00,Gloucester,16,Leicester,34,Welford Road,Wayne Barnes,50,L,N,15,Sat,Jan,2019,2018-19,0,1,1,1,3,0,4,4,2,0
+06/Jan/2019,15:00,Wasps,27,Northampton,16,Ricoh Arena,Luke Pearce,43,W,N,15,Sun,Jan,2019,2018-19,0,0,3,3,2,0,1,1,3,0
+06/Jan/2019,15:00,Northampton,16,Wasps,27,Ricoh Arena,Luke Pearce,43,L,N,15,Sun,Jan,2019,2018-19,0,0,1,1,3,0,3,3,2,0
+15/Feb/2019,19:45,Gloucester,24,Exeter,17,Kingsholm,Craig Maxwell-Keys,41,W,N,19,Fri,Feb,2019,2018-19,0,1,3,3,1,0,2,2,1,0
+15/Feb/2019,19:45,Exeter,17,Gloucester,24,Kingsholm,Craig Maxwell-Keys,41,L,N,19,Fri,Feb,2019,2018-19,1,0,2,2,1,0,3,3,1,0
+15/Feb/2019,19:45,Bristol,22,Wasps,29,Ashton Gate,Wayne Barnes,51,L,N,19,Fri,Feb,2019,2018-19,1,1,3,2,1,0,4,3,1,0
+15/Feb/2019,19:45,Wasps,29,Bristol,22,Ashton Gate,Wayne Barnes,51,W,N,19,Fri,Feb,2019,2018-19,1,1,4,3,1,0,3,2,1,0
+16/Feb/2019,14:00,Northampton,67,Sale,17,Franklin's Gardens,Karl Dickson,84,W,N,14,Sat,Feb,2019,2018-19,1,0,9,8,2,0,2,1,1,0
+16/Feb/2019,14:00,Sale,17,Northampton,67,Franklin's Gardens,Karl Dickson,84,L,N,14,Sat,Feb,2019,2018-19,0,1,2,1,1,0,9,8,2,0
+16/Feb/2019,15:00,Bath,30,Newcastle,13,Recreation Ground,JP Doyle,43,W,N,15,Sat,Feb,2019,2018-19,1,0,4,2,2,0,1,1,2,0
+16/Feb/2019,15:00,Newcastle,13,Bath,30,Recreation Ground,JP Doyle,43,L,N,15,Sat,Feb,2019,2018-19,0,1,1,1,2,0,4,2,2,0
+16/Feb/2019,15:00,Harlequins,47,Worcester,33,Twickenham Stoop,Luke Pearce,80,W,N,15,Sat,Feb,2019,2018-19,1,1,7,6,0,0,5,4,0,0
+16/Feb/2019,15:00,Worcester,33,Harlequins,47,Twickenham Stoop,Luke Pearce,80,L,N,15,Sat,Feb,2019,2018-19,1,1,5,4,0,0,7,6,0,0
+16/Feb/2019,15:00,Saracens,33,Leicester,10,Allianz Park,Tom Foley,43,W,N,15,Sat,Feb,2019,2018-19,1,0,4,2,3,0,1,1,1,0
+16/Feb/2019,15:00,Leicester,10,Saracens,33,Allianz Park,Tom Foley,43,L,N,15,Sat,Feb,2019,2018-19,0,1,1,1,1,0,4,2,3,0
+22/Feb/2019,19:45,Gloucester,30,Saracens,24,Kingsholm,JP Doyle,54,W,N,19,Fri,Feb,2019,2018-19,0,1,3,3,3,0,3,3,1,0
+22/Feb/2019,19:45,Saracens,24,Gloucester,30,Kingsholm,JP Doyle,54,L,N,19,Fri,Feb,2019,2018-19,1,0,3,3,1,0,3,3,3,0
+23/Feb/2019,14:00,Harlequins,36,Bristol,26,Twickenham Stoop,Tom Foley,62,W,N,14,Sat,Feb,2019,2018-19,1,1,5,4,1,0,4,3,0,0
+23/Feb/2019,14:00,Bristol,26,Harlequins,36,Twickenham Stoop,Tom Foley,62,L,N,14,Sat,Feb,2019,2018-19,1,1,4,3,0,0,5,4,1,0
+23/Feb/2019,14:00,Wasps,18,Sale,24,Ricoh Arena,Andrew Jackson,42,L,N,14,Sat,Feb,2019,2018-19,1,0,2,1,2,0,3,2,1,0
+23/Feb/2019,14:00,Sale,24,Wasps,18,Ricoh Arena,Andrew Jackson,42,W,N,14,Sat,Feb,2019,2018-19,0,1,3,2,1,0,2,1,2,0
+23/Feb/2019,14:30,Exeter,35,Newcastle,17,Sandy Park,Luke Pearce,52,W,N,14,Sat,Feb,2019,2018-19,1,0,5,5,0,0,3,1,0,0
+23/Feb/2019,14:30,Newcastle,17,Exeter,35,Sandy Park,Luke Pearce,52,L,N,14,Sat,Feb,2019,2018-19,0,1,3,1,0,0,5,5,0,0
+23/Feb/2019,14:45,Northampton,27,Bath,26,Franklin's Gardens,Ian Tempest,53,W,N,14,Sat,Feb,2019,2018-19,0,1,3,3,2,0,2,2,4,0
+23/Feb/2019,14:45,Bath,26,Northampton,27,Franklin's Gardens,Ian Tempest,53,L,N,14,Sat,Feb,2019,2018-19,1,0,2,2,4,0,3,3,2,0
+24/Feb/2019,13:00,Worcester,17,Leicester,13,Sixways,Craig Maxwell-Keys,30,W,N,13,Sun,Feb,2019,2018-19,0,0,2,2,1,0,1,1,2,0
+24/Feb/2019,13:00,Leicester,13,Worcester,17,Sixways,Craig Maxwell-Keys,30,L,N,13,Sun,Feb,2019,2018-19,0,0,1,1,2,0,2,2,1,0
+01/Mar/2019,19:45,Bristol,28,Gloucester,24,Ashton Gate,Karl Dickson,52,W,N,19,Fri,Mar,2019,2018-19,0,1,3,1,3,0,3,3,1,0
+01/Mar/2019,19:45,Gloucester,24,Bristol,28,Ashton Gate,Karl Dickson,52,L,N,19,Fri,Mar,2019,2018-19,1,0,3,3,1,0,3,1,3,0
+02/Mar/2019,15:00,Bath,29,Harlequins,31,Recreation Ground,Matthew Carley,60,L,N,15,Sat,Mar,2019,2018-19,1,1,3,1,4,0,5,3,0,0
+02/Mar/2019,15:00,Harlequins,31,Bath,29,Recreation Ground,Matthew Carley,60,W,N,15,Sat,Mar,2019,2018-19,1,1,5,3,0,0,3,1,4,0
+02/Mar/2019,15:00,Leicester,19,Wasps,14,Welford Road,JP Doyle,33,W,N,15,Sat,Mar,2019,2018-19,0,1,1,1,4,0,2,2,0,0
+02/Mar/2019,15:00,Wasps,14,Leicester,19,Welford Road,JP Doyle,33,L,N,15,Sat,Mar,2019,2018-19,1,0,2,2,0,0,1,1,4,0
+02/Mar/2019,15:00,Sale,14,Exeter,20,AJ Bell Stadium,Ian Tempest,34,L,N,15,Sat,Mar,2019,2018-19,1,0,2,2,0,0,3,1,1,0
+02/Mar/2019,15:00,Exeter,20,Sale,14,AJ Bell Stadium,Ian Tempest,34,W,N,15,Sat,Mar,2019,2018-19,0,1,3,1,1,0,2,2,0,0
+02/Mar/2019,15:00,Saracens,36,Northampton,17,Allianz Park,Luke Pearce,53,W,N,15,Sat,Mar,2019,2018-19,1,0,6,2,0,0,2,2,1,0
+02/Mar/2019,15:00,Northampton,17,Saracens,36,Allianz Park,Luke Pearce,53,L,N,15,Sat,Mar,2019,2018-19,0,1,2,2,1,0,6,2,0,0
+03/Mar/2019,15:00,Newcastle,17,Worcester,6,Kingston Park,Wayne Barnes,23,W,N,15,Sun,Mar,2019,2018-19,0,0,2,2,1,0,0,0,2,0
+03/Mar/2019,15:00,Worcester,6,Newcastle,17,Kingston Park,Wayne Barnes,23,L,N,15,Sun,Mar,2019,2018-19,0,0,0,0,2,0,2,2,1,0
+08/Mar/2019,19:45,Bath,18,Saracens,9,Recreation Ground,Andrew Jackson,27,W,N,19,Fri,Mar,2019,2018-19,0,0,0,0,6,0,0,0,3,0
+08/Mar/2019,19:45,Saracens,9,Bath,18,Recreation Ground,Andrew Jackson,27,L,N,19,Fri,Mar,2019,2018-19,0,0,0,0,3,0,0,0,6,0
+08/Mar/2019,20:00,Sale,32,Leicester,5,AJ Bell Stadium,Matthew Carley,37,W,N,20,Fri,Mar,2019,2018-19,1,0,6,0,0,0,1,0,0,0
+08/Mar/2019,20:00,Leicester,5,Sale,32,AJ Bell Stadium,Matthew Carley,37,L,N,20,Fri,Mar,2019,2018-19,0,1,1,0,0,0,6,0,0,0
+09/Mar/2019,14:00,Wasps,19,Newcastle,20,Ricoh Arena,Thomas Foley,39,L,N,14,Sat,Mar,2019,2018-19,1,0,1,1,4,0,2,2,2,0
+09/Mar/2019,14:00,Newcastle,20,Wasps,19,Ricoh Arena,Thomas Foley,39,W,N,14,Sat,Mar,2019,2018-19,0,1,2,2,2,0,1,1,4,0
+09/Mar/2019,14:45,Northampton,24,Bristol,26,Franklin's Gardens,Christophe Ridley,50,L,N,14,Sat,Mar,2019,2018-19,2,1,4,2,0,0,4,3,0,0
+09/Mar/2019,14:45,Bristol,26,Northampton,24,Franklin's Gardens,Christophe Ridley,50,W,N,14,Sat,Mar,2019,2018-19,1,2,4,3,0,0,4,2,0,0
+09/Mar/2019,15:00,Worcester,30,Exeter,33,Sixways,JP Doyle,63,L,N,15,Sat,Mar,2019,2018-19,2,1,4,2,2,0,5,4,0,0
+09/Mar/2019,15:00,Exeter,33,Worcester,30,Sixways,JP Doyle,63,W,N,15,Sat,Mar,2019,2018-19,1,2,5,4,0,0,4,2,2,0
+10/Mar/2019,13:00,Harlequins,7,Gloucester,29,Twickenham Stoop,Wayne Barnes,36,L,N,13,Sun,Mar,2019,2018-19,0,1,1,1,0,0,4,3,1,0
+10/Mar/2019,13:00,Gloucester,29,Harlequins,7,Twickenham Stoop,Wayne Barnes,36,W,N,13,Sun,Mar,2019,2018-19,1,0,4,3,1,0,1,1,0,0
+22/Mar/2019,19:45,Leicester,15,Northampton,29,Welford Road,Wayne Barnes,44,L,N,19,Fri,Mar,2019,2018-19,0,0,2,1,1,0,3,1,4,0
+22/Mar/2019,19:45,Northampton,29,Leicester,15,Welford Road,Wayne Barnes,44,W,N,19,Fri,Mar,2019,2018-19,0,0,3,1,4,0,2,1,1,0
+23/Mar/2019,15:00,Bristol,25,Worcester,27,Ashton Gate,Luke Pearce,52,L,N,15,Sat,Mar,2019,2018-19,1,0,3,1,2,0,3,3,2,0
+23/Mar/2019,15:00,Worcester,27,Bristol,25,Ashton Gate,Luke Pearce,52,W,N,15,Sat,Mar,2019,2018-19,0,1,3,3,2,0,3,1,2,0
+23/Mar/2019,15:00,Gloucester,27,Wasps,14,Kingsholm,Ian Tempest,41,W,N,15,Sat,Mar,2019,2018-19,0,0,3,3,2,0,1,0,3,0
+23/Mar/2019,15:00,Wasps,14,Gloucester,27,Kingsholm,Ian Tempest,41,L,N,15,Sat,Mar,2019,2018-19,0,0,1,0,3,0,3,3,2,0
+23/Mar/2019,15:00,Saracens,27,Harlequins,20,London Stadium,JP Doyle,47,W,N,15,Sat,Mar,2019,2018-19,0,1,3,3,2,0,2,2,2,0
+23/Mar/2019,15:00,Harlequins,20,Saracens,27,London Stadium,JP Doyle,47,L,N,15,Sat,Mar,2019,2018-19,1,0,2,2,2,0,3,3,2,0
+23/Mar/2019,17:30,Newcastle,22,Sale,17,St James' Park,Craig Maxwell-Keys,39,W,N,17,Sat,Mar,2019,2018-19,0,1,1,1,5,0,2,2,1,0
+23/Mar/2019,17:30,Sale,17,Newcastle,22,St James' Park,Craig Maxwell-Keys,39,L,N,17,Sat,Mar,2019,2018-19,1,0,2,2,1,0,1,1,5,0
+24/Mar/2019,15:00,Exeter,29,Bath,10,Sandy Park,Karl Dickson,39,W,N,15,Sun,Mar,2019,2018-19,1,0,4,2,1,0,1,1,1,0
+24/Mar/2019,15:00,Bath,10,Exeter,29,Sandy Park,Karl Dickson,39,L,N,15,Sun,Mar,2019,2018-19,0,1,1,1,1,0,4,2,1,0
+05/Apr/2019,19:45,Sale,28,Harlequins,17,AJ Bell Stadium,Wayne Barnes,45,W,N,19,Fri,Apr,2019,2018-19,0,0,1,1,7,0,2,2,1,0
+05/Apr/2019,19:45,Harlequins,17,Sale,28,AJ Bell Stadium,Wayne Barnes,45,L,N,19,Fri,Apr,2019,2018-19,0,0,2,2,1,0,1,1,7,0
+06/Apr/2019,14:00,Bath,26,Bristol,19,Twickenham Stadium,JP Doyle,45,W,N,14,Sat,Apr,2019,2018-19,1,1,4,3,0,0,1,1,4,0
+06/Apr/2019,14:00,Bristol,19,Bath,26,Twickenham Stadium,JP Doyle,45,L,N,14,Sat,Apr,2019,2018-19,1,1,1,1,4,0,4,3,0,0
+06/Apr/2019,15:00,Saracens,26,Newcastle,12,Allianz Park,Karl Dickson,38,W,N,15,Sat,Apr,2019,2018-19,1,0,4,3,0,0,0,0,4,0
+06/Apr/2019,15:00,Newcastle,12,Saracens,26,Allianz Park,Karl Dickson,38,L,N,15,Sat,Apr,2019,2018-19,0,1,0,0,4,0,4,3,0,0
+06/Apr/2019,15:00,Wasps,28,Worcester,16,Ricoh Arena,Matthew Carley,44,W,N,15,Sat,Apr,2019,2018-19,1,0,4,4,0,0,1,1,3,0
+06/Apr/2019,15:00,Worcester,16,Wasps,28,Ricoh Arena,Matthew Carley,44,L,N,15,Sat,Apr,2019,2018-19,0,1,1,1,3,0,4,4,0,0
+06/Apr/2019,16:30,Leicester,20,Exeter,52,Welford Road,Thomas Foley,72,L,N,16,Sat,Apr,2019,2018-19,0,1,2,2,2,0,7,7,1,0
+06/Apr/2019,16:30,Exeter,52,Leicester,20,Welford Road,Thomas Foley,72,W,N,16,Sat,Apr,2019,2018-19,1,0,7,7,1,0,2,2,2,0
+07/Apr/2019,15:00,Northampton,31,Gloucester,40,Franklin's Gardens,Craig Maxwell-Keys,71,L,N,15,Sun,Apr,2019,2018-19,1,1,5,3,0,0,6,5,0,0
+07/Apr/2019,15:00,Gloucester,40,Northampton,31,Franklin's Gardens,Craig Maxwell-Keys,71,W,N,15,Sun,Apr,2019,2018-19,1,1,6,5,0,0,5,3,0,0
+12/Apr/2019,19:45,Newcastle,22,Leicester,27,Kingston Park,Wayne Barnes,49,L,N,19,Fri,Apr,2019,2018-19,1,0,3,2,1,0,3,3,2,0
+12/Apr/2019,19:45,Leicester,27,Newcastle,22,Kingston Park,Wayne Barnes,49,W,N,19,Fri,Apr,2019,2018-19,0,1,3,3,2,0,3,2,1,0
+13/Apr/2019,15:00,Gloucester,27,Bath,23,Kingsholm,Matthew Carley,50,W,N,15,Sat,Apr,2019,2018-19,1,1,4,2,1,0,2,2,2,1
+13/Apr/2019,15:00,Bath,23,Gloucester,27,Kingsholm,Matthew Carley,50,L,N,15,Sat,Apr,2019,2018-19,1,1,2,2,2,1,4,2,1,0
+13/Apr/2019,15:00,Harlequins,19,Northampton,20,Twickenham Stoop,Christophe Ridley,39,L,N,15,Sat,Apr,2019,2018-19,1,0,1,1,4,0,2,2,2,0
+13/Apr/2019,15:00,Northampton,20,Harlequins,19,Twickenham Stoop,Christophe Ridley,39,W,N,15,Sat,Apr,2019,2018-19,0,1,2,2,2,0,1,1,4,0
+13/Apr/2019,15:00,Worcester,39,Sale,17,Sixways,Ian Tempest,56,W,N,15,Sat,Apr,2019,2018-19,1,0,5,4,2,0,2,2,1,0
+13/Apr/2019,15:00,Sale,17,Worcester,39,Sixways,Ian Tempest,56,L,N,15,Sat,Apr,2019,2018-19,0,1,2,2,1,0,5,4,2,0
+13/Apr/2019,17:30,Bristol,23,Saracens,21,Ashton Gate,Tom Foley,44,W,N,17,Sat,Apr,2019,2018-19,0,1,2,2,3,0,3,3,0,0
+13/Apr/2019,17:30,Saracens,21,Bristol,23,Ashton Gate,Tom Foley,44,L,N,17,Sat,Apr,2019,2018-19,1,0,3,3,0,0,2,2,3,0
+14/Apr/2019,15:00,Exeter,19,Wasps,26,Sandy Park,Luke Pearce,45,L,N,15,Sun,Apr,2019,2018-19,1,1,3,2,0,0,4,3,0,0
+14/Apr/2019,15:00,Wasps,26,Exeter,19,Sandy Park,Luke Pearce,45,W,N,15,Sun,Apr,2019,2018-19,1,1,4,3,0,0,3,2,0,0
+26/Apr/2019,19:45,Newcastle,17,Northampton,31,Kingston Park,Luke Pearce,48,L,N,19,Fri,Apr,2019,2018-19,0,1,2,2,1,0,4,4,1,0
+26/Apr/2019,19:45,Northampton,31,Newcastle,17,Kingston Park,Luke Pearce,48,W,N,19,Fri,Apr,2019,2018-19,1,0,4,4,1,0,2,2,1,0
+26/Apr/2019,19:45,Sale,6,Bath,3,AJ Bell Stadium,Thomas Foley,9,W,N,19,Fri,Apr,2019,2018-19,0,1,0,0,2,0,0,0,1,0
+26/Apr/2019,19:45,Bath,3,Sale,6,AJ Bell Stadium,Thomas Foley,9,L,N,19,Fri,Apr,2019,2018-19,1,0,0,0,1,0,0,0,2,0
+27/Apr/2019,14:00,Exeter,17,Harlequins,15,Sandy Park,Craig Maxwell-Keys,32,W,N,14,Sat,Apr,2019,2018-19,0,1,3,1,0,0,2,1,1,0
+27/Apr/2019,14:00,Harlequins,15,Exeter,17,Sandy Park,Craig Maxwell-Keys,32,L,N,14,Sat,Apr,2019,2018-19,1,0,2,1,1,0,3,1,0,0
+27/Apr/2019,15:00,Leicester,20,Bristol,23,Welford Road,Karl Dickson,43,L,N,15,Sat,Apr,2019,2018-19,1,0,1,0,5,0,3,1,2,0
+27/Apr/2019,15:00,Bristol,23,Leicester,20,Welford Road,Karl Dickson,43,W,N,15,Sat,Apr,2019,2018-19,0,1,3,1,2,0,1,0,5,0
+27/Apr/2019,16:30,Wasps,14,Saracens,31,Ricoh Arena,Wayne Barnes,45,L,N,16,Sat,Apr,2019,2018-19,0,0,2,2,0,0,3,2,4,0
+27/Apr/2019,16:30,Saracens,31,Wasps,14,Ricoh Arena,Wayne Barnes,45,W,N,16,Sat,Apr,2019,2018-19,0,0,3,2,4,0,2,2,0,0
+28/Apr/2019,15:00,Worcester,27,Gloucester,20,Sixways,JP Doyle,47,W,N,15,Sun,Apr,2019,2018-19,0,1,3,3,2,0,3,1,1,0
+28/Apr/2019,15:00,Gloucester,20,Worcester,27,Sixways,JP Doyle,47,L,N,15,Sun,Apr,2019,2018-19,1,0,3,1,1,0,3,3,2,0
+03/May/2019,19:45,Bristol,20,Sale,20,Ashton Gate,Matthew Carley,40,D,N,19,Fri,May,2019,2018-19,0,0,2,2,2,0,2,2,2,0
+03/May/2019,19:45,Sale,20,Bristol,20,Ashton Gate,Matthew Carley,40,D,N,19,Fri,May,2019,2018-19,0,0,2,2,2,0,2,2,2,0
+03/May/2019,19:45,Harlequins,23,Leicester,19,Twickenham Stoop,Wayne Barnes,42,W,N,19,Fri,May,2019,2018-19,0,0,2,2,3,0,1,0,4,0
+03/May/2019,19:45,Leicester,19,Harlequins,23,Twickenham Stoop,Wayne Barnes,42,L,N,19,Fri,May,2019,2018-19,0,0,1,0,4,0,2,2,3,0
+04/May/2019,15:00,Gloucester,28,Newcastle,19,Kingsholm,Thomas Foley,47,W,N,15,Sat,May,2019,2018-19,1,0,4,4,0,0,3,2,0,0
+04/May/2019,15:00,Newcastle,19,Gloucester,28,Kingsholm,Thomas Foley,47,L,N,15,Sat,May,2019,2018-19,0,1,3,2,0,0,4,4,0,0
+04/May/2019,15:00,Northampton,38,Worcester,10,Franklin's Gardens,Christophe Ridley,48,W,N,15,Sat,May,2019,2018-19,1,0,5,5,1,0,1,1,1,0
+04/May/2019,15:00,Worcester,10,Northampton,38,Franklin's Gardens,Christophe Ridley,48,L,N,15,Sat,May,2019,2018-19,0,1,1,1,1,0,5,5,1,0
+04/May/2019,15:00,Saracens,38,Exeter,7,Allianz Park,Ian Tempest,45,W,N,15,Sat,May,2019,2018-19,1,0,5,5,1,0,1,1,0,0
+04/May/2019,15:00,Exeter,7,Saracens,38,Allianz Park,Ian Tempest,45,L,N,15,Sat,May,2019,2018-19,0,1,1,1,0,0,5,5,1,0
+05/May/2019,15:00,Bath,29,Wasps,17,Recreation Ground,Luke Pearce,46,W,N,15,Sun,May,2019,2018-19,1,0,4,3,1,0,2,2,1,0
+05/May/2019,15:00,Wasps,17,Bath,29,Recreation Ground,Luke Pearce,46,L,N,15,Sun,May,2019,2018-19,0,1,2,2,1,0,4,3,1,0
+18/May/2019,16:00,Exeter,40,Northampton,21,Sandy Park,Karl Dickson,61,W,N,16,Sat,May,2019,2018-19,1,0,6,5,0,0,3,3,0,0
+18/May/2019,16:00,Northampton,21,Exeter,40,Sandy Park,Karl Dickson,61,L,N,16,Sat,May,2019,2018-19,0,1,3,3,0,0,6,5,0,0
+18/May/2019,16:00,Leicester,31,Bath,32,Welford Road,Craig Maxwell-Keys,63,L,N,16,Sat,May,2019,2018-19,1,1,3,2,4,0,4,3,2,0
+18/May/2019,16:00,Bath,32,Leicester,31,Welford Road,Craig Maxwell-Keys,63,W,N,16,Sat,May,2019,2018-19,1,1,4,3,2,0,3,2,4,0
+18/May/2019,16:00,Newcastle,12,Bristol,19,Kingston Park,JP Doyle,31,L,N,16,Sat,May,2019,2018-19,1,0,2,1,0,0,3,2,0,0
+18/May/2019,16:00,Bristol,19,Newcastle,12,Kingston Park,JP Doyle,31,W,N,16,Sat,May,2019,2018-19,0,1,3,2,0,0,2,1,0,0
+18/May/2019,16:00,Sale,46,Gloucester,41,AJ Bell Stadium,Wayne Barnes,87,W,N,16,Sat,May,2019,2018-19,1,2,7,4,1,0,6,4,1,0
+18/May/2019,16:00,Gloucester,41,Sale,46,AJ Bell Stadium,Wayne Barnes,87,L,N,16,Sat,May,2019,2018-19,2,1,6,4,1,0,7,4,1,0
+18/May/2019,16:00,Wasps,27,Harlequins,25,Ricoh Arena,Matthew Carley,52,W,N,16,Sat,May,2019,2018-19,0,1,3,3,2,0,3,2,2,0
+18/May/2019,16:00,Harlequins,25,Wasps,27,Ricoh Arena,Matthew Carley,52,L,N,16,Sat,May,2019,2018-19,1,0,3,2,2,0,3,3,2,0
+18/May/2019,16:00,Worcester,31,Saracens,29,Sixways,Adam Leal,60,W,N,16,Sat,May,2019,2018-19,1,1,4,4,1,0,2,2,5,0
+18/May/2019,16:00,Saracens,29,Worcester,31,Sixways,Adam Leal,60,L,N,16,Sat,May,2019,2018-19,1,1,2,2,5,0,4,4,1,0
+25/May/2019,13:30,Saracens,44,Gloucester,19,Allianz Park,Luke Pearce,63,W,N,13,Sat,May,2019,2018-19,0,0,6,4,2,0,3,2,0,0
+25/May/2019,13:30,Gloucester,19,Saracens,44,Allianz Park,Luke Pearce,63,L,N,13,Sat,May,2019,2018-19,0,0,3,2,0,0,6,4,2,0
+25/May/2019,16:30,Exeter,42,Northampton,12,Sandy Park,Matthew Carley,54,W,N,16,Sat,May,2019,2018-19,0,0,6,6,0,0,2,0,0,0
+25/May/2019,16:30,Northampton,12,Exeter,42,Sandy Park,Matthew Carley,54,L,N,16,Sat,May,2019,2018-19,0,0,2,0,0,0,6,6,0,0
+01/Jun/2019,15:00,Exeter,34,Saracens,37,"Twickenham Stadium, London",Wayne Barnes,71,L,N,15,Sat,Jun,2019,2018-19,0,0,5,3,1,0,5,3,2,0
+01/Jun/2019,15:00,Saracens,37,Exeter,34,"Twickenham Stadium, London",Wayne Barnes,71,W,N,15,Sat,Jun,2019,2018-19,0,0,5,3,2,0,5,3,1,0
