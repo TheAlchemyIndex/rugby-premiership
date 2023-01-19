@@ -95,7 +95,10 @@ def scrape_results(url):
         team2_bps = team_name_formatter(data[count + 3])[1]
 
         # Fixes any incorrect match data - based on manual inspection of Wikipedia
-        if (date == "08/Oct/2016") & (team1_name == Teams.HARLEQUINS) & (team1_penalties != 5):
+        if (date == "02/Sep/2016") & (team1_name == Teams.WASPS) & (team2_name == Teams.SALE):
+            date = "02/Sep/2017"
+            year = "2017"
+        elif (date == "08/Oct/2016") & (team1_name == Teams.HARLEQUINS) & (team1_penalties != 5):
             team1_penalties = 5
         elif (date == "28/Oct/2016") & (team2_name == Teams.GLOUCESTER) & (team2_penalties != 2):
             team2_penalties = 2
@@ -125,6 +128,8 @@ def scrape_results(url):
             team1_penalties = 4
         elif (date == "17/May/2021") & (team1_name == Teams.BRISTOL) & (team1_tries != 5):
             team1_tries = 5
+        elif (date == "30/May/2021") & (team1_name == Teams.WORCESTER) & (team2_name == Teams.LEICESTER):
+            date = "29/May/2021"
         elif (date == "26/Jun/2021") & (team1_name == Teams.EXETER) & (team1_penalties != 1):
             team1_penalties = 1
         elif (date == "02/Oct/2021") & (team1_name == Teams.NEWCASTLE) & (team1_penalties != 2):
