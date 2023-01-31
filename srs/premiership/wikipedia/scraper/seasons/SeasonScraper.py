@@ -140,6 +140,10 @@ def scrape_results(url):
             team1_drop_goals = 1
         elif (date == "08/Jan/2022") & (team2_name == Teams.NORTHAMPTON) & (team2_drop_goals != 1):
             team2_drop_goals = 1
+        elif (date == "28/Jan/2022") & (team1_name == Teams.EXETER) & (team2_name == Teams.GLOUCESTER):
+            date = "28/Jan/2023"
+        elif (date == "29/Jan/2022") & (team1_name == Teams.LONDON_IRISH) & (team2_name == Teams.HARLEQUINS):
+            date = "29/Jan/2023"
 
         # Creates dictionary of match_data information and appends to results list
         match_data = {OriginalColumns.DATE: date,
