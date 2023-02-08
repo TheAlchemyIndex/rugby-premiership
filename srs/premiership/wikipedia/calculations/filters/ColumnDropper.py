@@ -9,9 +9,9 @@ def drop_columns(df):
     """
 
     new_df = df.drop([OriginalColumns.TIME,
-                      OriginalColumns.TEAM1_POINTS,
-                      OriginalColumns.TEAM2_POINTS,
-                      OriginalColumns.TOTAL_POINTS,
+                      #OriginalColumns.TEAM1_POINTS,
+                      #OriginalColumns.TEAM2_POINTS,
+                      #OriginalColumns.TOTAL_POINTS,
                       OriginalColumns.HOUR,
                       OriginalColumns.YEAR,
                       OriginalColumns.TEAM1_BPS,
