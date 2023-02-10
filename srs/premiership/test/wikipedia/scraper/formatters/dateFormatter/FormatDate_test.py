@@ -1,33 +1,43 @@
+import unittest
+
 from srs.premiership.main.wikipedia.scraper.formatters.dateFormatter.FormatDate import format_date
 
+valid_unformatted_date_1 = "10 January 2023"
+expected_formatted_date_1 = "10/Jan/2023"
 
-def test_format_date_valid_date():
+valid_unformatted_date_missing_year_1 = "19 June"
+expected_formatted_date_missing_year_1 = "19/Jun/2021"
 
-    unformatted_date = "10 January 2023"
-    expected_formatted_date = "10/Jan/2023"
+valid_unformatted_date_missing_year_2 = "26 June"
+expected_formatted_date_missing_year_2 = "26/Jun/2021"
 
-    # test format_date function with valid date
-    assert format_date(unformatted_date) == expected_formatted_date
-
-
-def test_format_date_valid_date_missing_year():
-
-    unformatted_date1 = "19 June"
-    expected_formatted_date1 = "19/Jun/2021"
-
-    unformatted_date2 = "26 June"
-    expected_formatted_date2 = "26/Jun/2021"
-
-    # test format_date function with valid dates with missing year
-    assert format_date(unformatted_date1) == expected_formatted_date1
-    assert format_date(unformatted_date2) == expected_formatted_date2
+invalid_unformatted_date = "18-June-2021"
+invalid_unformatted_date_missing_year = "10 June"
 
 
-def test_format_date_invalid_date():
+class FormatDateTest(unittest.TestCase):
 
-    unformatted_date1 = "18 June"
-    unformatted_date2 = "18-June-2021"
+    def test_format_date_valid_date(self):
+        self.assertEqual(
+            format_date(valid_unformatted_date_1), expected_formatted_date_1
+        )
 
-    # test format_date function with invalid dates
-    assert format_date(unformatted_date1) == "N/A"
-    assert format_date(unformatted_date2) == "N/A"
+    def test_format_date_valid_date_missing_year(self):
+        self.assertEqual(
+            format_date(valid_unformatted_date_missing_year_1), expected_formatted_date_missing_year_1
+        )
+        self.assertEqual(
+            format_date(valid_unformatted_date_missing_year_2), expected_formatted_date_missing_year_2
+        )
+
+    def test_format_date_invalid_date(self):
+        self.assertEqual(
+            format_date(invalid_unformatted_date), "N/A"
+        )
+        self.assertEqual(
+            format_date(invalid_unformatted_date_missing_year), "N/A"
+        )
+
+
+if __name__ == '__main__':
+    unittest.main()

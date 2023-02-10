@@ -1,7 +1,10 @@
 import datetime
 import re
+
 from srs.premiership.main.wikipedia.constants.columns import OriginalColumns
+from srs.premiership.main.wikipedia.scraper.formatters.dateFormatter.ExtractDateTime import extract_date_time
 from srs.premiership.main.wikipedia.scraper.formatters.dateFormatter.FormatDate import format_date
+from srs.premiership.main.wikipedia.scraper.formatters.dateFormatter.FormatTime import format_time
 
 # Constant val for replacing br tags with custom string
 BR_REPLACE = "xXx"
@@ -14,17 +17,14 @@ def date_formatter(date_data, url):
     :param url: Url that the match data has been scraped from - for using to get the season
     :return: A key: value dictionary containing the date, time, hour, day, month, year and season of a match
     """
-    # Removes any brackets and characters in between if found in the date
-    date_data = re.sub("\[(.*?)\]", "", date_data, flags=re.DOTALL).strip()
-    date_split = date_data.split(BR_REPLACE)
+    # Creates a List[str] of the date and time of a match
+    date_time_split: list[str] = extract_date_time(date_data, BR_REPLACE)
 
     # Reformats the date
-    date = format_date(date_split[0])
+    date: str = format_date(date_time_split[0])
 
     # Reformats the time
-    time = date_split[1].replace(".", ":")
-    if date_split[1].find("pm") != -1:
-        time = datetime.datetime.strptime(time, '%I:%M%p').strftime('%H:%M')
+    time = format_time(date_time_split[1])
 
     hour = time.split(":")[0]
     day = datetime.datetime.strptime(date, '%d/%b/%Y').strftime('%a')
