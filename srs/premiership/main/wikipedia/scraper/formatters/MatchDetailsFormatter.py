@@ -1,9 +1,8 @@
 from re import search
+
+from srs.premiership.main.wikipedia.constants import StringSplitter
 from srs.premiership.main.wikipedia.constants.columns import OriginalColumns
 from srs.premiership.main.wikipedia.constants.matchData import Venues
-
-# Constant val for replacing br tags with custom string
-BR_REPLACE = "xXx"
 
 # Constant list values representing various venue strings that require reformatting
 HARLEQUINS_STADIUM = ["Twickenham Stoop, London", "The Twickenham Stoop", "The Stoop"]
@@ -18,7 +17,7 @@ def match_details_formatter(match_details_data):
     :param match_details_data: Data about the match that was scraped from Wikipedia
     :return: A key: value dictionary of the venue and referee of the match
     """
-    details_split = match_details_data.split(BR_REPLACE)
+    details_split = match_details_data.split(StringSplitter.BR_REPLACE)
     venue = venue_formatter(details_split[0])
 
     # Checks if the referee is included in match_data

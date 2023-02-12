@@ -1,13 +1,10 @@
-import datetime
-import re
-
+from srs.premiership.main.wikipedia.constants import StringSplitter
 from srs.premiership.main.wikipedia.constants.columns import OriginalColumns
-from srs.premiership.main.wikipedia.scraper.formatters.dateFormatter.ExtractDateTime import extract_date_time
-from srs.premiership.main.wikipedia.scraper.formatters.dateFormatter.FormatDate import format_date
-from srs.premiership.main.wikipedia.scraper.formatters.dateFormatter.FormatTime import format_time
-
-# Constant val for replacing br tags with custom string
-BR_REPLACE = "xXx"
+from srs.premiership.main.wikipedia.scraper.formatters.dateFormatter.util.ExtractDateTime import extract_date_time
+from srs.premiership.main.wikipedia.scraper.formatters.dateFormatter.util.FormatDate import format_date
+from srs.premiership.main.wikipedia.scraper.formatters.dateFormatter.util.FormatTime import format_time
+from srs.premiership.main.wikipedia.scraper.formatters.dateFormatter.util.SplitDateTimeComponents import \
+    split_date_time_components
 
 
 def date_formatter(date_data, url):
@@ -18,23 +15,29 @@ def date_formatter(date_data, url):
     :return: A key: value dictionary containing the date, time, hour, day, month, year and season of a match
     """
     # Creates a List[str] of the date and time of a match
-    date_time_split: list[str] = extract_date_time(date_data, BR_REPLACE)
+    date_time_split: list[str] = extract_date_time(date_data, StringSplitter.BR_REPLACE)
 
     # Reformats the date
     date: str = format_date(date_time_split[0])
 
     # Reformats the time
-    time = format_time(date_time_split[1])
+    time: str = format_time(date_time_split[1])
 
-    hour = time.split(":")[0]
-    day = datetime.datetime.strptime(date, '%d/%b/%Y').strftime('%a')
-    month = datetime.datetime.strptime(date, '%d/%b/%Y').strftime('%b')
-    year = datetime.datetime.strptime(date, '%d/%b/%Y').strftime('%Y')
+    # Extracts individual components from date and time of match
+    date_time_components: list[str] = split_date_time_components(date, time, url)
 
-    # Extracts season info from url of match details
-    season = re.search("[0-9][0-9][0-9][0-9]-[0-9][0-9]", url).group()
+    hour: str = date_time_components[0]
+    day: str = date_time_components[1]
+    month: str = date_time_components[2]
+    year: str = date_time_components[3]
+    season: str = date_time_components[4]
 
-    formatted_date = {OriginalColumns.DATE: date, OriginalColumns.TIME: time, OriginalColumns.HOUR: hour,
-                      OriginalColumns.DAY: day, OriginalColumns.MONTH: month, OriginalColumns.YEAR: year,
-                      OriginalColumns.SEASON: season}
+    formatted_date: dict[str, str] = {OriginalColumns.DATE: date,
+                                      OriginalColumns.TIME: time,
+                                      OriginalColumns.HOUR: hour,
+                                      OriginalColumns.DAY: day,
+                                      OriginalColumns.MONTH: month,
+                                      OriginalColumns.YEAR: year,
+                                      OriginalColumns.SEASON: season}
+
     return formatted_date

@@ -1,8 +1,7 @@
 import re
-from srs.premiership.main.wikipedia.constants.columns import OriginalColumns
 
-# Constant val for replacing br tags with custom string
-BR_REPLACE = "xXx"
+from srs.premiership.main.wikipedia.constants import StringSplitter
+from srs.premiership.main.wikipedia.constants.columns import OriginalColumns
 
 
 def score_formatter(score_data):
@@ -44,8 +43,8 @@ def score_formatter(score_data):
 
     # Removes any after extra time tags that exist in the score data
     if ("a.e.t" in team1_score) | ("a.e.t." in team2_score):
-        team1_score = int(team1_score.split(BR_REPLACE)[0])
-        team2_score = int(team2_score.split(BR_REPLACE)[0])
+        team1_score = int(team1_score.split(StringSplitter.BR_REPLACE)[0])
+        team2_score = int(team2_score.split(StringSplitter.BR_REPLACE)[0])
         extra_time = "Y"
     else:
         extra_time = "N"

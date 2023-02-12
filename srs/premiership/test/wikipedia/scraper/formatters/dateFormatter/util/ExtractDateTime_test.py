@@ -1,6 +1,6 @@
 import unittest
 
-from srs.premiership.main.wikipedia.scraper.formatters.dateFormatter.ExtractDateTime import extract_date_time
+from srs.premiership.main.wikipedia.scraper.formatters.dateFormatter.util.ExtractDateTime import extract_date_time
 
 valid_string_splitter = "xXx"
 

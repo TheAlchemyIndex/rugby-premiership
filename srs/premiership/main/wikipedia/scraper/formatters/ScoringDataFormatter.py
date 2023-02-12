@@ -1,9 +1,6 @@
 import re
 from srs.premiership.main.wikipedia.constants.matchData import ScoringTypes
 
-# Constant val for replacing br tags with custom string
-BR_REPLACE = "xXx"
-
 
 def scoring_data_formatter(scoring_data):
     """Extracts the number of tries, conversions, penalties and drop goals scored by a team.

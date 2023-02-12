@@ -1,6 +1,6 @@
 import unittest
 
-from srs.premiership.main.wikipedia.scraper.formatters.dateFormatter.FormatTime import format_time
+from srs.premiership.main.wikipedia.scraper.formatters.dateFormatter.util.FormatTime import format_time
 
 valid_unformatted_time_1 = "19.45"
 valid_unformatted_time_2 = "19.45pm"

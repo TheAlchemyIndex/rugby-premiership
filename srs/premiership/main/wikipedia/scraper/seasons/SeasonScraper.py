@@ -8,9 +8,6 @@ from srs.premiership.main.wikipedia.scraper.pageHtml.WikiTagExtractor import tag
 from srs.premiership.main.wikipedia.scraper.formatters.dateFormatter.DateFormatter import date_formatter
 from srs.premiership.main.wikipedia.scraper.formatters.MatchDetailsFormatter import match_details_formatter
 
-# Constant val for replacing br tags with custom string
-BR_REPLACE = "xXx"
-
 
 def scrape_results(url):
     """Takes a url, scrapes and parses the html data from it and returns a key: value dictionary of data about
@@ -41,11 +38,13 @@ def scrape_results(url):
         # Extracts scoring data
         try:
             # If scoring data is in index of count + 5, then both teams scored in the match
-            if ("Try" in data[count + 5]) | ("Pen" in data[count + 5]) | ("Con" in data[count + 5]) | ("Drop" in data[count + 5]):
+            if ("Try" in data[count + 5]) | ("Pen" in data[count + 5]) | ("Con" in data[count + 5]) | (
+                    "Drop" in data[count + 5]):
                 team1_scoring_data = data.pop(count + 4)
                 team2_scoring_data = data.pop(count + 4)
             # Otherwise one team didn't score anything
-            elif ("Try" in data[count + 4]) | ("Pen" in data[count + 4]) | ("Con" in data[count + 4]) | ("Drop" in data[count + 4]):
+            elif ("Try" in data[count + 4]) | ("Pen" in data[count + 4]) | ("Con" in data[count + 4]) | (
+                    "Drop" in data[count + 4]):
                 # If team1 scored no points, then the data in index of count + 4 relates to team2
                 if int(team1_points) == 0:
                     team2_scoring_data = data.pop(count + 4)

@@ -1,9 +1,9 @@
 import unittest
 
-from srs.premiership.main.wikipedia.scraper.formatters.dateFormatter.FormatDate import format_date
+from srs.premiership.main.wikipedia.scraper.formatters.dateFormatter.util.FormatDate import format_date
 
-valid_unformatted_date_1 = "10 January 2023"
-expected_formatted_date_1 = "10/Jan/2023"
+valid_unformatted_date_1 = "8 January 2021"
+expected_formatted_date_1 = "08/Jan/2021"
 
 valid_unformatted_date_missing_year_1 = "19 June"
 expected_formatted_date_missing_year_1 = "19/Jun/2021"
@@ -11,8 +11,9 @@ expected_formatted_date_missing_year_1 = "19/Jun/2021"
 valid_unformatted_date_missing_year_2 = "26 June"
 expected_formatted_date_missing_year_2 = "26/Jun/2021"
 
-invalid_unformatted_date = "18-June-2021"
-invalid_unformatted_date_missing_year = "10 June"
+invalid_unformatted_date_1 = "8-January-2021"
+invalid_unformatted_date_2 = "8 January 2021xXx19:45"
+invalid_unformatted_date_missing_year = "8 January"
 
 
 class FormatDateTest(unittest.TestCase):
@@ -32,7 +33,10 @@ class FormatDateTest(unittest.TestCase):
 
     def test_format_date_invalid_date(self):
         self.assertEqual(
-            format_date(invalid_unformatted_date), "N/A"
+            format_date(invalid_unformatted_date_1), "N/A"
+        )
+        self.assertEqual(
+            format_date(invalid_unformatted_date_2), "N/A"
         )
         self.assertEqual(
             format_date(invalid_unformatted_date_missing_year), "N/A"

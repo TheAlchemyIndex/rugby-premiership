@@ -1,8 +1,7 @@
 import requests
 from bs4 import BeautifulSoup
 
-# Constant val for replacing br tags with custom string
-BR_REPLACE = "xXx"
+from srs.premiership.main.wikipedia.constants import StringSplitter
 
 
 def parse(url):
@@ -17,7 +16,7 @@ def parse(url):
 
     # Replaces br tags with custom string
     for br in soup('br'):
-        br.replace_with(BR_REPLACE)
+        br.replace_with(StringSplitter.BR_REPLACE)
 
     # Gets div tags that match class of "vevent summary"
     divs = soup.find_all("div", {"class": "vevent summary"})
