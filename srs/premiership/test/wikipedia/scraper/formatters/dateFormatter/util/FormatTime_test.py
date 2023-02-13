@@ -2,19 +2,19 @@ import unittest
 
 from srs.premiership.main.wikipedia.scraper.formatters.dateFormatter.util.FormatTime import format_time
 
-valid_unformatted_time_1 = "19.45"
-valid_unformatted_time_2 = "19.45pm"
-valid_unformatted_time_3 = "19:45pm"
-valid_unformatted_time_4 = "07.45am"
-valid_unformatted_time_5 = "07:45am"
-valid_unformatted_time_6 = "7.45pm"
-valid_unformatted_time_7 = "7:45pm"
+valid_unformatted_time_1: str = "19.45"
+valid_unformatted_time_2: str = "19.45pm"
+valid_unformatted_time_3: str = "19:45pm"
+valid_unformatted_time_4: str = "07.45am"
+valid_unformatted_time_5: str = "07:45am"
+valid_unformatted_time_6: str = "7.45pm"
+valid_unformatted_time_7: str = "7:45pm"
 
-invalid_unformatted_time_1 = "745"
-invalid_unformatted_time_2 = "745pm"
+invalid_unformatted_time_1: str = "745"
+invalid_unformatted_time_2: str = "745pm"
 
-expected_formatted_time_1 = "19:45"
-expected_formatted_time_2 = "07:45"
+expected_formatted_time_1: str = "19:45"
+expected_formatted_time_2: str = "07:45"
 
 
 class FormatTimeTest(unittest.TestCase):

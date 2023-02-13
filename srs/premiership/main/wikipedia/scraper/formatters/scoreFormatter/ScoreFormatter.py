@@ -2,6 +2,7 @@ import re
 
 from srs.premiership.main.wikipedia.constants import StringSplitter
 from srs.premiership.main.wikipedia.constants.columns import OriginalColumns
+from srs.premiership.main.wikipedia.scraper.formatters.scoreFormatter.util.CleanScore import clean_score
 
 
 def score_formatter(score_data):
@@ -11,8 +12,8 @@ def score_formatter(score_data):
     :return: A key: value dictionary containing the team1_score, team2_score, total_score, result and extra
     time status of a match
     """
-    # Removes any brackets and characters in between if found in the date
-    score_data = re.sub("\[(.*?)\]", "", score_data, flags=re.DOTALL).strip()
+    # Removes any brackets and characters in between if found in the score string
+    score_data = clean_score(score_data)
 
     team1_score = ""
     team2_score = ""
