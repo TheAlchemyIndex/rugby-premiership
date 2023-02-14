@@ -10,6 +10,7 @@ valid_expected_cleaned_date_time_string: str = "8 January 2021xXx19:45"
 invalid_date_time_type_int: int = 10
 invalid_date_time_type_float: float = 1.0
 invalid_date_time_type_bool: bool = True
+invalid_expected_na: str = "N/A"
 
 
 class CleanDateTest(unittest.TestCase):
@@ -31,17 +32,17 @@ class CleanDateTest(unittest.TestCase):
 
     def test_invalid_date_time_type_int(self):
         self.assertEqual(
-            clean_date(invalid_date_time_type_int), "N/A"
+            clean_date(invalid_date_time_type_int), invalid_expected_na
         )
 
     def test_invalid_date_time_type_float(self):
         self.assertEqual(
-            clean_date(invalid_date_time_type_float), "N/A"
+            clean_date(invalid_date_time_type_float), invalid_expected_na
         )
 
     def test_invalid_date_time_type_bool(self):
         self.assertEqual(
-            clean_date(invalid_date_time_type_bool), "N/A"
+            clean_date(invalid_date_time_type_bool), invalid_expected_na
         )
 
 

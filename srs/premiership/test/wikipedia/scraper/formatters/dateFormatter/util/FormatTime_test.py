@@ -15,6 +15,7 @@ invalid_unformatted_time_2: str = "745pm"
 
 expected_formatted_time_1: str = "19:45"
 expected_formatted_time_2: str = "07:45"
+invalid_expected_na: str = "N/A"
 
 
 class FormatTimeTest(unittest.TestCase):
@@ -48,10 +49,10 @@ class FormatTimeTest(unittest.TestCase):
 
     def test_format_time_invalid_time(self):
         self.assertEqual(
-            format_time(invalid_unformatted_time_1), "N/A"
+            format_time(invalid_unformatted_time_1), invalid_expected_na
         )
         self.assertEqual(
-            format_time(invalid_unformatted_time_2), "N/A"
+            format_time(invalid_unformatted_time_2), invalid_expected_na
         )
 
 

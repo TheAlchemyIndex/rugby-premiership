@@ -14,6 +14,7 @@ expected_formatted_date_missing_year_2: str = "26/Jun/2021"
 invalid_unformatted_date_1: str = "8-January-2021"
 invalid_unformatted_date_2: str = "8 January 2021xXx19:45"
 invalid_unformatted_date_missing_year: str = "8 January"
+invalid_expected_na: str = "N/A"
 
 
 class FormatDateTest(unittest.TestCase):
@@ -33,13 +34,13 @@ class FormatDateTest(unittest.TestCase):
 
     def test_format_date_invalid_date(self):
         self.assertEqual(
-            format_date(invalid_unformatted_date_1), "N/A"
+            format_date(invalid_unformatted_date_1), invalid_expected_na
         )
         self.assertEqual(
-            format_date(invalid_unformatted_date_2), "N/A"
+            format_date(invalid_unformatted_date_2), invalid_expected_na
         )
         self.assertEqual(
-            format_date(invalid_unformatted_date_missing_year), "N/A"
+            format_date(invalid_unformatted_date_missing_year), invalid_expected_na
         )
 
 

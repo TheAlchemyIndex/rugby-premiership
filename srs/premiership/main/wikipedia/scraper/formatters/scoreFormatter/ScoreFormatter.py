@@ -1,8 +1,7 @@
-import re
-
 from srs.premiership.main.wikipedia.constants import StringSplitter
 from srs.premiership.main.wikipedia.constants.columns import OriginalColumns
 from srs.premiership.main.wikipedia.scraper.formatters.scoreFormatter.util.CleanScore import clean_score
+from srs.premiership.main.wikipedia.scraper.formatters.scoreFormatter.util.FormatScore import format_score
 
 
 def score_formatter(score_data):
@@ -13,34 +12,13 @@ def score_formatter(score_data):
     time status of a match
     """
     # Removes any brackets and characters in between if found in the score string
-    score_data = clean_score(score_data)
+    score_cleaned = clean_score(score_data)
 
-    team1_score = ""
-    team2_score = ""
+    # Extracts points scored by both teams
+    team1_score, team2_score = format_score(score_cleaned)
+
     result = ""
     result_flipped = ""
-
-    if "Cancelled" in score_data:
-        team1_score = "Cancelled"
-        team2_score = "Cancelled"
-    elif ("P – P" in score_data) or ("P-P" in score_data) or ("P–P" in score_data):
-        team1_score = "Postponed"
-        team2_score = "Postponed"
-    elif score_data == "v":
-        team1_score = "Upcoming"
-        team2_score = "Upcoming"
-    elif " – " in score_data:
-        score_split = score_data.split(" – ")
-        team1_score = score_split[0]
-        team2_score = score_split[1]
-    elif "–" in score_data:
-        score_split = score_data.split("–")
-        team1_score = score_split[0]
-        team2_score = score_split[1]
-    elif "-" in score_data:
-        score_split = score_data.split("-")
-        team1_score = score_split[0]
-        team2_score = score_split[1]
 
     # Removes any after extra time tags that exist in the score data
     if ("a.e.t" in team1_score) | ("a.e.t." in team2_score):

@@ -11,6 +11,7 @@ valid_expected_cleaned_score_string: str = "36 – 40"
 invalid_score_type_int: int = 10
 invalid_score_type_float: float = 1.0
 invalid_score_type_bool: bool = True
+invalid_expected_na: str = "N/A"
 
 
 class CleanScoreTest(unittest.TestCase):
@@ -37,17 +38,17 @@ class CleanScoreTest(unittest.TestCase):
 
     def test_invalid_score_type_int(self):
         self.assertEqual(
-            clean_date(invalid_score_type_int), "N/A"
+            clean_date(invalid_score_type_int), invalid_expected_na
         )
 
     def test_invalid_score_type_float(self):
         self.assertEqual(
-            clean_date(invalid_score_type_float), "N/A"
+            clean_date(invalid_score_type_float), invalid_expected_na
         )
 
     def test_invalid_score_type_bool(self):
         self.assertEqual(
-            clean_date(invalid_score_type_bool), "N/A"
+            clean_date(invalid_score_type_bool), invalid_expected_na
         )
 
 
