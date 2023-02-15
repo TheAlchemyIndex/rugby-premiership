@@ -1,6 +1,7 @@
 from srs.premiership.main.wikipedia.constants import StringSplitter
 from srs.premiership.main.wikipedia.constants.columns import OriginalColumns
 from srs.premiership.main.wikipedia.scraper.formatters.scoreFormatter.util.CleanScore import clean_score
+from srs.premiership.main.wikipedia.scraper.formatters.scoreFormatter.util.FormatExtraTime import format_extra_time
 from srs.premiership.main.wikipedia.scraper.formatters.scoreFormatter.util.FormatScore import format_score
 
 
@@ -21,12 +22,7 @@ def score_formatter(score_data):
     result_flipped = ""
 
     # Removes any after extra time tags that exist in the score data
-    if ("a.e.t" in team1_score) | ("a.e.t." in team2_score):
-        team1_score = int(team1_score.split(StringSplitter.BR_REPLACE)[0])
-        team2_score = int(team2_score.split(StringSplitter.BR_REPLACE)[0])
-        extra_time = "Y"
-    else:
-        extra_time = "N"
+    team1_score, team2_score, extra_time = format_extra_time(team1_score, team2_score, StringSplitter.BR_REPLACE)
 
     # Calculates the total score
     try:

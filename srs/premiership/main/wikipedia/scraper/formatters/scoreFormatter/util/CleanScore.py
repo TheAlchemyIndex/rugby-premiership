@@ -1,7 +1,7 @@
 import re
 
 
-def clean_score(unclean_score_string):
+def clean_score(unclean_score_string: str) -> str:
     """Takes a score string and removes bracket based characters.
 
     :param unclean_score_string: A score string that may contain bracket based characters.
