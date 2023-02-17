@@ -8,7 +8,7 @@ from srs.premiership.main.wikipedia.scraper.formatters.dateFormatter.util.SplitD
     split_date_time_components
 
 
-def date_formatter(date_data, url):
+def date_formatter(date_data: str, url: str) -> dict[str, str]:
     """Takes date information, reformats it and returns it in a key: value dictionary format.
 
     :param date_data: Date information about a match

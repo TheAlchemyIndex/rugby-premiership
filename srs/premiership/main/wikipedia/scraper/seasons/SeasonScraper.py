@@ -6,7 +6,7 @@ from srs.premiership.main.wikipedia.scraper.formatters.TeamNameFormatter import 
 from srs.premiership.main.wikipedia.scraper.formatters.scoreFormatter.ScoreFormatter import score_formatter
 from srs.premiership.main.wikipedia.scraper.pageHtml.WikiTagExtractor import tag_extractor
 from srs.premiership.main.wikipedia.scraper.formatters.dateFormatter.DateFormatter import date_formatter
-from srs.premiership.main.wikipedia.scraper.formatters.MatchDetailsFormatter import match_details_formatter
+from srs.premiership.main.wikipedia.scraper.formatters.matchDetailsFormatter.MatchDetailsFormatter import match_details_formatter
 
 
 def scrape_results(url):
