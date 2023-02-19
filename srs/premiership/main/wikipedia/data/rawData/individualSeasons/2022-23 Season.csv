@@ -37,8 +37,8 @@
 25/Sep/2022,15:00,Harlequins,42,Exeter,43,Sandy Park,away,Ian Tempest,85,L,N,15,Sun,Sep,2022,2022-23,2,1,6,6,0,0,6,5,1,0
 30/Sep/2022,19:45,Newcastle,30,Bristol,15,Kingston Park,home,Luke Pearce,45,W,N,19,Fri,Sep,2022,2022-23,1,0,4,2,2,0,2,1,1,0
 30/Sep/2022,19:45,Bristol,15,Newcastle,30,Kingston Park,away,Luke Pearce,45,L,N,19,Fri,Sep,2022,2022-23,0,1,2,1,1,0,4,2,2,0
-01/Oct/2022,15:00,Gloucester,Cancelled,Worcester,Cancelled,Kingsholm,home,Unknown,N/A,N/A,N,15,Sat,Oct,2022,2022-23,0,0,0,0,0,0,0,0,0,0
-01/Oct/2022,15:00,Worcester,Cancelled,Gloucester,Cancelled,Kingsholm,away,Unknown,N/A,N/A,N,15,Sat,Oct,2022,2022-23,0,0,0,0,0,0,0,0,0,0
+01/Oct/2022,15:00,Gloucester,Cancelled,Worcester,Cancelled,Kingsholm,home,N/A,N/A,N/A,N,15,Sat,Oct,2022,2022-23,0,0,0,0,0,0,0,0,0,0
+01/Oct/2022,15:00,Worcester,Cancelled,Gloucester,Cancelled,Kingsholm,away,N/A,N/A,N/A,N,15,Sat,Oct,2022,2022-23,0,0,0,0,0,0,0,0,0,0
 01/Oct/2022,15:00,London Irish,47,Bath,38,Gtech Community Stadium,home,Karl Dickson,85,W,N,15,Sat,Oct,2022,2022-23,1,1,7,6,0,0,6,4,0,0
 01/Oct/2022,15:00,Bath,38,London Irish,47,Gtech Community Stadium,away,Karl Dickson,85,L,N,15,Sat,Oct,2022,2022-23,1,1,6,4,0,0,7,6,0,0
 01/Oct/2022,15:00,Sale,28,Exeter,20,AJ Bell Stadium,home,Wayne Barnes,48,W,N,15,Sat,Oct,2022,2022-23,0,0,3,2,3,0,2,2,2,0
@@ -53,16 +53,16 @@
 08/Oct/2022,15:00,Gloucester,21,Bath,17,Recreation Ground,away,Tom Foley,38,W,N,15,Sat,Oct,2022,2022-23,0,1,3,3,0,0,3,1,0,0
 08/Oct/2022,15:00,Leicester,16,Sale,26,Welford Road,home,Luke Pearce,42,L,N,15,Sat,Oct,2022,2022-23,0,1,1,1,3,0,4,3,0,0
 08/Oct/2022,15:00,Sale,26,Leicester,16,Welford Road,away,Luke Pearce,42,W,N,15,Sat,Oct,2022,2022-23,1,0,4,3,0,0,1,1,3,0
-08/Oct/2022,15:00,Worcester,Cancelled,Harlequins,Cancelled,Sixways,home,Unknown,N/A,N/A,N,15,Sat,Oct,2022,2022-23,0,0,0,0,0,0,0,0,0,0
-08/Oct/2022,15:00,Harlequins,Cancelled,Worcester,Cancelled,Sixways,away,Unknown,N/A,N/A,N,15,Sat,Oct,2022,2022-23,0,0,0,0,0,0,0,0,0,0
+08/Oct/2022,15:00,Worcester,Cancelled,Harlequins,Cancelled,Sixways,home,N/A,N/A,N/A,N,15,Sat,Oct,2022,2022-23,0,0,0,0,0,0,0,0,0,0
+08/Oct/2022,15:00,Harlequins,Cancelled,Worcester,Cancelled,Sixways,away,N/A,N/A,N/A,N,15,Sat,Oct,2022,2022-23,0,0,0,0,0,0,0,0,0,0
 09/Oct/2022,15:00,Newcastle,14,Saracens,34,Kingston Park,home,Wayne Barnes,48,L,N,15,Sun,Oct,2022,2022-23,0,1,2,2,0,0,5,3,1,0
 09/Oct/2022,15:00,Saracens,34,Newcastle,14,Kingston Park,away,Wayne Barnes,48,W,N,15,Sun,Oct,2022,2022-23,1,0,5,3,1,0,2,2,0,0
 09/Oct/2022,15:00,Wasps,36,Northampton,40,Coventry Building Society Arena,home,Adam Leal,76,L,N,15,Sun,Oct,2022,2022-23,2,1,4,2,4,0,5,2,3,0
 09/Oct/2022,15:00,Northampton,40,Wasps,36,Coventry Building Society Arena,away,Adam Leal,76,W,N,15,Sun,Oct,2022,2022-23,1,2,5,2,3,0,4,2,4,0
 14/Oct/2022,19:45,Sale,37,London Irish,14,AJ Bell Stadium,home,Karl Dickson,51,W,N,19,Fri,Oct,2022,2022-23,1,0,5,3,2,0,2,2,0,0
 14/Oct/2022,19:45,London Irish,14,Sale,37,AJ Bell Stadium,away,Karl Dickson,51,L,N,19,Fri,Oct,2022,2022-23,0,1,2,2,0,0,5,3,2,0
-15/Oct/2022,15:00,Exeter,Cancelled,Wasps,Cancelled,Sandy Park,home,Unknown,N/A,N/A,N,15,Sat,Oct,2022,2022-23,0,0,0,0,0,0,0,0,0,0
-15/Oct/2022,15:00,Wasps,Cancelled,Exeter,Cancelled,Sandy Park,away,Unknown,N/A,N/A,N,15,Sat,Oct,2022,2022-23,0,0,0,0,0,0,0,0,0,0
+15/Oct/2022,15:00,Exeter,Cancelled,Wasps,Cancelled,Sandy Park,home,N/A,N/A,N/A,N,15,Sat,Oct,2022,2022-23,0,0,0,0,0,0,0,0,0,0
+15/Oct/2022,15:00,Wasps,Cancelled,Exeter,Cancelled,Sandy Park,away,N/A,N/A,N/A,N,15,Sat,Oct,2022,2022-23,0,0,0,0,0,0,0,0,0,0
 15/Oct/2022,15:00,Gloucester,31,Bristol,28,Kingsholm,home,Wayne Barnes,59,W,N,15,Sat,Oct,2022,2022-23,1,2,4,4,1,0,4,4,0,0
 15/Oct/2022,15:00,Bristol,28,Gloucester,31,Kingsholm,away,Wayne Barnes,59,L,N,15,Sat,Oct,2022,2022-23,2,1,4,4,0,0,4,4,1,0
 15/Oct/2022,15:00,Northampton,32,Newcastle,31,Franklin's Gardens,home,Jack Makepeace,63,W,N,15,Sat,Oct,2022,2022-23,1,2,5,2,1,0,5,3,0,0
@@ -77,8 +77,8 @@
 22/Oct/2022,15:00,Northampton,14,Bath,27,Recreation Ground,away,Anthony Woodthorpe,41,L,N,15,Sat,Oct,2022,2022-23,0,0,2,2,0,0,3,3,2,0
 22/Oct/2022,15:00,Exeter,20,Saracens,22,Sandy Park,home,Tom Foley,42,L,N,15,Sat,Oct,2022,2022-23,1,0,2,1,2,0,1,1,5,0
 22/Oct/2022,15:00,Saracens,22,Exeter,20,Sandy Park,away,Tom Foley,42,W,N,15,Sat,Oct,2022,2022-23,0,1,1,1,5,0,2,1,2,0
-23/Oct/2022,15:00,Leicester,Cancelled,Wasps,Cancelled,Welford Road,home,Unknown,N/A,N/A,N,15,Sun,Oct,2022,2022-23,0,0,0,0,0,0,0,0,0,0
-23/Oct/2022,15:00,Wasps,Cancelled,Leicester,Cancelled,Welford Road,away,Unknown,N/A,N/A,N,15,Sun,Oct,2022,2022-23,0,0,0,0,0,0,0,0,0,0
+23/Oct/2022,15:00,Leicester,Cancelled,Wasps,Cancelled,Welford Road,home,N/A,N/A,N/A,N,15,Sun,Oct,2022,2022-23,0,0,0,0,0,0,0,0,0,0
+23/Oct/2022,15:00,Wasps,Cancelled,Leicester,Cancelled,Welford Road,away,N/A,N/A,N/A,N,15,Sun,Oct,2022,2022-23,0,0,0,0,0,0,0,0,0,0
 23/Oct/2022,15:00,Sale,13,Harlequins,29,AJ Bell Stadium,home,Christophe Ridley,42,L,N,15,Sun,Oct,2022,2022-23,0,0,1,1,2,0,2,2,5,0
 23/Oct/2022,15:00,Harlequins,29,Sale,13,AJ Bell Stadium,away,Christophe Ridley,42,W,N,15,Sun,Oct,2022,2022-23,0,0,2,2,5,0,1,1,2,0
 28/Oct/2022,19:45,Gloucester,38,Exeter,22,Kingsholm,home,Adam Leal,60,W,N,19,Fri,Oct,2022,2022-23,1,0,6,4,0,0,3,2,1,0
@@ -161,63 +161,63 @@
 28/Jan/2023,16:30,Gloucester,17,Exeter,24,Sandy Park,away,Tom Foley,41,L,N,16,Fri,Jan,2022,2022-23,1,0,2,2,1,0,3,3,1,0
 29/Jan/2023,15:00,London Irish,42,Harlequins,24,Gtech Community Stadium,home,Matthew Carley,66,W,N,15,Sat,Jan,2022,2022-23,1,1,6,6,0,0,4,1,0,0
 29/Jan/2023,15:00,Harlequins,24,London Irish,42,Gtech Community Stadium,away,Matthew Carley,66,L,N,15,Sat,Jan,2022,2022-23,1,1,4,1,0,0,6,6,0,0
-17/Feb/2023,19:45,Bristol,Upcoming,Newcastle,Upcoming,Ashton Gate,home,Unknown,N/A,N/A,N,19,Fri,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-17/Feb/2023,19:45,Newcastle,Upcoming,Bristol,Upcoming,Ashton Gate,away,Unknown,N/A,N/A,N,19,Fri,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-17/Feb/2023,19:45,Gloucester,Upcoming,Harlequins,Upcoming,Kingsholm,home,Unknown,N/A,N/A,N,19,Fri,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-17/Feb/2023,19:45,Harlequins,Upcoming,Gloucester,Upcoming,Kingsholm,away,Unknown,N/A,N/A,N,19,Fri,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-18/Feb/2023,15:00,Bath,Upcoming,London Irish,Upcoming,Recreation Ground,home,Unknown,N/A,N/A,N,15,Sat,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-18/Feb/2023,15:00,London Irish,Upcoming,Bath,Upcoming,Recreation Ground,away,Unknown,N/A,N/A,N,15,Sat,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-18/Feb/2023,15:00,Northampton,Upcoming,Sale,Upcoming,Franklin's Gardens,home,Unknown,N/A,N/A,N,15,Sat,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-18/Feb/2023,15:00,Sale,Upcoming,Northampton,Upcoming,Franklin's Gardens,away,Unknown,N/A,N/A,N,15,Sat,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-19/Feb/2023,15:00,Leicester,Upcoming,Saracens,Upcoming,Welford Road,home,Unknown,N/A,N/A,N,15,Sun,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-19/Feb/2023,15:00,Saracens,Upcoming,Leicester,Upcoming,Welford Road,away,Unknown,N/A,N/A,N,15,Sun,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-24/Feb/2023,19:45,Bath,Upcoming,Bristol,Upcoming,Recreation Ground,home,Unknown,N/A,N/A,N,19,Fri,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-24/Feb/2023,19:45,Bristol,Upcoming,Bath,Upcoming,Recreation Ground,away,Unknown,N/A,N/A,N,19,Fri,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-25/Feb/2023,14:30,Saracens,Upcoming,Newcastle,Upcoming,StoneX Stadium,home,Unknown,N/A,N/A,N,14,Sat,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-25/Feb/2023,14:30,Newcastle,Upcoming,Saracens,Upcoming,StoneX Stadium,away,Unknown,N/A,N/A,N,14,Sat,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-25/Feb/2023,14:45,Northampton,Upcoming,Gloucester,Upcoming,Franklin's Gardens,home,Unknown,N/A,N/A,N,14,Sat,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-25/Feb/2023,14:45,Gloucester,Upcoming,Northampton,Upcoming,Franklin's Gardens,away,Unknown,N/A,N/A,N,14,Sat,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-25/Feb/2022,19:30,London Irish,Upcoming,Leicester,Upcoming,Gtech Community Stadium,home,Unknown,N/A,N/A,N,19,Fri,Feb,2022,2022-23,0,0,0,0,0,0,0,0,0,0
-25/Feb/2022,19:30,Leicester,Upcoming,London Irish,Upcoming,Gtech Community Stadium,away,Unknown,N/A,N/A,N,19,Fri,Feb,2022,2022-23,0,0,0,0,0,0,0,0,0,0
-26/Feb/2023,13:00,Exeter,Upcoming,Sale,Upcoming,Sandy Park,home,Unknown,N/A,N/A,N,13,Sun,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-26/Feb/2023,13:00,Sale,Upcoming,Exeter,Upcoming,Sandy Park,away,Unknown,N/A,N/A,N,13,Sun,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-03/Mar/2023,19:45,Bristol,Upcoming,Northampton,Upcoming,Ashton Gate,home,Unknown,N/A,N/A,N,19,Fri,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-03/Mar/2023,19:45,Northampton,Upcoming,Bristol,Upcoming,Ashton Gate,away,Unknown,N/A,N/A,N,19,Fri,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-04/Mar/2023,15:00,Harlequins,Upcoming,Exeter,Upcoming,Twickenham[o],home,Unknown,N/A,N/A,N,15,Sat,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-04/Mar/2023,15:00,Exeter,Upcoming,Harlequins,Upcoming,Twickenham[o],away,Unknown,N/A,N/A,N,15,Sat,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-04/Mar/2023,15:00,Leicester,Upcoming,Bath,Upcoming,Welford Road,home,Unknown,N/A,N/A,N,15,Sat,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-04/Mar/2023,15:00,Bath,Upcoming,Leicester,Upcoming,Welford Road,away,Unknown,N/A,N/A,N,15,Sat,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-05/Mar/2023,15:00,Sale,Upcoming,Saracens,Upcoming,AJ Bell Stadium,home,Unknown,N/A,N/A,N,15,Sun,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-05/Mar/2023,15:00,Saracens,Upcoming,Sale,Upcoming,AJ Bell Stadium,away,Unknown,N/A,N/A,N,15,Sun,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-05/Mar/2023,15:00,Newcastle,Upcoming,London Irish,Upcoming,Kingston Park,home,Unknown,N/A,N/A,N,15,Sun,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-05/Mar/2023,15:00,London Irish,Upcoming,Newcastle,Upcoming,Kingston Park,away,Unknown,N/A,N/A,N,15,Sun,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-10/Mar/2023,19:45,Northampton,Upcoming,Bath,Upcoming,Franklin's Gardens,home,Unknown,N/A,N/A,N,19,Fri,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-10/Mar/2023,19:45,Bath,Upcoming,Northampton,Upcoming,Franklin's Gardens,away,Unknown,N/A,N/A,N,19,Fri,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-11/Mar/2023,14:30,Exeter,Upcoming,Newcastle,Upcoming,Sandy Park,home,Unknown,N/A,N/A,N,14,Sat,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-11/Mar/2023,14:30,Newcastle,Upcoming,Exeter,Upcoming,Sandy Park,away,Unknown,N/A,N/A,N,14,Sat,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-12/Mar/2023,13:00,London Irish,Upcoming,Sale,Upcoming,Gtech Community Stadium,home,Unknown,N/A,N/A,N,13,Sun,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-12/Mar/2023,13:00,Sale,Upcoming,London Irish,Upcoming,Gtech Community Stadium,away,Unknown,N/A,N/A,N,13,Sun,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-12/Mar/2023,13:00,Gloucester,Upcoming,Leicester,Upcoming,Kingsholm,home,Unknown,N/A,N/A,N,13,Sun,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-12/Mar/2023,13:00,Leicester,Upcoming,Gloucester,Upcoming,Kingsholm,away,Unknown,N/A,N/A,N,13,Sun,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-12/Mar/2023,15:00,Bristol,Upcoming,Harlequins,Upcoming,Ashton Gate,home,Unknown,N/A,N/A,N,15,Sun,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-12/Mar/2023,15:00,Harlequins,Upcoming,Bristol,Upcoming,Ashton Gate,away,Unknown,N/A,N/A,N,15,Sun,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-24/Mar/2023,19:45,Newcastle,Upcoming,Gloucester,Upcoming,Kingston Park,home,Unknown,N/A,N/A,N,19,Fri,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-24/Mar/2023,19:45,Gloucester,Upcoming,Newcastle,Upcoming,Kingston Park,away,Unknown,N/A,N/A,N,19,Fri,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-25/Mar/2023,12:30,Leicester,Upcoming,Bristol,Upcoming,Welford Road,home,Unknown,N/A,N/A,N,12,Sat,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-25/Mar/2023,12:30,Bristol,Upcoming,Leicester,Upcoming,Welford Road,away,Unknown,N/A,N/A,N,12,Sat,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-25/Mar/2023,15:00,Saracens,Upcoming,Harlequins,Upcoming,Tottenham Hotspur Stadium[d],home,Unknown,N/A,N/A,N,15,Sat,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-25/Mar/2023,15:00,Harlequins,Upcoming,Saracens,Upcoming,Tottenham Hotspur Stadium[d],away,Unknown,N/A,N/A,N,15,Sat,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-25/Mar/2023,17:30,London Irish,Upcoming,Northampton,Upcoming,Gtech Community Stadium,home,Unknown,N/A,N/A,N,17,Sat,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-25/Mar/2023,17:30,Northampton,Upcoming,London Irish,Upcoming,Gtech Community Stadium,away,Unknown,N/A,N/A,N,17,Sat,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-26/Mar/2023,15:00,Bath,Upcoming,Exeter,Upcoming,Recreation Ground,home,Unknown,N/A,N/A,N,15,Sun,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-26/Mar/2023,15:00,Exeter,Upcoming,Bath,Upcoming,Recreation Ground,away,Unknown,N/A,N/A,N,15,Sun,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-14/Apr/2023,19:45,Bristol,Upcoming,Sale,Upcoming,Ashton Gate,home,Unknown,N/A,N/A,N,19,Fri,Apr,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-14/Apr/2023,19:45,Sale,Upcoming,Bristol,Upcoming,Ashton Gate,away,Unknown,N/A,N/A,N,19,Fri,Apr,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-14/Apr/2023,19:45,Gloucester,Upcoming,Bath,Upcoming,Kingsholm,home,Unknown,N/A,N/A,N,19,Fri,Apr,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-14/Apr/2023,19:45,Bath,Upcoming,Gloucester,Upcoming,Kingsholm,away,Unknown,N/A,N/A,N,19,Fri,Apr,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-15/Apr/2023,15:00,Harlequins,Upcoming,Newcastle,Upcoming,Twickenham Stoop,home,Unknown,N/A,N/A,N,15,Sat,Apr,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-15/Apr/2023,15:00,Newcastle,Upcoming,Harlequins,Upcoming,Twickenham Stoop,away,Unknown,N/A,N/A,N,15,Sat,Apr,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-15/Apr/2023,15:00,Northampton,Upcoming,Saracens,Upcoming,Franklin's Gardens,home,Unknown,N/A,N/A,N,15,Sat,Apr,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-15/Apr/2023,15:00,Saracens,Upcoming,Northampton,Upcoming,Franklin's Gardens,away,Unknown,N/A,N/A,N,15,Sat,Apr,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-16/Apr/2023,15:00,Leicester,Upcoming,Exeter,Upcoming,Welford Road,home,Unknown,N/A,N/A,N,15,Sun,Apr,2023,2022-23,0,0,0,0,0,0,0,0,0,0
-16/Apr/2023,15:00,Exeter,Upcoming,Leicester,Upcoming,Welford Road,away,Unknown,N/A,N/A,N,15,Sun,Apr,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+17/Feb/2023,19:45,Bristol,30,Newcastle,12,Ashton Gate,home,Karl Dickson,42,W,N,19,Fri,Feb,2023,2022-23,1,0,4,2,2,0,2,1,0,0
+17/Feb/2023,19:45,Newcastle,12,Bristol,30,Ashton Gate,away,Karl Dickson,42,L,N,19,Fri,Feb,2023,2022-23,0,1,2,1,0,0,4,2,2,0
+17/Feb/2023,19:45,Gloucester,28,Harlequins,26,Kingsholm,home,Luke Pearce,54,W,N,19,Fri,Feb,2023,2022-23,1,2,4,4,0,0,4,3,0,0
+17/Feb/2023,19:45,Harlequins,26,Gloucester,28,Kingsholm,away,Luke Pearce,54,L,N,19,Fri,Feb,2023,2022-23,2,1,4,3,0,0,4,4,0,0
+18/Feb/2023,15:00,Bath,10,London Irish,25,Recreation Ground,home,Anthony Woodthorpe,35,L,N,15,Sat,Feb,2023,2022-23,0,0,1,1,1,0,3,2,2,0
+18/Feb/2023,15:00,London Irish,25,Bath,10,Recreation Ground,away,Anthony Woodthorpe,35,W,N,15,Sat,Feb,2023,2022-23,0,0,3,2,2,0,1,1,1,0
+18/Feb/2023,15:00,Northampton,38,Sale,34,Franklin's Gardens,home,Ian Tempest,72,W,N,15,Sat,Feb,2023,2022-23,1,2,6,3,0,0,5,3,1,0
+18/Feb/2023,15:00,Sale,34,Northampton,38,Franklin's Gardens,away,Ian Tempest,72,L,N,15,Sat,Feb,2023,2022-23,2,1,5,3,1,0,6,3,0,0
+19/Feb/2023,15:00,Leicester,Upcoming,Saracens,Upcoming,Welford Road,home,Tom Foley,N/A,N/A,N,15,Sun,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+19/Feb/2023,15:00,Saracens,Upcoming,Leicester,Upcoming,Welford Road,away,Tom Foley,N/A,N/A,N,15,Sun,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+24/Feb/2023,19:45,Bath,Upcoming,Bristol,Upcoming,Recreation Ground,home,N/A,N/A,N/A,N,19,Fri,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+24/Feb/2023,19:45,Bristol,Upcoming,Bath,Upcoming,Recreation Ground,away,N/A,N/A,N/A,N,19,Fri,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+25/Feb/2023,14:30,Saracens,Upcoming,Newcastle,Upcoming,StoneX Stadium,home,N/A,N/A,N/A,N,14,Sat,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+25/Feb/2023,14:30,Newcastle,Upcoming,Saracens,Upcoming,StoneX Stadium,away,N/A,N/A,N/A,N,14,Sat,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+25/Feb/2023,14:45,Northampton,Upcoming,Gloucester,Upcoming,Franklin's Gardens,home,N/A,N/A,N/A,N,14,Sat,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+25/Feb/2023,14:45,Gloucester,Upcoming,Northampton,Upcoming,Franklin's Gardens,away,N/A,N/A,N/A,N,14,Sat,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+25/Feb/2022,19:30,London Irish,Upcoming,Leicester,Upcoming,Gtech Community Stadium,home,N/A,N/A,N/A,N,19,Fri,Feb,2022,2022-23,0,0,0,0,0,0,0,0,0,0
+25/Feb/2022,19:30,Leicester,Upcoming,London Irish,Upcoming,Gtech Community Stadium,away,N/A,N/A,N/A,N,19,Fri,Feb,2022,2022-23,0,0,0,0,0,0,0,0,0,0
+26/Feb/2023,13:00,Exeter,Upcoming,Sale,Upcoming,Sandy Park,home,N/A,N/A,N/A,N,13,Sun,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+26/Feb/2023,13:00,Sale,Upcoming,Exeter,Upcoming,Sandy Park,away,N/A,N/A,N/A,N,13,Sun,Feb,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+03/Mar/2023,19:45,Bristol,Upcoming,Northampton,Upcoming,Ashton Gate,home,N/A,N/A,N/A,N,19,Fri,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+03/Mar/2023,19:45,Northampton,Upcoming,Bristol,Upcoming,Ashton Gate,away,N/A,N/A,N/A,N,19,Fri,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+04/Mar/2023,15:00,Harlequins,Upcoming,Exeter,Upcoming,Twickenham[o],home,N/A,N/A,N/A,N,15,Sat,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+04/Mar/2023,15:00,Exeter,Upcoming,Harlequins,Upcoming,Twickenham[o],away,N/A,N/A,N/A,N,15,Sat,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+04/Mar/2023,15:00,Leicester,Upcoming,Bath,Upcoming,Welford Road,home,N/A,N/A,N/A,N,15,Sat,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+04/Mar/2023,15:00,Bath,Upcoming,Leicester,Upcoming,Welford Road,away,N/A,N/A,N/A,N,15,Sat,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+05/Mar/2023,15:00,Sale,Upcoming,Saracens,Upcoming,AJ Bell Stadium,home,N/A,N/A,N/A,N,15,Sun,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+05/Mar/2023,15:00,Saracens,Upcoming,Sale,Upcoming,AJ Bell Stadium,away,N/A,N/A,N/A,N,15,Sun,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+05/Mar/2023,15:00,Newcastle,Upcoming,London Irish,Upcoming,Kingston Park,home,N/A,N/A,N/A,N,15,Sun,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+05/Mar/2023,15:00,London Irish,Upcoming,Newcastle,Upcoming,Kingston Park,away,N/A,N/A,N/A,N,15,Sun,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+10/Mar/2023,19:45,Northampton,Upcoming,Bath,Upcoming,Franklin's Gardens,home,N/A,N/A,N/A,N,19,Fri,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+10/Mar/2023,19:45,Bath,Upcoming,Northampton,Upcoming,Franklin's Gardens,away,N/A,N/A,N/A,N,19,Fri,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+11/Mar/2023,14:30,Exeter,Upcoming,Newcastle,Upcoming,Sandy Park,home,N/A,N/A,N/A,N,14,Sat,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+11/Mar/2023,14:30,Newcastle,Upcoming,Exeter,Upcoming,Sandy Park,away,N/A,N/A,N/A,N,14,Sat,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+12/Mar/2023,13:00,London Irish,Upcoming,Sale,Upcoming,Gtech Community Stadium,home,N/A,N/A,N/A,N,13,Sun,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+12/Mar/2023,13:00,Sale,Upcoming,London Irish,Upcoming,Gtech Community Stadium,away,N/A,N/A,N/A,N,13,Sun,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+12/Mar/2023,13:00,Gloucester,Upcoming,Leicester,Upcoming,Kingsholm,home,N/A,N/A,N/A,N,13,Sun,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+12/Mar/2023,13:00,Leicester,Upcoming,Gloucester,Upcoming,Kingsholm,away,N/A,N/A,N/A,N,13,Sun,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+12/Mar/2023,15:00,Bristol,Upcoming,Harlequins,Upcoming,Ashton Gate,home,N/A,N/A,N/A,N,15,Sun,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+12/Mar/2023,15:00,Harlequins,Upcoming,Bristol,Upcoming,Ashton Gate,away,N/A,N/A,N/A,N,15,Sun,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+24/Mar/2023,19:45,Newcastle,Upcoming,Gloucester,Upcoming,Kingston Park,home,N/A,N/A,N/A,N,19,Fri,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+24/Mar/2023,19:45,Gloucester,Upcoming,Newcastle,Upcoming,Kingston Park,away,N/A,N/A,N/A,N,19,Fri,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+25/Mar/2023,12:30,Leicester,Upcoming,Bristol,Upcoming,Welford Road,home,N/A,N/A,N/A,N,12,Sat,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+25/Mar/2023,12:30,Bristol,Upcoming,Leicester,Upcoming,Welford Road,away,N/A,N/A,N/A,N,12,Sat,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+25/Mar/2023,15:00,Saracens,Upcoming,Harlequins,Upcoming,Tottenham Hotspur Stadium[d],home,N/A,N/A,N/A,N,15,Sat,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+25/Mar/2023,15:00,Harlequins,Upcoming,Saracens,Upcoming,Tottenham Hotspur Stadium[d],away,N/A,N/A,N/A,N,15,Sat,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+25/Mar/2023,17:30,London Irish,Upcoming,Northampton,Upcoming,Gtech Community Stadium,home,N/A,N/A,N/A,N,17,Sat,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+25/Mar/2023,17:30,Northampton,Upcoming,London Irish,Upcoming,Gtech Community Stadium,away,N/A,N/A,N/A,N,17,Sat,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+26/Mar/2023,15:00,Bath,Upcoming,Exeter,Upcoming,Recreation Ground,home,N/A,N/A,N/A,N,15,Sun,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+26/Mar/2023,15:00,Exeter,Upcoming,Bath,Upcoming,Recreation Ground,away,N/A,N/A,N/A,N,15,Sun,Mar,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+14/Apr/2023,19:45,Bristol,Upcoming,Sale,Upcoming,Ashton Gate,home,N/A,N/A,N/A,N,19,Fri,Apr,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+14/Apr/2023,19:45,Sale,Upcoming,Bristol,Upcoming,Ashton Gate,away,N/A,N/A,N/A,N,19,Fri,Apr,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+14/Apr/2023,19:45,Gloucester,Upcoming,Bath,Upcoming,Kingsholm,home,N/A,N/A,N/A,N,19,Fri,Apr,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+14/Apr/2023,19:45,Bath,Upcoming,Gloucester,Upcoming,Kingsholm,away,N/A,N/A,N/A,N,19,Fri,Apr,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+15/Apr/2023,15:00,Harlequins,Upcoming,Newcastle,Upcoming,Twickenham Stoop,home,N/A,N/A,N/A,N,15,Sat,Apr,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+15/Apr/2023,15:00,Newcastle,Upcoming,Harlequins,Upcoming,Twickenham Stoop,away,N/A,N/A,N/A,N,15,Sat,Apr,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+15/Apr/2023,15:00,Northampton,Upcoming,Saracens,Upcoming,Franklin's Gardens,home,N/A,N/A,N/A,N,15,Sat,Apr,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+15/Apr/2023,15:00,Saracens,Upcoming,Northampton,Upcoming,Franklin's Gardens,away,N/A,N/A,N/A,N,15,Sat,Apr,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+16/Apr/2023,15:00,Leicester,Upcoming,Exeter,Upcoming,Welford Road,home,N/A,N/A,N/A,N,15,Sun,Apr,2023,2022-23,0,0,0,0,0,0,0,0,0,0
+16/Apr/2023,15:00,Exeter,Upcoming,Leicester,Upcoming,Welford Road,away,N/A,N/A,N/A,N,15,Sun,Apr,2023,2022-23,0,0,0,0,0,0,0,0,0,0

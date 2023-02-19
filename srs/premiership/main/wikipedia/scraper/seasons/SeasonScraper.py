@@ -1,6 +1,6 @@
 from srs.premiership.main.wikipedia.constants.matchData import Teams, ScoringTypes
 from srs.premiership.main.wikipedia.constants.columns import OriginalColumns
-from srs.premiership.main.wikipedia.scraper.formatters.ScoringDataFormatter import scoring_data_formatter
+from srs.premiership.main.wikipedia.scraper.formatters.scoringDataFormatter.ScoringDataFormatter import scoring_data_formatter
 from srs.premiership.main.wikipedia.scraper.pageHtml.WikiHtmlParser import parse
 from srs.premiership.main.wikipedia.scraper.formatters.TeamNameFormatter import team_name_formatter
 from srs.premiership.main.wikipedia.scraper.formatters.scoreFormatter.ScoreFormatter import score_formatter
