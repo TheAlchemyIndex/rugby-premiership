@@ -2,7 +2,7 @@ from srs.premiership.main.wikipedia.constants.matchData import Teams, ScoringTyp
 from srs.premiership.main.wikipedia.constants.columns import OriginalColumns
 from srs.premiership.main.wikipedia.scraper.formatters.scoringDataFormatter.ScoringDataFormatter import scoring_data_formatter
 from srs.premiership.main.wikipedia.scraper.pageHtml.WikiHtmlParser import parse
-from srs.premiership.main.wikipedia.scraper.formatters.TeamNameFormatter import team_name_formatter
+from srs.premiership.main.wikipedia.scraper.formatters.teamNameFormatter.TeamNameFormatter import team_name_formatter
 from srs.premiership.main.wikipedia.scraper.formatters.scoreFormatter.ScoreFormatter import score_formatter
 from srs.premiership.main.wikipedia.scraper.pageHtml.WikiTagExtractor import tag_extractor
 from srs.premiership.main.wikipedia.scraper.formatters.dateFormatter.DateFormatter import date_formatter
@@ -88,10 +88,8 @@ def scrape_results(url):
         referee = extract_match_details[OriginalColumns.REFEREE]
 
         # Extracts team and bonus point information
-        team1_name = team_name_formatter(data[count + 1])[0]
-        team2_name = team_name_formatter(data[count + 3])[0]
-        team1_bps = team_name_formatter(data[count + 1])[1]
-        team2_bps = team_name_formatter(data[count + 3])[1]
+        team1_name, team1_bps = team_name_formatter(data[count + 1])
+        team2_name, team2_bps = team_name_formatter(data[count + 3])
 
         # Fixes any incorrect match data - based on manual inspection of Wikipedia
         if (date == "02/Sep/2016") & (team1_name == Teams.WASPS) & (team2_name == Teams.SALE):
