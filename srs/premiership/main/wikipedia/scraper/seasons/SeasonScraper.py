@@ -1,12 +1,15 @@
-from srs.premiership.main.wikipedia.constants.matchData import Teams, ScoringTypes
+from srs.premiership.main.wikipedia.constants.matchData import Teams, ScoringTypes, TeamTypes
 from srs.premiership.main.wikipedia.constants.columns import OriginalColumns
-from srs.premiership.main.wikipedia.scraper.formatters.scoringDataFormatter.ScoringDataFormatter import scoring_data_formatter
+from srs.premiership.main.wikipedia.scraper.formatters.scoringDataFormatter.ScoringDataFormatter import \
+    scoring_data_formatter
 from srs.premiership.main.wikipedia.scraper.pageHtml.HtmlParser import parse
-from srs.premiership.main.wikipedia.scraper.formatters.teamNameFormatter.TeamNameFormatter import team_name_formatter
+from srs.premiership.main.wikipedia.scraper.formatters.teamNameFormatter.TeamNameFormatter import \
+    team_name_formatter
 from srs.premiership.main.wikipedia.scraper.formatters.scoreFormatter.ScoreFormatter import score_formatter
 from srs.premiership.main.wikipedia.scraper.pageHtml.TagExtractor import extract_tags
 from srs.premiership.main.wikipedia.scraper.formatters.dateFormatter.DateFormatter import date_formatter
-from srs.premiership.main.wikipedia.scraper.formatters.matchDetailsFormatter.MatchDetailsFormatter import match_details_formatter
+from srs.premiership.main.wikipedia.scraper.formatters.matchDetailsFormatter.MatchDetailsFormatter import \
+    match_details_formatter
 
 
 def scrape_results(url):
@@ -26,7 +29,7 @@ def scrape_results(url):
     count = 0
 
     while count < len(data):
-        # Extracts points information
+        # Extracts match result information
         score = score_formatter(data[count + 2])
         team1_points = score[OriginalColumns.TEAM1_POINTS]
         team2_points = score[OriginalColumns.TEAM2_POINTS]
@@ -150,7 +153,7 @@ def scrape_results(url):
                       OriginalColumns.TEAM2_NAME: team2_name,
                       OriginalColumns.TEAM2_POINTS: team2_points,
                       OriginalColumns.VENUE: venue,
-                      OriginalColumns.TEAM_TYPE: "home",
+                      OriginalColumns.TEAM_TYPE: TeamTypes.HOME,
                       OriginalColumns.REFEREE: referee,
                       OriginalColumns.TOTAL_POINTS: total_points,
                       OriginalColumns.RESULT: result,
@@ -177,7 +180,7 @@ def scrape_results(url):
                                OriginalColumns.TEAM2_NAME: team1_name,
                                OriginalColumns.TEAM2_POINTS: team1_points,
                                OriginalColumns.VENUE: venue,
-                               OriginalColumns.TEAM_TYPE: "away",
+                               OriginalColumns.TEAM_TYPE: TeamTypes.AWAY,
                                OriginalColumns.REFEREE: referee,
                                OriginalColumns.TOTAL_POINTS: total_points,
                                OriginalColumns.RESULT: result_flipped,
