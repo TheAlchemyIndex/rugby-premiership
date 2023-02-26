@@ -1,10 +1,10 @@
 from srs.premiership.main.wikipedia.constants.matchData import Teams, ScoringTypes
 from srs.premiership.main.wikipedia.constants.columns import OriginalColumns
 from srs.premiership.main.wikipedia.scraper.formatters.scoringDataFormatter.ScoringDataFormatter import scoring_data_formatter
-from srs.premiership.main.wikipedia.scraper.pageHtml.WikiHtmlParser import parse
+from srs.premiership.main.wikipedia.scraper.pageHtml.HtmlParser import parse
 from srs.premiership.main.wikipedia.scraper.formatters.teamNameFormatter.TeamNameFormatter import team_name_formatter
 from srs.premiership.main.wikipedia.scraper.formatters.scoreFormatter.ScoreFormatter import score_formatter
-from srs.premiership.main.wikipedia.scraper.pageHtml.WikiTagExtractor import tag_extractor
+from srs.premiership.main.wikipedia.scraper.pageHtml.TagExtractor import extract_tags
 from srs.premiership.main.wikipedia.scraper.formatters.dateFormatter.DateFormatter import date_formatter
 from srs.premiership.main.wikipedia.scraper.formatters.matchDetailsFormatter.MatchDetailsFormatter import match_details_formatter
 
@@ -20,7 +20,7 @@ def scrape_results(url):
     divs = parse(url)
 
     # Creates list of information about each match from divs
-    data = tag_extractor(divs)
+    data = extract_tags(divs)
 
     results = []
     count = 0
