@@ -19,6 +19,5 @@ def parse(url: str) -> ResultSet[str]:
 
     # Gets div tags that match class of "vevent summary"
     divs: ResultSet[str] = DivFinder.get_divs(soup_br_replaced, "vevent summary")
-    print(divs)
 
     return divs
