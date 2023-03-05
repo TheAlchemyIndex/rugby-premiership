@@ -1,8 +1,11 @@
 import shutil
-from srs.premiership.main.wikipedia.constants import Urls, Directories
+
 from srs.premiership.main.wikipedia.constants.columns import OriginalColumns
 from srs.premiership.main.wikipedia.scraper.writers.CsvWriter import write_to_csv
 from srs.premiership.main.wikipedia.scraper.seasons.SeasonScraper import scrape_results
+from srs.premiership.main.wikipedia.scraper.writers.util.GenerateFileName import generate_individual_file_name, \
+    generate_grouped_file_name
+from srs.premiership.main.wikipedia.scraper.writers.util.GenerateUrl import generate_url
 
 # Constant list for field names
 FIELD_NAMES = [OriginalColumns.DATE,
@@ -43,10 +46,9 @@ def write_to_individual_files(first_season_start, first_season_end, last_season_
     """
     # Loop continues until last_season_end is reached
     while first_season_end <= last_season_end:
-        url = Urls.PREMIERSHIP_URL_START + str(first_season_start) + "-" + str(first_season_end) \
-              + Urls.PREMIERSHIP_URL_END
-        file_name = Directories.INDIVIDUAL + str(first_season_start) + "-" + str(first_season_end) \
-                    + Directories.FILE_NAME_SINGLE_SEASONS_END
+        url = generate_url(first_season_start, first_season_end)
+
+        file_name = generate_individual_file_name(first_season_start, first_season_end)
 
         write_to_csv(scrape_results(url), file_name, FIELD_NAMES, "w")
         first_season_start += 1
@@ -60,16 +62,14 @@ def write_to_single_file(first_season_start, first_season_end, last_season_end):
     :param first_season_end: The last 2 numbers of the first season to be scrapped and written to csv (e.g., 11)
     :param last_season_end: The last 2 numbers of the final season to be scrapped and written to csv (e.g., 23)
     """
-    file_name = Directories.GROUPED + Directories.FILE_NAME_ALL_SEASONS_START + str(first_season_start) \
-                + "-" + str(last_season_end) + ".csv"
+    file_name = generate_grouped_file_name(first_season_start, last_season_end)
 
     # Flag to check if the first season in range has been written to file
     first_season = True
 
     # Loop continues until last_season_end is reached
     while first_season_end <= last_season_end:
-        url = Urls.PREMIERSHIP_URL_START + str(first_season_start) + "-" + str(first_season_end) \
-              + Urls.PREMIERSHIP_URL_END
+        url = generate_url(first_season_start, first_season_end)
 
         # If the first season in range is being written, the existing file is overwritten
         if first_season:
@@ -95,15 +95,14 @@ def write_recent_results(first_season_start, last_season_end, recent_season_star
                                 seasons data (e.g., 23)
     """
     # File name of previous season data to be appended to
-    old_file_name = Directories.GROUPED + Directories.FILE_NAME_ALL_SEASONS_START + str(first_season_start) \
-                    + "-" + str(last_season_end) + ".csv"
+    old_file_name = generate_grouped_file_name(first_season_start, last_season_end)
+
     # New file name for previous season data and current season data
-    new_file_name = Directories.GROUPED + Directories.FILE_NAME_ALL_SEASONS_START + str(first_season_start) \
-                    + "-" + str(recent_season_end) + ".csv"
+    new_file_name = generate_grouped_file_name(first_season_start, recent_season_end)
+
     # Creates copy of old_file_name and renames as new_file_name, so current season data can be appended to it
     shutil.copy(old_file_name, new_file_name)
 
-    url = Urls.PREMIERSHIP_URL_START + str(recent_season_start) + "-" + str(recent_season_end) \
-          + Urls.PREMIERSHIP_URL_END
+    url = generate_url(recent_season_start, recent_season_end)
 
     write_to_csv(scrape_results(url), new_file_name, FIELD_NAMES, "a")
